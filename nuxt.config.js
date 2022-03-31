@@ -1,6 +1,6 @@
 const TITLE = 'Conseil Logiciel & Web Charlevoix'
 const DESCRIPTION =
-  "Conseil en TI, conception de logiciels, réalisation d'applications web et création de sites internet sur-mesure, au coeur de Charlevoix (La Malbaie, Clermont)"
+  "Conseil en TI, conception de logiciels, réalisation d'applications web et création de sites internet sur-mesure dans Charlevoix (La Malbaie, Clermont)"
 const LANG = 'fr'
 
 export default {

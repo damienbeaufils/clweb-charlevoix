@@ -97,7 +97,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'Pour la conception et création d’un logiciel ou site web sur-mesure, de qualité, adapté à vos besoins et contraintes',
+            'Nous pouvons concevoir un logiciel ou créer un site web sur-mesure, de qualité, adapté à vos besoins et contraintes',
         },
       ],
     }

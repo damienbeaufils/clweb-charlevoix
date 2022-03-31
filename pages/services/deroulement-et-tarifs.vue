@@ -102,14 +102,13 @@
 export default {
   head() {
     return {
-      title:
-        "Déroulement d'une prestation et tarifs | Services | CLWeb Charlevoix",
+      title: 'Fonctionnement et tarifs | Services | CLWeb Charlevoix',
       meta: [
         {
           hid: 'description',
           name: 'description',
           content:
-            'Comment se déroule une prestation de service ? À quel tarif ?',
+            'Comment nos mandats se déroulent-ils ? Comment fonctionne une prestation de service ? À quels tarifs ?',
         },
       ],
     }

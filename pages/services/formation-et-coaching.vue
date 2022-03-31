@@ -71,14 +71,13 @@
 export default {
   head() {
     return {
-      title:
-        "Coaching et formation d'équipes de développement | Services | CLWeb Charlevoix",
+      title: "Coaching & formation d'équipes | Services | CLWeb Charlevoix",
       meta: [
         {
           hid: 'description',
           name: 'description',
           content:
-            'Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie',
+            'Nous pouvons accompagner et former aux pratiques de qualité une ou plusieurs équipes de développement de votre compagnie',
         },
       ],
     }

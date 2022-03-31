@@ -94,7 +94,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'Pour vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie',
+            'Nous pouvons vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie',
         },
       ],
     }

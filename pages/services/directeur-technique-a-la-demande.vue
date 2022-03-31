@@ -65,14 +65,13 @@
 export default {
   head() {
     return {
-      title:
-        'Directeur Techique à la demande (CTO-as-a-Service) | Services | CLWeb Charlevoix',
+      title: 'Direction Technique | Services | CLWeb Charlevoix',
       meta: [
         {
           hid: 'description',
           name: 'description',
           content:
-            'Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois',
+            'Nous pouvons occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois (CTO-as-a-Service)',
         },
       ],
     }
