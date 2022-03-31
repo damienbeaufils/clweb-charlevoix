@@ -50,7 +50,7 @@ export default {
         src: 'https://www.googletagmanager.com/gtag/js?id=G-YPRV1NNYKZ',
         async: true,
       },
-      { src: 'js/gtag.js' },
+      { src: '/js/gtag.js' },
     ],
   },
 
