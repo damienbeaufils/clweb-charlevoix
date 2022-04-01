@@ -34,27 +34,69 @@
                 Exemples de mandats de conseils :
                 <ul>
                   <li>
-                    Vous souhaitez faire évoluer drastiquement votre site web
-                    mais vous ne savez pas s’il est mieux de modifier le site
-                    existant avec ses contraintes ou s’il serait plus simple de
-                    concevoir un tout nouveau site adapté à vos nouveaux
-                    besoins,
+                    Vous souhaitez
+                    <b>faire évoluer drastiquement votre site web</b> et vous ne
+                    savez pas s’il est mieux de modifier le site existant avec
+                    ses contraintes ou s’il serait plus simple de concevoir un
+                    tout nouveau site adapté à vos nouveaux besoins,
                   </li>
                   <li>
                     Vous stockez des outils et données dans votre compagnie et
-                    vous hésitez à prendre le virage de l’infonuagique pour
-                    réduire vos coûts de structure,
+                    vous hésitez à
+                    <b
+                      >prendre le virage de l’infonuagique pour réduire vos
+                      coûts de structure</b
+                    >,
                   </li>
                   <li>
-                    Vous souhaitez rendre accessible sur cellulaire et tablette
-                    votre logiciel ou site web mais vous voudriez connaitre la
+                    Vous souhaitez
+                    <b>rendre accessible sur cellulaire et tablette</b>
+                    votre logiciel ou site web et vous voudriez connaitre la
                     faisabilité,
                   </li>
                   <li>
-                    Vous souhaitez analyser le niveau de qualité d’un logiciel
-                    ou site web existant.
+                    Vous souhaitez prendre le virage numérique et
+                    <b
+                      >avoir une clientèle virtuelle en plus de votre clientèle
+                      physique</b
+                    >
+                    et vous ne savez pas par quel bout commencer,
+                  </li>
+                  <li>
+                    Vous souhaitez savoir comment agréger ou consolider votre
+                    présence en ligne, afin d'avoir un
+                    <b>meilleur référencement sur les moteurs de recherche</b>
+                    et de pouvoir
+                    <b
+                      >fournir une porte d'entrée unique et simple à vos
+                      clients</b
+                    >,
+                  </li>
+                  <li>
+                    Vous stockez des données et vous voudriez vous assurer que
+                    les
+                    <b
+                      >informations personnelles de vos clients sont bien
+                      sécurisées</b
+                    >
+                    selon l'état de l'art,
+                  </li>
+                  <li>
+                    Vous souhaitez analyser le <b>niveau de qualité</b> d’un
+                    logiciel ou site web existant.
                   </li>
                 </ul>
+              </base-text>
+
+              <base-text class="mt-5">
+                Pour identifier correctement votre besoin, nous aurons besoin
+                d'une première rencontre afin que vous nous exposiez vos
+                problématiques et vos contraintes. Suite à cette rencontre, nous
+                pourrons vous faire une
+                <b
+                  >proposition de mandat de conseil correspondant à votre budget
+                  et votre réalité</b
+                >.
               </base-text>
 
               <div class="text-center">
