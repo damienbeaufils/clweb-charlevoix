@@ -63,8 +63,29 @@
               </base-text>
 
               <base-text>
-                Mes autres passions ? La randonnée dans la nature québecoise et
-                la photographie de paysage.
+                En 2018, j'ai pris la décision d'émigrer de la France pour
+                m'installer au Québec, à Montréal. Après de nombreuses
+                pérégrinations dans les différentes régions du Québec, et ayant
+                un fort attrait pour la campagne et la nature,
+                <b>je suis tombé en amour avec la région de Charlevoix</b>,
+                bordée d'un côté par le magnifique fleuve Saint-Laurent et de
+                l'autre par la majestueuse chaîne de montagne des Laurentides.
+              </base-text>
+
+              <base-text>
+                J'ai décidé de faire le grand move en 2022 en quittant Montréal
+                pour m'installer dans la région de Charlevoix-Est, à Clermont.
+                C'est alors que j'ai décidé de me lancer dans l'aventure
+                entrepreunariale, pour
+                <b
+                  >mettre à profit mes compétences et mes expertises au service
+                  des compagnies de la région</b
+                >.
+              </base-text>
+
+              <base-text>
+                Mes autres passions ? La randonnée pédestre dans la nature
+                québecoise et la photographie de paysage.
               </base-text>
 
               <div class="text-center">
@@ -127,7 +148,7 @@
 export default {
   head() {
     return {
-      title: 'Notre équipe | CLWeb Charlevoix',
+      title: 'Damien Beaufils | Notre équipe | CLWeb Charlevoix',
       meta: [
         {
           hid: 'description',
