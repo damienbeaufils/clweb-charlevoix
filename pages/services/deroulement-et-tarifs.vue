@@ -13,12 +13,12 @@
               <base-heading class="mt-10 mb-5">
                 Déroulement d'une prestation et tarifs
               </base-heading>
-              <base-text class="mt-5">
+              <base-text>
                 Chaque client a ses propres besoins et problématiques dépendant
                 de son contexte, c'est pourquoi chaque prestation est différente
                 d'un client à l'autre.
               </base-text>
-              <base-text class="mt-5">
+              <base-text>
                 Néanmoins, dans les grandes lignes, le déroulement d'une
                 prestation peut se présenter comme ceci :
                 <ul>
@@ -57,7 +57,7 @@
                 </ul>
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Chaque mandat étant unique, les tarifs peuvent varier d'un
                 mandat à l'autre. Néanmoins, les principaux paramètres qui vont
                 avoir un impact sur les tarifs sont :
@@ -69,6 +69,35 @@
                   <li>La durée du mandat ;</li>
                   <li>Les déplacements.</li>
                 </ul>
+              </base-text>
+
+              <base-text>
+                Nous proposons également des <b>tarifs préférentiels</b> si vous
+                êtes une <b>compagnie de la région de Charlevoix</b>, ou si vous
+                êtes enregistrés en tant qu'<b>organisme de bienfaisance</b>. En
+                effet, nous croyons fermement à l'approche locale pour
+                développer l'activité commerciale dans nos régions.
+              </base-text>
+
+              <base-text>
+                <b>Vous avez un besoin ou une idée de projet</b> et vous ne
+                savez pas combien cela peut vous coûter ? Vous pouvez nous
+                contacter et nous ferons une première rencontre afin de
+                <b>répondre à vos questions</b> et
+                <b
+                  >vous donner une meilleure idée de la faisabilité de votre
+                  projet</b
+                >
+                selon votre budget. <br />Vous pouvez également nous contacter
+                pour simplement
+                <b
+                  >savoir ce qu'il est possible de faire avec votre budget
+                  actuel</b
+                >. <br />Dans tous les cas,
+                <b
+                  >nous nous rendrons disponibles pour répondre à vos questions
+                  et vous guider dans vos choix</b
+                >.
               </base-text>
 
               <div class="text-center">

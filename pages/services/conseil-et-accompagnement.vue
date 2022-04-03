@@ -17,20 +17,20 @@
                 Pour vous conseiller dans la prise de décisions importantes et
                 structurantes pour votre compagnie
               </base-subheading>
-              <base-text class="mt-5">
+              <base-text>
                 Vous devez
                 <b>prendre une décision importante et structurante</b>
                 concernant vos logiciels existants ou futurs, votre site web, le
                 stockage de vos données ou encore votre système d’information
                 dans son ensemble ?
               </base-text>
-              <base-text class="mt-5">
+              <base-text>
                 Nous pouvons vous accompagner dans un temps déterminé en
                 réalisant une
                 <b>analyse poussée de votre besoin et de vos contraintes</b>, et
                 en vous <b>conseillant dans votre prise de décision</b>.
               </base-text>
-              <base-text class="mt-5">
+              <base-text>
                 Exemples de mandats de conseils :
                 <ul>
                   <li>
@@ -88,7 +88,7 @@
                 </ul>
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Pour identifier correctement votre besoin, nous aurons besoin
                 d'une première rencontre afin que vous nous exposiez vos
                 problématiques et vos contraintes. Suite à cette rencontre, nous

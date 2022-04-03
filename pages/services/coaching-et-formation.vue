@@ -17,7 +17,7 @@
                 Pour accompagner et former une ou plusieurs équipes de
                 développement de votre compagnie
               </base-subheading>
-              <base-text class="mt-5">
+              <base-text>
                 Vous avez dans votre compagnie une personne en charge du
                 développement et de la maintenance logicielle, ou bien une
                 équipe de développement complète, et vous souhaitez les
@@ -29,7 +29,7 @@
                 >
                 ?
               </base-text>
-              <base-text class="mt-5">
+              <base-text>
                 Nous pouvons <b>former et accompagner</b> aussi bien sur les
                 pratiques de qualité des développements que sur des technologies
                 spécifiques sur lesquelles nous sommes experts.<br />La
@@ -43,7 +43,7 @@
                 plus besoin d'aucun accompagnement ni coaching une fois le
                 mandat terminé.
               </base-text>
-              <base-text class="mt-5">
+              <base-text>
                 Nous pouvons également intervenir une matinée ou lors d'un
                 <i>Lunch & Learn</i> pour animer des
                 <b>présentations de sensibilisation</b> sur des sujets
@@ -55,14 +55,14 @@
                 via une formation (car il n'y a rien de pire que d'aller à une
                 formation contre son gré).
               </base-text>
-              <base-text class="mt-5">
+              <base-text>
                 Nous pouvons aussi intervenir auprès de vos équipes pour les
                 aider à établir des <b>communautés de pratiques</b>, ce qui
                 permettrait à vos collaborateurs de partager leurs connaissances
                 et leurs intérêts, qu'ils soient techniques ou non, afin de
                 <b>progresser collectivement</b>.
               </base-text>
-              <base-text class="mt-5">
+              <base-text>
                 N'hésitez pas à nous contacter pour nous présenter votre
                 contexte et votre besoin, et nous pourrons vous présenter une
                 <b>proposition adaptée à votre problématique et votre budget</b

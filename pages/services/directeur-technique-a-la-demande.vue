@@ -17,7 +17,7 @@
                 Pour occuper le rôle de Directeur Technique dans votre
                 compagnie, à raison de quelques heures par semaine ou par mois
               </base-subheading>
-              <base-text class="mt-5">
+              <base-text>
                 Vous dirigez une compagnie, vous avez besoin d’une personne sur
                 le long terme pour vous aider à
                 <b
@@ -28,7 +28,7 @@
                 aurait le rôle de directeur technique permanent à temps plein ?
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Qu’il s’agisse de quelques heures par semaine ou simplement
                 d'une journée par mois, nous pouvons vous accompagner en
                 occupant le rôle de directeur technique à temps partiel afin de
@@ -36,7 +36,7 @@
                 >.
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Nous pouvons par exemple vous accompagner dans :
                 <ul>
                   <li>le <b>pilotage de votre budget</b> TI annuel,</li>
@@ -79,7 +79,7 @@
                 </ul>
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Pour identifier correctement votre besoin, nous aurons besoin
                 d'une première rencontre afin que vous nous exposiez vos
                 problématiques et vos contraintes. Suite à cette rencontre, nous
@@ -89,7 +89,7 @@
                   votre réalité</b
                 >.
               </base-text>
-              <base-text class="mt-5">
+              <base-text>
                 Une fois la proposition acceptée, l'accompagnement peut aussi
                 bien se faire à distance avec des outils collaboratifs virtuels,
                 que sur place dans les locaux de votre compagnie.

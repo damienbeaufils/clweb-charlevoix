@@ -12,7 +12,7 @@
             <v-col cols="10">
               <base-heading class="mt-10 mb-5"> Qui suis-je ? </base-heading>
               <base-subheading tag="h2"> Damien Beaufils </base-subheading>
-              <base-text class="mt-5">
+              <base-text>
                 Fort de
                 <b>plus de 15 années d’expérience en développement logiciel</b>,
                 je me suis lancé dans l’entrepreneuriat après avoir passé plus
@@ -22,7 +22,7 @@
                 tailles (de la petite compagnie à la multinationale).
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Lors de ma dernière expérience avant mon saut entrepreneurial,
                 j'ai été <b>Directeur Technique</b> d'une compagnie de conseil
                 en TI pendant plus de 3 ans, en parallèle de mon rôle de

@@ -17,7 +17,7 @@
                 Pour la conception d’un logiciel ou la création d'un site web
                 sur-mesure, de qualité, adapté à vos besoins et contraintes
               </base-subheading>
-              <base-text class="mt-5">
+              <base-text>
                 Vous avez un processus manuel ou semi-automatisé qui vous prend
                 <b>plusieurs heures par semaine ou par mois</b> ?
                 <b>Traité sur papier</b> ou partiellement informatisé ? Avec un
@@ -31,7 +31,7 @@
                 >
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Nous réalisons le développement d’un
                 <b
                   >logiciel ou site web sur-mesure, de qualité, adapté à vos
@@ -40,7 +40,7 @@
                 tablette ou ordinateur.
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Nous fonctionnons avec une <b>approche itérative</b> (<a
                   href="https://fr.wikipedia.org/wiki/M%C3%A9thode_agile"
                   target="_blank"
@@ -66,7 +66,7 @@
                 <b>toujours adapté à votre réalité</b>.
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 <b>La qualité du logiciel est notre priorité</b>. Nous utilisons
                 pour cela des outils et pratiques de code à l’état de l’art,
                 afin de produire un code robuste, fiable et évolutif sur le long
@@ -76,14 +76,14 @@
                 sans avoir à faire table rase au bout de quelques années.
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 Nous pouvons déployer le logiciel ou héberger le site web sur
                 des infrastructures infonuagiques, ici, <b>au Québec</b>, afin
                 d’être au plus proche géographiquement de nos clients et de
                 <b>faire fonctionner l’industrie locale</b>.
               </base-text>
 
-              <base-text class="mt-5">
+              <base-text>
                 En bref, notre mission :
                 <b
                   >concevoir des logiciels de qualité qui répondent à vos
