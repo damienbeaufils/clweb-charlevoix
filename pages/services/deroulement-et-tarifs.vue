@@ -35,7 +35,7 @@
                     ;
                   </li>
                   <li>
-                    Une fois la proposition acceptée, nous pourrons démarrer le
+                    Une fois la proposition acceptée, nous pourrons commencer le
                     travail ;
                   </li>
                   <li>
@@ -88,8 +88,8 @@
                   >vous donner une meilleure idée de la faisabilité de votre
                   projet</b
                 >
-                selon votre budget. <br />Vous pouvez également nous contacter
-                pour simplement
+                selon votre budget. <br />Vous pouvez aussi nous contacter pour
+                simplement
                 <b
                   >savoir ce qu'il est possible de faire avec votre budget
                   actuel</b

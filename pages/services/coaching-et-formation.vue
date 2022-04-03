@@ -50,7 +50,7 @@
                 spécifiques tels que les dernières nouveautés d'une technologie
                 ou bien sur des pratiques de développement logiciel telles que
                 <i>Clean Code</i> ou bien l'éco-conception de services
-                numériques. Ces sensilisations sont idéales pour "donner le
+                numériques. Ces sensibilisations sont idéales pour "donner le
                 goût" à vos équipes d'aller plus loin sur le sujet, notamment
                 via une formation (car il n'y a rien de pire que d'aller à une
                 formation contre son gré).
@@ -100,7 +100,7 @@
 export default {
   head() {
     return {
-      title: "Coaching & formation d'équipes | Services | CLWeb Charlevoix",
+      title: "Coaching et formation d'équipes | Services | CLWeb Charlevoix",
       meta: [
         {
           hid: 'description',

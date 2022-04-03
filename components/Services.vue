@@ -5,20 +5,29 @@
         <v-row align="center" justify="center">
           <v-col cols="12">
             <base-bubble-2 style="transform: translateX(55%)" />
-            <base-heading class="info--text mb-10" tag="h2">
+            <base-heading class="info--text" tag="h2">
               Des services <b>sur-mesure</b> adaptés à votre contexte unique
             </base-heading>
+          </v-col>
 
-            <v-card>
-              <v-card-text class="info--text text-h5 rounded-xl">
-                ️Vous êtes une entreprise de la région de Charlevoix ou un
-                organisme de bienfaisance ? Bénéficiez de tarifs préférentiels !
-              </v-card-text>
-            </v-card>
+          <v-col cols="12">
+            <v-hover v-slot="{ hover }">
+              <v-card
+                to="/services/deroulement-et-tarifs"
+                :elevation="hover ? 12 : 0"
+                class="rounded-l"
+              >
+                <v-card-text class="info--text text-h5 rounded-xl">
+                  ️Vous êtes une entreprise de la région de Charlevoix ou un
+                  organisme de bienfaisance ? Bénéficiez de tarifs préférentiels
+                  !
+                </v-card-text>
+              </v-card>
+            </v-hover>
+          </v-col>
 
-            <div
-              class="info--text text-h6 font-weight-light font-italic mb-0 mt-5"
-            >
+          <v-col cols="12">
+            <div class="info--text text-h6 font-weight-light font-italic mb-0">
               Cliquez sur un élément pour accéder à plus de détails
             </div>
           </v-col>
@@ -98,21 +107,21 @@ export default {
   data: () => ({
     services: [
       {
-        name: 'Conseil & accompagnement',
+        name: 'Conseil et accompagnement',
         icon: 'mdi-lightbulb-on',
         blurb:
           'Pour vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie',
         href: '/services/conseil-et-accompagnement',
       },
       {
-        name: 'Réalisation & hébergement',
+        name: 'Réalisation et hébergement',
         icon: 'mdi-progress-wrench',
         blurb:
           "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et contraintes",
         href: '/services/realisation-et-hebergement',
       },
       {
-        name: 'Directeur Techique à la demande<br/>(<i>CTO-as-a-Service</i>)',
+        name: 'Directeur Technique à la demande<br/>(<i>CTO-as-a-Service</i>)',
         icon: 'mdi-directions-fork',
         blurb:
           'Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois',

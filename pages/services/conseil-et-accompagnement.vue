@@ -11,7 +11,7 @@
           <v-row align="center" justify="center">
             <v-col cols="10">
               <base-heading class="mt-10 mb-5">
-                Conseil & accompagnement
+                Conseil et accompagnement
               </base-heading>
               <base-subheading tag="h2">
                 Pour vous conseiller dans la prise de décisions importantes et
@@ -130,7 +130,7 @@
 export default {
   head() {
     return {
-      title: 'Conseil & accompagnement | Services | CLWeb Charlevoix',
+      title: 'Conseil et accompagnement | Services | CLWeb Charlevoix',
       meta: [
         {
           hid: 'description',

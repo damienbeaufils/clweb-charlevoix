@@ -11,7 +11,7 @@
           <v-row align="center" justify="center">
             <v-col cols="10">
               <base-heading class="mt-10 mb-5">
-                Réalisation & hébergement
+                Réalisation et hébergement
               </base-heading>
               <base-subheading tag="h2">
                 Pour la conception d’un logiciel ou la création d'un site web
@@ -45,8 +45,8 @@
                   href="https://fr.wikipedia.org/wiki/M%C3%A9thode_agile"
                   target="_blank"
                   >pratiques agiles</a
-                >) pour concevoir votre produit en intégrant votre
-                <i>feedback</i> régulièrement.
+                >) pour concevoir votre produit en intégrant vos commentaires
+                régulièrement.
               </base-text>
               <base-text>
                 Concrètement, avant de commencer à écrire toute ligne de code,
@@ -122,7 +122,7 @@
 export default {
   head() {
     return {
-      title: 'Réalisation & hébergement | Services | CLWeb Charlevoix',
+      title: 'Réalisation et hébergement | Services | CLWeb Charlevoix',
       meta: [
         {
           hid: 'description',

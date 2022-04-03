@@ -11,20 +11,20 @@
           <v-row align="center" justify="center">
             <v-col cols="10">
               <base-heading class="mt-10 mb-5">
-                Directeur Techique à la demande (<i>CTO-as-a-Service</i>)
+                Directeur Technique à la demande (<i>CTO-as-a-Service</i>)
               </base-heading>
               <base-subheading tag="h2">
                 Pour occuper le rôle de Directeur Technique dans votre
                 compagnie, à raison de quelques heures par semaine ou par mois
               </base-subheading>
               <base-text>
-                Vous dirigez une compagnie, vous avez besoin d’une personne sur
-                le long terme pour vous aider à
+                Vous dirigez une compagnie et vous avez besoin d’une personne
+                pour vous aider à
                 <b
                   >prendre des décisions relatives aux Technologies de
                   l'Information (TI)</b
                 >
-                mais vous n’avez pas le budget pour embaucher une personne qui
+                ? Vous n’avez pas le budget pour embaucher une personne qui
                 aurait le rôle de directeur technique permanent à temps plein ?
               </base-text>
 

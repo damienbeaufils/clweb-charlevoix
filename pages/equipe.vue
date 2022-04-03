@@ -154,7 +154,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'Experts en développement logiciel, nous avons à coeur de concevoir des produits sur-mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable',
+            'Experts en développement logiciel, nous avons à cœur de concevoir des produits sur-mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable',
         },
       ],
     }

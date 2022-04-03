@@ -11,9 +11,8 @@
         <base-text class="mb-5">
           Nous sommes des
           <b>experts en développement logiciel depuis plus de 15 ans</b>, et
-          nous avons à coeur de concevoir des produits sur-mesure, qui
-          s’adaptent à vos besoins, et où la qualité est un critère non
-          négociable.
+          nous avons à cœur de concevoir des produits sur-mesure, qui s’adaptent
+          à vos besoins, et où la qualité est un critère non négociable.
         </base-text>
         <base-text class="mb-5">
           De plus, nous privilégions les

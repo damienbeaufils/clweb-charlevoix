@@ -24,7 +24,7 @@
             </base-heading>
             <base-subheading tag="h2" class="mt-10 mb-10">
               Réalisation de logiciels, d'applications web et de sites internet
-              <b>sur-mesure</b>, au coeur de Charlevoix
+              <b>sur-mesure</b>, au cœur de Charlevoix
             </base-subheading>
             <base-text>
               Vous avez des contraintes ou des besoins spécifiques ?
