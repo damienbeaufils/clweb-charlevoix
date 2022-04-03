@@ -14,50 +14,81 @@
                 Réalisation & hébergement
               </base-heading>
               <base-subheading tag="h2">
-                Pour la conception et création d’un logiciel ou site web
+                Pour la conception d’un logiciel ou la création d'un site web
                 sur-mesure, de qualité, adapté à vos besoins et contraintes
               </base-subheading>
               <base-text class="mt-5">
-                Vous avez un processus qui vous prend plusieurs heures par
-                semaine ou par mois ? Traité sur papier ? Avec un risque
-                d’erreur ou d’oubli ?
+                Vous avez un processus manuel ou semi-automatisé qui vous prend
+                <b>plusieurs heures par semaine ou par mois</b> ?
+                <b>Traité sur papier</b> ou partiellement informatisé ? Avec un
+                <b>risque d’erreur ou d’oubli</b> ?
                 <br />
                 Votre site web ou votre intranet conçu avec des outils comme Wix
-                ou Wordpress n’est plus adapté à vos besoins ? Vous devez vous
-                adapter à votre logiciel alors qu’il devrait s’adapter à votre
-                processus ?
+                ou Wordpress n’est plus adapté à vos besoins ?
+                <b
+                  >Vous devez vous adapter à votre logiciel alors qu’il devrait
+                  s’adapter à votre vous et votre processus ?</b
+                >
               </base-text>
 
               <base-text class="mt-5">
-                Nous réalisons le développement d’un logiciel ou site web
-                sur-mesure, de qualité, adapté à vos besoins et contraintes, que
-                vous pourrez utiliser aussi bien sur votre cellulaire, tablette
-                ou ordinateur.
+                Nous réalisons le développement d’un
+                <b
+                  >logiciel ou site web sur-mesure, de qualité, adapté à vos
+                  besoins et contraintes</b
+                >, que vous pourrez utiliser aussi bien sur votre cellulaire,
+                tablette ou ordinateur.
               </base-text>
 
               <base-text class="mt-5">
-                Nous fonctionnons avec une approche itérative (méthodologie
-                agile) pour concevoir votre produit en intégrant votre
+                Nous fonctionnons avec une <b>approche itérative</b> (<a
+                  href="https://fr.wikipedia.org/wiki/M%C3%A9thode_agile"
+                  target="_blank"
+                  >pratiques agiles</a
+                >) pour concevoir votre produit en intégrant votre
                 <i>feedback</i> régulièrement.
               </base-text>
+              <base-text>
+                Concrètement, avant de commencer à écrire toute ligne de code,
+                nous avons besoin d'au moins une première rencontre pour bien
+                <b>identifier votre contexte et cadrer votre besoin</b>. Une
+                fois la rencontre effectuée, nous pourrons vous faire une
+                <b
+                  >proposition commerciale adaptée à votre problématique et à
+                  votre budget</b
+                >.
+                <base-text> </base-text>
+                Tout le long du mandat, des <b>rencontres régulières</b> sont
+                planifiées (par exemple aux deux semaines) afin de présenter
+                l'avancement du travail, le restant à faire et les potentielles
+                difficultés rencontrées. Dépendant des résultats et de votre
+                contexte, la portée du mandat peut être ajustée afin qu'il soit
+                <b>toujours adapté à votre réalité</b>.
+              </base-text>
 
               <base-text class="mt-5">
-                La qualité du logiciel est notre priorité. Nous utilisons pour
-                cela des outils et pratiques de code à l’état de l’art, afin de
-                produire un code robuste, fiable et évolutif sur le long terme.
+                <b>La qualité du logiciel est notre priorité</b>. Nous utilisons
+                pour cela des outils et pratiques de code à l’état de l’art,
+                afin de produire un code robuste, fiable et évolutif sur le long
+                terme. L'objectif est que le logiciel ou site web puisse vous
+                accompagner sur plusieurs années,
+                <b>évoluer et s'adapter en même temps que votre compagnie</b>,
+                sans avoir à faire table rase au bout de quelques années.
               </base-text>
 
               <base-text class="mt-5">
                 Nous pouvons déployer le logiciel ou héberger le site web sur
-                des infrastructures infonuagiques, ici, au Québec, afin d’être
-                au plus proche géographiquement de nos clients et de faire
-                fonctionner l’industrie locale.
+                des infrastructures infonuagiques, ici, <b>au Québec</b>, afin
+                d’être au plus proche géographiquement de nos clients et de
+                <b>faire fonctionner l’industrie locale</b>.
               </base-text>
 
               <base-text class="mt-5">
-                En bref, notre mission : concevoir des logiciels de qualité qui
-                répondent à vos besoins, et qui soient évolutifs sur plusieurs
-                années.
+                En bref, notre mission :
+                <b
+                  >concevoir des logiciels de qualité qui répondent à vos
+                  besoins, et qui soient évolutifs sur plusieurs années</b
+                >.
               </base-text>
 
               <div class="text-center">

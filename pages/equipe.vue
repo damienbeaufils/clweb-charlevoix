@@ -166,7 +166,4 @@ export default {
 .greenit {
   border: 1px solid #000;
 }
-.v-application a {
-  color: unset;
-}
 </style>

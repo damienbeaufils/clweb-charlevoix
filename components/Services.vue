@@ -108,7 +108,7 @@ export default {
         name: 'Réalisation & hébergement',
         icon: 'mdi-progress-wrench',
         blurb:
-          'Pour la conception et création d’un logiciel ou site web sur-mesure, de qualité, adapté à vos besoins et contraintes',
+          "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et contraintes",
         href: '/services/realisation-et-hebergement',
       },
       {
