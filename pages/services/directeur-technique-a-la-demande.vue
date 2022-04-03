@@ -13,7 +13,7 @@
               <base-heading class="mt-10 mb-5">
                 Directeur Technique à la demande (<i>CTO-as-a-Service</i>)
               </base-heading>
-              <base-subheading tag="h2">
+              <base-subheading>
                 Pour occuper le rôle de Directeur Technique dans votre
                 compagnie, à raison de quelques heures par semaine ou par mois
               </base-subheading>

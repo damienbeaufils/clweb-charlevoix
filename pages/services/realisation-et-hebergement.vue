@@ -13,7 +13,7 @@
               <base-heading class="mt-10 mb-5">
                 Réalisation et hébergement
               </base-heading>
-              <base-subheading tag="h2">
+              <base-subheading>
                 Pour la conception d’un logiciel ou la création d'un site web
                 sur-mesure, de qualité, adapté à vos besoins et contraintes
               </base-subheading>

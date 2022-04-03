@@ -17,7 +17,7 @@
           style="transform: rotate(180deg) translateX(0%)"
         />
 
-        <base-heading tag="h2" class="mb-15 mt-lg-10 info--text">
+        <base-heading tag="h2" class="mb-10 mb-lg-15 mt-lg-10 info--text">
           Ils nous ont fait confiance
         </base-heading>
 

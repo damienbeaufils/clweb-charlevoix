@@ -19,10 +19,10 @@
       >
         <v-row class="info--text" align="center" justify="center">
           <v-col cols="10">
-            <base-heading class="mt-15">
+            <base-heading class="mt-10 mt-lg-15">
               Fournir des <b>solutions simples</b> à vos problèmes complexes
             </base-heading>
-            <base-subheading tag="h2" class="mt-10 mb-10">
+            <base-subheading class="mt-10 mb-10">
               Réalisation de logiciels, d'applications web et de sites internet
               <b>sur-mesure</b>, au cœur de Charlevoix
             </base-subheading>

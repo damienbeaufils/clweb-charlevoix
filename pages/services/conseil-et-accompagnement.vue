@@ -13,7 +13,7 @@
               <base-heading class="mt-10 mb-5">
                 Conseil et accompagnement
               </base-heading>
-              <base-subheading tag="h2">
+              <base-subheading>
                 Pour vous conseiller dans la prise de décisions importantes et
                 structurantes pour votre compagnie
               </base-subheading>

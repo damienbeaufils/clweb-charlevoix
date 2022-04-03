@@ -4,7 +4,7 @@
       <v-col class="pa-5" cols="12" lg="6">
         <base-bubble-1 style="transform: translate(5%, -5%)" />
 
-        <base-heading class="info--text mb-15" tag="h2">
+        <base-heading class="info--text mb-10 mb-lg-15" tag="h2">
           Pourquoi collaborer avec nous ?
         </base-heading>
 

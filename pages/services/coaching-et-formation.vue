@@ -13,7 +13,7 @@
               <base-heading class="mt-10 mb-5">
                 Coaching et formation d'équipes de développement
               </base-heading>
-              <base-subheading tag="h2">
+              <base-subheading>
                 Pour accompagner et former une ou plusieurs équipes de
                 développement de votre compagnie
               </base-subheading>

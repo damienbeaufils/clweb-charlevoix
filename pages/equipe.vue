@@ -11,7 +11,7 @@
           <v-row align="center" justify="center">
             <v-col cols="10">
               <base-heading class="mt-10 mb-5"> Qui suis-je ? </base-heading>
-              <base-subheading tag="h2"> Damien Beaufils </base-subheading>
+              <base-subheading> Damien Beaufils </base-subheading>
               <base-text>
                 Fort de
                 <b>plus de 15 années d’expérience en développement logiciel</b>,

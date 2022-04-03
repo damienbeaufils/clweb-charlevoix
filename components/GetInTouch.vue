@@ -15,14 +15,14 @@
         <base-heading class="mb-5" tag="h2"> Contactez-nous </base-heading>
 
         <base-subheading class="mt-10 mb-10" tag="p">
-          Envoyez nous directement un courriel à notre adresse
+          Envoyez-nous directement un courriel à notre adresse
           <base-btn href="mailto:contact@clweb-charlevoix.ca">
             contact@clweb-charlevoix.ca
           </base-btn>
         </base-subheading>
 
         <base-subheading class="mb-5" tag="p">
-          Ou bien contactez-nous par ce formulaire
+          Ou bien envoyez-nous un message par ce formulaire
         </base-subheading>
         <v-form
           ref="form"
