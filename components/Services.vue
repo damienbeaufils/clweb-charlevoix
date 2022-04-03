@@ -123,7 +123,7 @@ export default {
         icon: 'mdi-account-multiple-check',
         blurb:
           'Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie',
-        href: '/services/formation-et-coaching',
+        href: '/services/coaching-et-formation',
       },
     ],
   }),
