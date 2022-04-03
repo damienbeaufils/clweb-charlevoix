@@ -100,7 +100,7 @@
 export default {
   head() {
     return {
-      title: "Coaching et formation d'équipes | Services | CLWeb Charlevoix",
+      title: 'Coaching et formation | Services | CLWeb Charlevoix',
       meta: [
         {
           hid: 'description',
