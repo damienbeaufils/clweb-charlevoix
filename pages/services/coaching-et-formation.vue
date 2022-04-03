@@ -11,7 +11,7 @@
           <v-row align="center" justify="center">
             <v-col cols="10">
               <base-heading class="mt-10 mb-5">
-                Coaching et formation d'équipes de développement
+                Coaching et formation
               </base-heading>
               <base-subheading>
                 Pour accompagner et former une ou plusieurs équipes de
@@ -107,6 +107,12 @@ export default {
           name: 'description',
           content:
             'Nous pouvons accompagner et former aux pratiques de qualité une ou plusieurs équipes de développement de votre compagnie',
+        },
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://clweb-charlevoix.ca/services/coaching-et-formation',
         },
       ],
     }

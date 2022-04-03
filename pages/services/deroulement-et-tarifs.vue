@@ -140,6 +140,12 @@ export default {
             'Comment nos mandats se déroulent-ils ? Comment fonctionne une prestation de service ? À quels tarifs ?',
         },
       ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://clweb-charlevoix.ca/services/deroulement-et-tarifs',
+        },
+      ],
     }
   },
 }

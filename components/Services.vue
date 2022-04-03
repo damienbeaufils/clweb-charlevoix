@@ -128,7 +128,7 @@ export default {
         href: '/services/directeur-technique-a-la-demande',
       },
       {
-        name: "Coaching et formation d'équipes de développement",
+        name: 'Coaching et formation',
         icon: 'mdi-account-multiple-check',
         blurb:
           'Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie',

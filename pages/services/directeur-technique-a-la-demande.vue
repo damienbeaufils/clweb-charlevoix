@@ -136,6 +136,12 @@ export default {
             'Nous pouvons occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois (CTO-as-a-Service)',
         },
       ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://clweb-charlevoix.ca/services/directeur-technique-a-la-demande',
+        },
+      ],
     }
   },
 }

@@ -131,6 +131,12 @@ export default {
             'Nous pouvons concevoir un logiciel ou créer un site web sur-mesure, de qualité, adapté à vos besoins et contraintes',
         },
       ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://clweb-charlevoix.ca/services/realisation-et-hebergement',
+        },
+      ],
     }
   },
 }

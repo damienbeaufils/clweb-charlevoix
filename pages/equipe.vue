@@ -157,6 +157,7 @@ export default {
             'Experts en développement logiciel, nous avons à cœur de concevoir des produits sur-mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable',
         },
       ],
+      link: [{ rel: 'canonical', href: 'https://clweb-charlevoix.ca/equipe' }],
     }
   },
 }

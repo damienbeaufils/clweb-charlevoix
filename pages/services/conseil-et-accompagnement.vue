@@ -139,6 +139,12 @@ export default {
             'Nous pouvons vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie',
         },
       ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://clweb-charlevoix.ca/services/conseil-et-accompagnement',
+        },
+      ],
     }
   },
 }
