@@ -26,7 +26,7 @@
         </base-text>
 
         <div class="text-center">
-          <base-btn class="mt-5 mb-10 text-h6 px-10 py-5" nuxt to="/equipe">
+          <base-btn class="mt-5 mb-10 text-h6 px-10 py-5" nuxt to="/equipe/">
             Découvrez notre équipe
           </base-btn>
         </div>

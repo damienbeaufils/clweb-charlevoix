@@ -143,7 +143,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/deroulement-et-tarifs',
+          href: 'https://clweb-charlevoix.ca/services/deroulement-et-tarifs/',
         },
       ],
     }

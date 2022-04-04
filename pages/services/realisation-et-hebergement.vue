@@ -134,7 +134,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/realisation-et-hebergement',
+          href: 'https://clweb-charlevoix.ca/services/realisation-et-hebergement/',
         },
       ],
     }

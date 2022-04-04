@@ -13,7 +13,8 @@
           <v-col cols="12">
             <v-hover v-slot="{ hover }">
               <v-card
-                to="/services/deroulement-et-tarifs"
+                nuxt
+                to="/services/deroulement-et-tarifs/"
                 :elevation="hover ? 12 : 0"
                 class="rounded-l"
               >
@@ -70,7 +71,8 @@
           <v-col cols="12">
             <v-hover v-slot="{ hover }">
               <v-card
-                to="/services/deroulement-et-tarifs"
+                nuxt
+                to="/services/deroulement-et-tarifs/"
                 :elevation="hover ? 12 : 0"
                 class="rounded-l"
               >
@@ -111,28 +113,28 @@ export default {
         icon: 'mdi-lightbulb-on',
         blurb:
           'Pour vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie',
-        href: '/services/conseil-et-accompagnement',
+        href: '/services/conseil-et-accompagnement/',
       },
       {
         name: 'Réalisation et hébergement',
         icon: 'mdi-progress-wrench',
         blurb:
           "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et contraintes",
-        href: '/services/realisation-et-hebergement',
+        href: '/services/realisation-et-hebergement/',
       },
       {
         name: 'Directeur Technique à la demande<br/>(<i>CTO-as-a-Service</i>)',
         icon: 'mdi-directions-fork',
         blurb:
           'Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois',
-        href: '/services/directeur-technique-a-la-demande',
+        href: '/services/directeur-technique-a-la-demande/',
       },
       {
         name: 'Coaching et formation',
         icon: 'mdi-account-multiple-check',
         blurb:
           'Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie',
-        href: '/services/coaching-et-formation',
+        href: '/services/coaching-et-formation/',
       },
     ],
   }),

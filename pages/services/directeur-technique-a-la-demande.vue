@@ -139,7 +139,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/directeur-technique-a-la-demande',
+          href: 'https://clweb-charlevoix.ca/services/directeur-technique-a-la-demande/',
         },
       ],
     }

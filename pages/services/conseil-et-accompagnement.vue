@@ -142,7 +142,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/conseil-et-accompagnement',
+          href: 'https://clweb-charlevoix.ca/services/conseil-et-accompagnement/',
         },
       ],
     }

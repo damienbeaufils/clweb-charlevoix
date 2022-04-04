@@ -112,7 +112,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/coaching-et-formation',
+          href: 'https://clweb-charlevoix.ca/services/coaching-et-formation/',
         },
       ],
     }
