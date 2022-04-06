@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+  <url>
+    <loc>https://clweb-charlevoix.ca/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://clweb-charlevoix.ca/services/deroulement-et-tarifs/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://clweb-charlevoix.ca/services/conseil-et-accompagnement/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://clweb-charlevoix.ca/services/realisation-et-hebergement/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://clweb-charlevoix.ca/services/directeur-technique-a-la-demande/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://clweb-charlevoix.ca/services/coaching-et-formation/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://clweb-charlevoix.ca/equipe/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+</urlset>
