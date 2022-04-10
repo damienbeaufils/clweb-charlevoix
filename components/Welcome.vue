@@ -20,14 +20,14 @@
         <v-row class="info--text" align="center" justify="center">
           <v-col cols="10">
             <base-heading class="mt-10 mt-lg-15">
-              Fournir des <b>solutions simples</b> à vos problèmes complexes
+              Fournir des <b>solutions simples</b> à vos projets complexes
             </base-heading>
             <base-subheading class="mt-10 mb-10">
               Réalisation de logiciels, d'applications web et de sites internet
               <b>sur-mesure</b>, au cœur de Charlevoix
             </base-subheading>
             <base-text>
-              Vous avez des contraintes ou des besoins spécifiques ?
+              Vous avez un contexte ou des besoins spécifiques ?
             </base-text>
             <base-text>
               Les outils tels que Wix, Wordpress ou autres ne répondent pas à

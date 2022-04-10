@@ -15,7 +15,8 @@
               </base-heading>
               <base-subheading>
                 Pour la conception d’un logiciel ou la création d'un site web
-                sur-mesure, de qualité, adapté à vos besoins et contraintes
+                sur-mesure, de qualité, adapté à vos besoins et au cadre de
+                votre projet
               </base-subheading>
               <base-text>
                 Vous avez un processus manuel ou semi-automatisé qui vous prend
@@ -35,7 +36,7 @@
                 Nous réalisons le développement d’un
                 <b
                   >logiciel ou site web sur-mesure, de qualité, adapté à vos
-                  besoins et contraintes</b
+                  besoins et votre contexte</b
                 >, que vous pourrez utiliser aussi bien sur votre cellulaire,
                 tablette ou ordinateur.
               </base-text>
@@ -128,7 +129,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            'Nous pouvons concevoir un logiciel ou créer un site web sur-mesure, de qualité, adapté à vos besoins et contraintes',
+            'Nous pouvons concevoir un logiciel ou créer un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet',
         },
       ],
       link: [

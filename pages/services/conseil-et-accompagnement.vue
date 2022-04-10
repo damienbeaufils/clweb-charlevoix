@@ -27,7 +27,7 @@
               <base-text>
                 Nous pouvons vous accompagner dans un temps déterminé en
                 réalisant une
-                <b>analyse poussée de votre besoin et de vos contraintes</b>, et
+                <b>analyse poussée de votre besoin et de votre contexte</b>, et
                 en vous <b>conseillant dans votre prise de décision</b>.
               </base-text>
               <base-text>
@@ -91,7 +91,7 @@
               <base-text>
                 Pour identifier correctement votre besoin, nous aurons besoin
                 d'une première rencontre afin que vous nous exposiez vos
-                problématiques et vos contraintes. Suite à cette rencontre, nous
+                problématiques et votre contexte. Suite à cette rencontre, nous
                 pourrons vous faire une
                 <b
                   >proposition de mandat de conseil correspondant à votre budget

@@ -82,7 +82,7 @@
               <base-text>
                 Pour identifier correctement votre besoin, nous aurons besoin
                 d'une première rencontre afin que vous nous exposiez vos
-                problématiques et vos contraintes. Suite à cette rencontre, nous
+                problématiques et votre contexte. Suite à cette rencontre, nous
                 pourrons vous faire une
                 <b
                   >proposition d'accompagnement correspondant à votre budget et
