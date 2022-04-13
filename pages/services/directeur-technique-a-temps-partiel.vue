@@ -11,7 +11,7 @@
           <v-row align="center" justify="center">
             <v-col cols="10">
               <base-heading class="mt-10 mb-5">
-                Directeur Technique à la demande (<i>CTO-as-a-Service</i>)
+                Directeur Technique à temps partiel (<i>CTO-as-a-Service</i>)
               </base-heading>
               <base-subheading>
                 Pour occuper le rôle de Directeur Technique dans votre
@@ -139,7 +139,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/directeur-technique-a-la-demande/',
+          href: 'https://clweb-charlevoix.ca/services/directeur-technique-a-temps-partiel/',
         },
       ],
     }

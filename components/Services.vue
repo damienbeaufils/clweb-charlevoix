@@ -123,11 +123,11 @@ export default {
         href: '/services/realisation-et-hebergement/',
       },
       {
-        name: 'Directeur Technique à la demande<br/>(<i>CTO-as-a-Service</i>)',
+        name: 'Directeur Technique à temps partiel<br/>(<i>CTO-as-a-Service</i>)',
         icon: 'mdi-directions-fork',
         blurb:
           'Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois',
-        href: '/services/directeur-technique-a-la-demande/',
+        href: '/services/directeur-technique-a-temps-partiel/',
       },
       {
         name: 'Coaching et formation',
