@@ -85,7 +85,7 @@
 
               <base-text>
                 Mes autres passions ? La randonnée pédestre dans la nature
-                québecoise et la photographie de paysage.
+                québecoise et la photographie animalière et de paysage.
               </base-text>
 
               <div class="text-center">
