@@ -64,11 +64,13 @@
           </div>
           <div class="text-right quotation-mark">”</div>
 
-          <v-img
-            max-width="200px"
-            :src="require('@/static/img/home/logo-panivore.png')"
-            class="mx-auto mb-3 logo"
-          />
+          <a href="https://www.lepanivore.com/commander" target="_blank">
+            <v-img
+              max-width="200px"
+              :src="require('@/static/img/home/logo-panivore.png')"
+              class="mx-auto mb-3 logo"
+            />
+          </a>
         </div>
         <div class="info--text font-italic mt-5">
           Références détaillées disponibles sur demande
