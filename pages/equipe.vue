@@ -54,13 +54,31 @@
 
               <base-text>
                 J'ai eu l'opportunité d'être conférencier dans des conférences
-                techniques renommées telles que Devoxx France.
-                <a
-                  href="https://damienbeaufils.dev/publications/"
-                  target="_blank"
-                  >Cliquez ici pour consulter l'ensemble de mes publications.</a
-                >
+                techniques renommées telles que Devoxx en France ou Web À
+                Québec.
               </base-text>
+
+              <div class="text-center">
+                <iframe
+                  width="800"
+                  height="450"
+                  src="https://www.youtube.com/embed/-Ok_CPuKzAQ"
+                  title="La couverture de code, un indicateur melon d'eau ? - Web À Québec 2022 (WAQ22)"
+                  frameborder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                ></iframe>
+
+                <base-text>
+                  <a
+                    href="https://damienbeaufils.dev/publications/"
+                    target="_blank"
+                    class="text-subtitle-1"
+                    >Cliquez ici pour consulter l'ensemble de mes
+                    publications.</a
+                  >
+                </base-text>
+              </div>
 
               <base-text>
                 En 2018, j'ai pris la décision d'émigrer de la France pour
@@ -166,5 +184,10 @@ export default {
 <style scoped>
 .greenit {
   border: 1px solid #000;
+}
+
+iframe {
+  max-width: 100%;
+  max-height: 50vw;
 }
 </style>
