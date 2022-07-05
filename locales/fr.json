@@ -1,86 +1,109 @@
 {
-  "welcome": {
-    "heading": "Fournir des <b>solutions simples</b> à vos projets complexes",
-    "subheading": "Réalisation de logiciels, d'applications web et de sites internet <b>sur-mesure</b>, au cœur de Charlevoix",
-    "description": [
-      "Vous avez un contexte ou des besoins spécifiques ?",
-      "Les outils tels que Wix, Wordpress ou autres ne répondent pas à vos attentes ?",
-      "Vous cherchez un partenaire dans votre transition vers le numérique afin de gagner en visibilité, en efficacité et en qualité de vie professionnelle ?"
-    ],
-    "contact-us": "Contactez-nous !"
-  },
-  "services": {
-    "heading": "Des services <b>sur-mesure</b> adaptés à votre contexte unique",
-    "promo": "️Vous êtes une entreprise de la région de Charlevoix ou un organisme de bienfaisance ? Bénéficiez de tarifs préférentiels !",
-    "details": "Cliquez sur un élément pour accéder à plus de détails",
-    "more": "Vous souhaitez en savoir plus sur<br class=\"hidden-md-and-down\" /> <b>comment se déroule une prestation</b> ainsi que <b>nos tarifs</b> ? Cliquez ici",
-    "consulting": {
-      "title": "Conseil et accompagnement",
-      "description": "Pour vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie"
-    },
-    "delivery": {
-      "title": "Réalisation et hébergement",
-      "description": "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet"
-    },
-    "cto": {
-      "title": "Directeur Technique à temps partiel<br/>(<i>CTO-as-a-Service</i>)",
-      "description": "Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois"
-    },
-    "coaching": {
-      "title": "Coaching et formation",
-      "description": "Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie"
-    }
-  },
-  "recent-projects": {
-    "heading": "Ils nous ont fait confiance",
-    "subheading": "Laurence Monari et Thomas Morat,<br />propriétaires de la Boulangerie Le Panivore Inc.",
-    "quote": {
-      "intro": "La Boulangerie Le Panivore Inc. tient à remercier chaleureusement Damien Beaufils pour le site web qu’il nous a développé sur mesure. Les multiples fonctionnalités qu’il a intégrées suite à l’analyse de nos besoins nous ont permis de :",
-      "items": [
-        "<b>Centraliser l’ensemble des commandes</b> dans une base de données accessible en tout temps par toute l’équipe,",
-        "<b>Réduire</b> chaque jour <b>de 75 % le temps de planification</b> de la production,",
-        "<b>Réduire de plus de 50 %</b> le temps nécessaire pour produire les factures mensuelles,",
-        "<b>Réduire au minimum le risque d’erreurs</b> lors de la préparation des commandes,",
-        "<b>Gagner en efficacité</b> lors de la cueillette des commandes en magasin."
+  "home": {
+    "welcome": {
+      "heading": "Fournir des <b>solutions simples</b> à vos projets complexes",
+      "subheading": "Réalisation de logiciels, d'applications web et de sites internet <b>sur-mesure</b>, au cœur de Charlevoix",
+      "description": [
+        "Vous avez un contexte ou des besoins spécifiques ?",
+        "Les outils tels que Wix, Wordpress ou autres ne répondent pas à vos attentes ?",
+        "Vous cherchez un partenaire dans votre transition vers le numérique afin de gagner en visibilité, en efficacité et en qualité de vie professionnelle ?"
       ],
-      "outro": "Nous vous recommandons grandement de faire appels aux services de Damien Beaufils ; sa rigueur, ses analyses pointues et ses multiples compétences techniques vous permettront de faire un grand pas en avant."
+      "contact-us": "Contactez-nous !"
     },
-    "references": "Références détaillées disponibles sur demande"
-  },
-  "about": {
-    "heading": "Pourquoi collaborer avec nous ?",
-    "description": [
-      "Nous sommes des <b>experts en développement logiciel depuis plus de 15 ans</b>, et nous avons à cœur de concevoir des produits sur-mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable.",
-      "De plus, nous privilégions les <b>outils et infrastructures locales</b> pour l’hébergement de vos produits, afin de <b>contribuer à l’économie québecoise</b>.",
-      "Collaborer avec nous, c’est aussi établir une <b>relation de confiance et de co-construction</b> qui va au-delà de l’aspect contractuel."
-    ],
-    "team": "Découvrez notre équipe"
-  },
-  "contact": {
-    "heading": "Contactez-nous",
-    "subheading": "Envoyez-nous directement un courriel à notre adresse",
-    "subheading2": "Ou bien envoyez-nous un message par ce formulaire",
-    "form": {
-      "name": {
-        "label": "Votre nom",
-        "validation": {
-          "empty":"Le nom est requis"
-        }
+    "services": {
+      "heading": "Des services <b>sur-mesure</b> adaptés à votre contexte unique",
+      "promo": "️Vous êtes une entreprise de la région de Charlevoix ou un organisme de bienfaisance ? Bénéficiez de tarifs préférentiels !",
+      "details": "Cliquez sur un élément pour accéder à plus de détails",
+      "more": "Vous souhaitez en savoir plus sur<br class=\"hidden-md-and-down\" /> <b>comment se déroule une prestation</b> ainsi que <b>nos tarifs</b> ? Cliquez ici",
+      "consulting": {
+        "title": "Conseil et accompagnement",
+        "description": "Pour vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie"
       },
-      "email": {
-        "label": "Votre adresse électronique",
-        "validation": {
-          "empty":"L'adresse électronique est requise",
-          "invalid": "L'adresse électronique entrée n'est pas valide"
-        }
+      "delivery": {
+        "title": "Réalisation et hébergement",
+        "description": "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet"
       },
-      "message": {
-        "label": "Votre message",
-        "validation": {
-          "empty":"Le message est requis"
-        }
+      "cto": {
+        "title": "Directeur Technique à temps partiel<br/>(<i>CTO-as-a-Service</i>)",
+        "description": "Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois"
       },
-      "submit": "Envoyer"
+      "coaching": {
+        "title": "Coaching et formation",
+        "description": "Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie"
+      }
+    },
+    "recent-projects": {
+      "heading": "Ils nous ont fait confiance",
+      "subheading": "Laurence Monari et Thomas Morat,<br />propriétaires de la Boulangerie Le Panivore Inc.",
+      "quote": {
+        "intro": "La Boulangerie Le Panivore Inc. tient à remercier chaleureusement Damien Beaufils pour le site web qu’il nous a développé sur mesure. Les multiples fonctionnalités qu’il a intégrées suite à l’analyse de nos besoins nous ont permis de :",
+        "items": [
+          "<b>Centraliser l’ensemble des commandes</b> dans une base de données accessible en tout temps par toute l’équipe,",
+          "<b>Réduire</b> chaque jour <b>de 75 % le temps de planification</b> de la production,",
+          "<b>Réduire de plus de 50 %</b> le temps nécessaire pour produire les factures mensuelles,",
+          "<b>Réduire au minimum le risque d’erreurs</b> lors de la préparation des commandes,",
+          "<b>Gagner en efficacité</b> lors de la cueillette des commandes en magasin."
+        ],
+        "outro": "Nous vous recommandons grandement de faire appels aux services de Damien Beaufils ; sa rigueur, ses analyses pointues et ses multiples compétences techniques vous permettront de faire un grand pas en avant."
+      },
+      "references": "Références détaillées disponibles sur demande"
+    },
+    "about": {
+      "heading": "Pourquoi collaborer avec nous ?",
+      "description": [
+        "Nous sommes des <b>experts en développement logiciel depuis plus de 15 ans</b>, et nous avons à cœur de concevoir des produits sur-mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable.",
+        "De plus, nous privilégions les <b>outils et infrastructures locales</b> pour l’hébergement de vos produits, afin de <b>contribuer à l’économie québecoise</b>.",
+        "Collaborer avec nous, c’est aussi établir une <b>relation de confiance et de co-construction</b> qui va au-delà de l’aspect contractuel."
+      ],
+      "team": "Découvrez notre équipe"
+    },
+    "contact": {
+      "heading": "Contactez-nous",
+      "subheading": "Envoyez-nous directement un courriel à notre adresse",
+      "subheading2": "Ou bien envoyez-nous un message par ce formulaire",
+      "form": {
+        "name": {
+          "label": "Votre nom",
+          "validation": {
+            "empty": "Le nom est requis"
+          }
+        },
+        "email": {
+          "label": "Votre adresse électronique",
+          "validation": {
+            "empty": "L'adresse électronique est requise",
+            "invalid": "L'adresse électronique entrée n'est pas valide"
+          }
+        },
+        "message": {
+          "label": "Votre message",
+          "validation": {
+            "empty": "Le message est requis"
+          }
+        },
+        "submit": "Envoyer"
+      }
     }
+  },
+  "team": {
+    "heading": "Qui suis-je ?",
+    "subheading": "Damien Beaufils",
+    "paragraph": [
+      "Fort de <b>plus de 15 années d’expérience en développement logiciel</b>, je me suis lancé dans l’entrepreneuriat après avoir passé plus de la moitié de ma carrière en tant que consultant TI dans des compagnies de différents secteurs d’activité (banque, assurance, énergie, service public, médias, sports...) et de différentes tailles (de la petite compagnie à la multinationale).",
+      "Lors de ma dernière expérience avant mon saut entrepreneurial, j'ai été <b>Directeur Technique</b> d'une compagnie de conseil en TI pendant plus de 3 ans, en parallèle de mon rôle de <b>développeur logiciel</b> et <b>consultant senior</b>.",
+      "<b >Concevoir des logiciels de qualité est ma passion, et j'aime être fier du travail réalisé</b >. En plus de mes mandats, je passe beaucoup de temps à me former constamment pour rester à l’état de l’art de la technologie, ceci afin d’être en capacité de fournir les meilleures solutions pour répondre à vos différentes problématiques.",
+      "Je suis expert dans les pratiques de qualité des développements, appelées aussi pratiques du mouvement <b><i>Software Craftsmanship</i></b> (des pratiques telles que <i>Clean Code</i>, <i>Refactoring</i>, <i>Test Driven Development</i>...) et <b >je suis certifié sur plusieurs technologies ainsi que sur l'éco-conception de service numérique (Éco-TIC)</b >.",
+      "J'ai eu l'opportunité d'être conférencier dans des conférences techniques renommées telles que Devoxx en France ou Web À Québec.",
+      "En 2018, j'ai pris la décision d'émigrer de la France pour m'installer au Québec, à Montréal. Après de nombreuses pérégrinations dans les différentes régions du Québec, et ayant un fort attrait pour la campagne et la nature, <b>je suis tombé en amour avec la région de Charlevoix</b>, bordée d'un côté par le magnifique fleuve Saint-Laurent et de l'autre par la majestueuse chaîne de montagne des Laurentides.",
+      "J'ai décidé de faire le grand move en 2022 en quittant Montréal pour m'installer dans la région de Charlevoix-Est, à Clermont. C'est alors que j'ai décidé de me lancer dans l'aventure entrepreunariale, pour <b >mettre à profit mes compétences et mes expertises au service des compagnies de la région</b >.",
+      "Mes autres passions ? La randonnée pédestre dans la nature québecoise et la photographie animalière et de paysage."
+    ],
+    "publications": "Cliquez ici pour consulter l'ensemble de mes publications.",
+    "more": "Pour en savoir plus, <br />contactez-moi !"
+  },
+  "thank-you": {
+    "subheading": "Merci de nous avoir contacté !",
+    "paragraph": "Nous avons bien reçu votre message et nous vous recontacterons dans les plus brefs délais !",
+    "back": "Retour à l'accueil"
   }
 }

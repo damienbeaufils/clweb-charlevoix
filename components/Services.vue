@@ -6,7 +6,7 @@
           <v-col cols="12">
             <base-bubble-2 style="transform: translateX(55%)" />
             <base-heading class="info--text" tag="h2">
-              <span v-html="$t('services.heading')"></span>
+              <span v-html="$t('home.services.heading')"></span>
             </base-heading>
           </v-col>
 
@@ -19,7 +19,7 @@
                 class="rounded-l"
               >
                 <v-card-text class="info--text text-h5 rounded-xl">
-                  <span v-html="$t('services.promo')"></span>
+                  <span v-html="$t('home.services.promo')"></span>
                 </v-card-text>
               </v-card>
             </v-hover>
@@ -27,7 +27,7 @@
 
           <v-col cols="12">
             <div class="info--text text-h6 font-weight-light font-italic mb-0">
-              <span v-html="$t('services.details')"></span>
+              <span v-html="$t('home.services.details')"></span>
             </div>
           </v-col>
 
@@ -76,7 +76,7 @@
                 class="rounded-l"
               >
                 <v-card-text class="info--text text-h5 rounded-xl">
-                  <span v-html="$t('services.more')"></span>
+                  <span v-html="$t('home.services.more')"></span>
                 </v-card-text>
               </v-card>
             </v-hover>
@@ -105,29 +105,29 @@ export default {
     services() {
       return [
         {
-          name: this.$t('services.consulting.title'),
+          name: this.$t('home.services.consulting.title'),
           icon: 'mdi-lightbulb-on',
-          blurb: this.$t('services.consulting.description'),
+          blurb: this.$t('home.services.consulting.description'),
           href: this.localePath('/services/conseil-et-accompagnement/'),
         },
         {
-          name: this.$t('services.delivery.title'),
+          name: this.$t('home.services.delivery.title'),
           icon: 'mdi-progress-wrench',
-          blurb: this.$t('services.delivery.description'),
+          blurb: this.$t('home.services.delivery.description'),
           href: this.localePath('/services/realisation-et-hebergement/'),
         },
         {
-          name: this.$t('services.cto.title'),
+          name: this.$t('home.services.cto.title'),
           icon: 'mdi-directions-fork',
-          blurb: this.$t('services.cto.description'),
+          blurb: this.$t('home.services.cto.description'),
           href: this.localePath(
             '/services/directeur-technique-a-temps-partiel/'
           ),
         },
         {
-          name: this.$t('services.coaching.title'),
+          name: this.$t('home.services.coaching.title'),
           icon: 'mdi-account-multiple-check',
-          blurb: this.$t('services.coaching.description'),
+          blurb: this.$t('home.services.coaching.description'),
           href: this.localePath('/services/coaching-et-formation/'),
         },
       ]

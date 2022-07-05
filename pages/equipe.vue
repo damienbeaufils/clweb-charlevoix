@@ -10,52 +10,26 @@
         >
           <v-row align="center" justify="center">
             <v-col cols="10">
-              <base-heading class="mt-10 mb-5"> Qui suis-je ? </base-heading>
-              <base-subheading> Damien Beaufils </base-subheading>
+              <base-heading class="mt-10 mb-5"
+                ><span v-html="$t('team.heading')"></span
+              ></base-heading>
+              <base-subheading
+                ><span v-html="$t('team.subheading')"></span
+              ></base-subheading>
               <base-text>
-                Fort de
-                <b>plus de 15 années d’expérience en développement logiciel</b>,
-                je me suis lancé dans l’entrepreneuriat après avoir passé plus
-                de la moitié de ma carrière en tant que consultant TI dans des
-                compagnies de différents secteurs d’activité (banque, assurance,
-                énergie, service public, médias, sports...) et de différentes
-                tailles (de la petite compagnie à la multinationale).
+                <span v-html="$t('team.paragraph[0]')"></span>
               </base-text>
-
               <base-text>
-                Lors de ma dernière expérience avant mon saut entrepreneurial,
-                j'ai été <b>Directeur Technique</b> d'une compagnie de conseil
-                en TI pendant plus de 3 ans, en parallèle de mon rôle de
-                <b>développeur logiciel</b> et <b>consultant senior</b>.
+                <span v-html="$t('team.paragraph[1]')"></span>
               </base-text>
-
               <base-text>
-                <b
-                  >Concevoir des logiciels de qualité est ma passion, et j'aime
-                  être fier du travail réalisé</b
-                >. En plus de mes mandats, je passe beaucoup de temps à me
-                former constamment pour rester à l’état de l’art de la
-                technologie, ceci afin d’être en capacité de fournir les
-                meilleures solutions pour répondre à vos différentes
-                problématiques.
+                <span v-html="$t('team.paragraph[2]')"></span>
               </base-text>
-
               <base-text>
-                Je suis expert dans les pratiques de qualité des développements,
-                appelées aussi pratiques du mouvement
-                <b><i>Software Craftsmanship</i></b> (des pratiques telles que
-                <i>Clean Code</i>, <i>Refactoring</i>,
-                <i>Test Driven Development</i>...) et
-                <b
-                  >je suis certifié sur plusieurs technologies ainsi que sur
-                  l'éco-conception de service numérique (Éco-TIC)</b
-                >.
+                <span v-html="$t('team.paragraph[3]')"></span>
               </base-text>
-
               <base-text>
-                J'ai eu l'opportunité d'être conférencier dans des conférences
-                techniques renommées telles que Devoxx en France ou Web À
-                Québec.
+                <span v-html="$t('team.paragraph[4]')"></span>
               </base-text>
 
               <div class="text-center">
@@ -74,36 +48,19 @@
                     href="https://damienbeaufils.dev/publications/"
                     target="_blank"
                     class="text-subtitle-1"
-                    >Cliquez ici pour consulter l'ensemble de mes
-                    publications.</a
-                  >
+                    ><span v-html="$t('team.publications')"></span
+                  ></a>
                 </base-text>
               </div>
 
               <base-text>
-                En 2018, j'ai pris la décision d'émigrer de la France pour
-                m'installer au Québec, à Montréal. Après de nombreuses
-                pérégrinations dans les différentes régions du Québec, et ayant
-                un fort attrait pour la campagne et la nature,
-                <b>je suis tombé en amour avec la région de Charlevoix</b>,
-                bordée d'un côté par le magnifique fleuve Saint-Laurent et de
-                l'autre par la majestueuse chaîne de montagne des Laurentides.
+                <span v-html="$t('team.paragraph[5]')"></span>
               </base-text>
-
               <base-text>
-                J'ai décidé de faire le grand move en 2022 en quittant Montréal
-                pour m'installer dans la région de Charlevoix-Est, à Clermont.
-                C'est alors que j'ai décidé de me lancer dans l'aventure
-                entrepreunariale, pour
-                <b
-                  >mettre à profit mes compétences et mes expertises au service
-                  des compagnies de la région</b
-                >.
+                <span v-html="$t('team.paragraph[6]')"></span>
               </base-text>
-
               <base-text>
-                Mes autres passions ? La randonnée pédestre dans la nature
-                québecoise et la photographie animalière et de paysage.
+                <span v-html="$t('team.paragraph[7]')"></span>
               </base-text>
 
               <div class="text-center">
@@ -112,7 +69,7 @@
                   to="/#contact"
                   class="mt-5 mb-10 text-h6 px-10 py-10"
                 >
-                  Pour en savoir plus, <br />contactez-moi !
+                  <span v-html="$t('team.more')"></span>
                 </base-btn>
               </div>
 

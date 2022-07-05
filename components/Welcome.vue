@@ -20,19 +20,19 @@
         <v-row class="info--text" align="center" justify="center">
           <v-col cols="10">
             <base-heading class="mt-10 mt-lg-15">
-              <span v-html="$t('welcome.heading')"></span>
+              <span v-html="$t('home.welcome.heading')"></span>
             </base-heading>
             <base-subheading class="mt-10 mb-10">
-              <span v-html="$t('welcome.subheading')"></span>
+              <span v-html="$t('home.welcome.subheading')"></span>
             </base-subheading>
             <base-text>
-              <span v-html="$t('welcome.description[0]')"></span>
+              <span v-html="$t('home.welcome.description[0]')"></span>
             </base-text>
             <base-text>
-              <span v-html="$t('welcome.description[1]')"></span>
+              <span v-html="$t('home.welcome.description[1]')"></span>
             </base-text>
             <base-text>
-              <span v-html="$t('welcome.description[2]')"></span>
+              <span v-html="$t('home.welcome.description[2]')"></span>
             </base-text>
             <div class="text-center">
               <base-btn
@@ -40,7 +40,7 @@
                 to="/#contact"
                 class="mt-5 mb-10 text-h6 px-10 py-5"
               >
-                <span v-html="$t('welcome.contact-us')"></span>
+                <span v-html="$t('home.welcome.contact-us')"></span>
               </base-btn>
             </div>
           </v-col>

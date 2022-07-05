@@ -13,18 +13,18 @@
         <base-bubble-1 style="transform: rotate(180deg) translateX(-40%)" />
 
         <base-heading class="mb-5" tag="h2"
-          ><span v-html="$t('contact.heading')"></span
+          ><span v-html="$t('home.contact.heading')"></span
         ></base-heading>
 
         <base-subheading class="mt-10 mb-10" tag="p">
-          <span v-html="$t('contact.subheading')"></span>
+          <span v-html="$t('home.contact.subheading')"></span>
           <base-btn href="mailto:contact@clweb-charlevoix.ca">
             contact@clweb-charlevoix.ca
           </base-btn>
         </base-subheading>
 
         <base-subheading class="mb-5" tag="p">
-          <span v-html="$t('contact.subheading2')"></span>
+          <span v-html="$t('home.contact.subheading2')"></span>
         </base-subheading>
         <v-form
           ref="form"
@@ -38,34 +38,38 @@
             color="info"
             type="text"
             name="name"
-            :label="$t('contact.form.name.label')"
+            :label="$t('home.contact.form.name.label')"
             solo
             flat
-            :rules="[(v) => !!v || $t('contact.form.name.validation.empty')]"
+            :rules="[
+              (v) => !!v || $t('home.contact.form.name.validation.empty'),
+            ]"
           />
 
           <v-text-field
             color="info"
-            :label="$t('contact.form.email.label')"
+            :label="$t('home.contact.form.email.label')"
             solo
             flat
             type="email"
             name="email"
             :rules="[
-              (v) => !!v || $t('contact.form.email.validation.empty'),
+              (v) => !!v || $t('home.contact.form.email.validation.empty'),
               (v) =>
                 emailRegex.test(v) ||
-                $t('contact.form.email.validation.invalid'),
+                $t('home.contact.form.email.validation.invalid'),
             ]"
           />
 
           <v-textarea
             color="info"
-            :label="$t('contact.form.message.label')"
+            :label="$t('home.contact.form.message.label')"
             name="message"
             solo
             flat
-            :rules="[(v) => !!v || $t('contact.form.message.validation.empty')]"
+            :rules="[
+              (v) => !!v || $t('home.contact.form.message.validation.empty'),
+            ]"
           />
 
           <base-btn type="submit"> Envoyer </base-btn>

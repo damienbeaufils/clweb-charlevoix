@@ -18,37 +18,37 @@
         />
 
         <base-heading tag="h2" class="mb-10 mb-lg-15 mt-lg-10 info--text">
-          <span v-html="$t('recent-projects.heading')"></span>
+          <span v-html="$t('home.recent-projects.heading')"></span>
         </base-heading>
 
         <base-subheading class="info--text" tag="div">
-          <span v-html="$t('recent-projects.subheading')"></span>
+          <span v-html="$t('home.recent-projects.subheading')"></span>
         </base-subheading>
         <div
           class="speech-bubble mt-10 mx-0 mx-md-15 mx-lg-0 pa-5 pt-0 secondary"
         >
           <div class="text-left quotation-mark">“</div>
           <div class="text-left font-italic text-body-1">
-            <span v-html="$t('recent-projects.quote.intro')"></span>
+            <span v-html="$t('home.recent-projects.quote.intro')"></span>
             <ul>
               <li>
-                <span v-html="$t('recent-projects.quote.items[0]')"></span>
+                <span v-html="$t('home.recent-projects.quote.items[0]')"></span>
               </li>
               <li>
-                <span v-html="$t('recent-projects.quote.items[1]')"></span>
+                <span v-html="$t('home.recent-projects.quote.items[1]')"></span>
               </li>
               <li>
-                <span v-html="$t('recent-projects.quote.items[2]')"></span>
+                <span v-html="$t('home.recent-projects.quote.items[2]')"></span>
               </li>
               <li>
-                <span v-html="$t('recent-projects.quote.items[3]')"></span>
+                <span v-html="$t('home.recent-projects.quote.items[3]')"></span>
               </li>
               <li>
-                <span v-html="$t('recent-projects.quote.items[4]')"></span>
+                <span v-html="$t('home.recent-projects.quote.items[4]')"></span>
               </li>
             </ul>
             <br />
-            <span v-html="$t('recent-projects.quote.outro')"></span>
+            <span v-html="$t('home.recent-projects.quote.outro')"></span>
           </div>
           <div class="text-right quotation-mark">”</div>
 
@@ -61,7 +61,7 @@
           </a>
         </div>
         <div class="info--text font-italic mt-5">
-          <span v-html="$t('recent-projects.references')"></span>
+          <span v-html="$t('home.recent-projects.references')"></span>
         </div>
       </v-col>
     </v-row>
