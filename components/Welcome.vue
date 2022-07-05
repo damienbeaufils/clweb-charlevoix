@@ -20,23 +20,19 @@
         <v-row class="info--text" align="center" justify="center">
           <v-col cols="10">
             <base-heading class="mt-10 mt-lg-15">
-              Fournir des <b>solutions simples</b> à vos projets complexes
+              <span v-html="$t('welcome.heading')"></span>
             </base-heading>
             <base-subheading class="mt-10 mb-10">
-              Réalisation de logiciels, d'applications web et de sites internet
-              <b>sur-mesure</b>, au cœur de Charlevoix
+              <span v-html="$t('welcome.subheading')"></span>
             </base-subheading>
             <base-text>
-              Vous avez un contexte ou des besoins spécifiques ?
+              <span v-html="$t('welcome.description[0]')"></span>
             </base-text>
             <base-text>
-              Les outils tels que Wix, Wordpress ou autres ne répondent pas à
-              vos attentes ?
+              <span v-html="$t('welcome.description[1]')"></span>
             </base-text>
             <base-text>
-              Vous cherchez un partenaire dans votre transition vers le
-              numérique afin de gagner en visibilité, en efficacité et en
-              qualité de vie professionnelle ?
+              <span v-html="$t('welcome.description[2]')"></span>
             </base-text>
             <div class="text-center">
               <base-btn
@@ -44,7 +40,7 @@
                 to="/#contact"
                 class="mt-5 mb-10 text-h6 px-10 py-5"
               >
-                Contactez-nous !
+                <span v-html="$t('welcome.contact-us')"></span>
               </base-btn>
             </div>
           </v-col>

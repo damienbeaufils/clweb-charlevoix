@@ -99,7 +99,52 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
+    // https://i18n-legacy.nuxtjs.org/
+    'nuxt-i18n',
   ],
+
+  i18n: {
+    parsePages: false,
+    langDir: '~/locales/',
+    locales: [
+      { code: 'en', iso: 'en-CA', file: 'en.json', dir: 'ltr' },
+      { code: 'fr', iso: 'fr-CA', file: 'fr.json', dir: 'ltr' },
+    ],
+    defaultLocale: 'fr',
+    vueI18n: {
+      fallbackLocale: 'fr',
+    },
+    pages: {
+      equipe: {
+        en: '/team',
+        fr: '/equipe',
+      },
+      merci: {
+        en: '/thank-you',
+        fr: '/merci',
+      },
+      'services/coaching-et-formation': {
+        en: '/services/coaching-and-training',
+        fr: '/services/coaching-et-formation',
+      },
+      'services/conseil-et-accompagnement': {
+        en: '/services/consulting-and-guidance',
+        fr: '/services/conseil-et-accompagnement',
+      },
+      'services/deroulement-et-tarifs': {
+        en: '/services/process-and-rates',
+        fr: '/services/deroulement-et-tarifs',
+      },
+      'services/directeur-technique-a-temps-partiel': {
+        en: '/services/cto-as-a-service',
+        fr: '/services/directeur-technique-a-temps-partiel',
+      },
+      'services/realisation-et-hebergement': {
+        en: '/services/delivery-and-hosting',
+        fr: '/services/realisation-et-hebergement',
+      },
+    },
+  },
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {

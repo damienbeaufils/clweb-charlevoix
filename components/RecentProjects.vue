@@ -18,49 +18,37 @@
         />
 
         <base-heading tag="h2" class="mb-10 mb-lg-15 mt-lg-10 info--text">
-          Ils nous ont fait confiance
+          <span v-html="$t('recent-projects.heading')"></span>
         </base-heading>
 
         <base-subheading class="info--text" tag="div">
-          Laurence Monari et Thomas Morat,<br />propriétaires de la Boulangerie
-          Le Panivore Inc.
+          <span v-html="$t('recent-projects.subheading')"></span>
         </base-subheading>
         <div
           class="speech-bubble mt-10 mx-0 mx-md-15 mx-lg-0 pa-5 pt-0 secondary"
         >
           <div class="text-left quotation-mark">“</div>
           <div class="text-left font-italic text-body-1">
-            La Boulangerie Le Panivore Inc. tient à remercier chaleureusement
-            Damien Beaufils pour le site web qu’il nous a développé sur mesure.
-            Les multiples fonctionnalités qu’il a intégrées suite à l’analyse de
-            nos besoins nous ont permis de :
+            <span v-html="$t('recent-projects.quote.intro')"></span>
             <ul>
               <li>
-                <b>Centraliser l’ensemble des commandes</b> dans une base de
-                données accessible en tout temps par toute l’équipe,
+                <span v-html="$t('recent-projects.quote.items[0]')"></span>
               </li>
               <li>
-                <b>Réduire</b> chaque jour
-                <b>de 75 % le temps de planification</b> de la production,
+                <span v-html="$t('recent-projects.quote.items[1]')"></span>
               </li>
               <li>
-                <b>Réduire de plus de 50 %</b> le temps nécessaire pour produire
-                les factures mensuelles,
+                <span v-html="$t('recent-projects.quote.items[2]')"></span>
               </li>
               <li>
-                <b>Réduire au minimum le risque d’erreurs</b> lors de la
-                préparation des commandes,
+                <span v-html="$t('recent-projects.quote.items[3]')"></span>
               </li>
               <li>
-                <b>Gagner en efficacité</b> lors de la cueillette des commandes
-                en magasin.
+                <span v-html="$t('recent-projects.quote.items[4]')"></span>
               </li>
             </ul>
             <br />
-            Nous vous recommandons grandement de faire appels aux services de
-            Damien Beaufils ; sa rigueur, ses analyses pointues et ses multiples
-            compétences techniques vous permettront de faire un grand pas en
-            avant.
+            <span v-html="$t('recent-projects.quote.outro')"></span>
           </div>
           <div class="text-right quotation-mark">”</div>
 
@@ -73,7 +61,7 @@
           </a>
         </div>
         <div class="info--text font-italic mt-5">
-          Références détaillées disponibles sur demande
+          <span v-html="$t('recent-projects.references')"></span>
         </div>
       </v-col>
     </v-row>

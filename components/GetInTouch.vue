@@ -12,17 +12,19 @@
       <v-col class="pa-5" cols="12" lg="6">
         <base-bubble-1 style="transform: rotate(180deg) translateX(-40%)" />
 
-        <base-heading class="mb-5" tag="h2"> Contactez-nous </base-heading>
+        <base-heading class="mb-5" tag="h2"
+          ><span v-html="$t('contact.heading')"></span
+        ></base-heading>
 
         <base-subheading class="mt-10 mb-10" tag="p">
-          Envoyez-nous directement un courriel à notre adresse
+          <span v-html="$t('contact.subheading')"></span>
           <base-btn href="mailto:contact@clweb-charlevoix.ca">
             contact@clweb-charlevoix.ca
           </base-btn>
         </base-subheading>
 
         <base-subheading class="mb-5" tag="p">
-          Ou bien envoyez-nous un message par ce formulaire
+          <span v-html="$t('contact.subheading2')"></span>
         </base-subheading>
         <v-form
           ref="form"
@@ -36,34 +38,34 @@
             color="info"
             type="text"
             name="name"
-            label="Votre nom"
+            :label="$t('contact.form.name.label')"
             solo
             flat
-            :rules="[(v) => !!v || 'Le nom est requis']"
+            :rules="[(v) => !!v || $t('contact.form.name.validation.empty')]"
           />
 
           <v-text-field
             color="info"
-            label="Votre adresse électronique"
+            :label="$t('contact.form.email.label')"
             solo
             flat
             type="email"
             name="email"
             :rules="[
-              (v) => !!v || `L'adresse électronique est requise`,
+              (v) => !!v || $t('contact.form.email.validation.empty'),
               (v) =>
                 emailRegex.test(v) ||
-                `L'adresse électronique entrée n'est pas valide`,
+                $t('contact.form.email.validation.invalid'),
             ]"
           />
 
           <v-textarea
             color="info"
-            label="Votre message"
+            :label="$t('contact.form.message.label')"
             name="message"
             solo
             flat
-            :rules="[(v) => !!v || 'Le message est requis']"
+            :rules="[(v) => !!v || $t('contact.form.message.validation.empty')]"
           />
 
           <base-btn type="submit"> Envoyer </base-btn>

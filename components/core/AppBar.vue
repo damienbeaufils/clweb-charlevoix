@@ -2,7 +2,7 @@
   <v-app-bar color="primary" fixed app>
     <v-app-bar-nav-icon class="ml-5" nuxt to="/#accueil">
       <v-img
-        :src="require('@/static/img/clweb_charlevoix_logo.png')"
+        :src="require('@/static/img/header/clweb_charlevoix_logo.png')"
         contain
         height="45"
       />
@@ -22,6 +22,25 @@
       <base-btn nuxt to="/#temoignages" class="mx-3"> Témoignages </base-btn>
       <base-btn nuxt to="/#a-propos" class="mx-3"> Notre équipe </base-btn>
       <base-btn nuxt to="/#contact" class="mx-3"> Contact </base-btn>
+      <v-row align="center" class="ml-3">
+        <nuxt-link :to="switchLocalePath('fr')">
+          <v-img
+            :src="require('@/static/img/header/quebec_flag.png')"
+            alt="Français"
+            contain
+            height="20"
+        /></nuxt-link>
+        <span class="language-switch-separator secondary--text font-weight-bold"
+          >/</span
+        >
+        <nuxt-link :to="switchLocalePath('en')">
+          <v-img
+            :src="require('@/static/img/header/canada_flag.png')"
+            alt="English"
+            contain
+            height="20"
+        /></nuxt-link>
+      </v-row>
     </div>
 
     <v-menu>
@@ -51,6 +70,25 @@
           <v-list-item-title>
             <v-btn text nuxt to="/#contact"> Contact </v-btn>
           </v-list-item-title>
+        </v-list-item>
+        <v-list-item>
+          <v-row align="center" justify="center">
+            <nuxt-link :to="switchLocalePath('fr')">
+              <v-img
+                :src="require('@/static/img/header/quebec_flag.png')"
+                alt="Français"
+                contain
+                height="20"
+            /></nuxt-link>
+            <span class="language-switch-separator font-weight-bold">/</span>
+            <nuxt-link :to="switchLocalePath('en')">
+              <v-img
+                :src="require('@/static/img/header/canada_flag.png')"
+                alt="English"
+                contain
+                height="20"
+            /></nuxt-link>
+          </v-row>
         </v-list-item>
       </v-list>
     </v-menu>
@@ -82,5 +120,9 @@ export default {
 }
 .company-title /deep/ a {
   text-decoration: none;
+}
+.language-switch-separator {
+  margin-left: -0.3rem;
+  margin-right: -0.1rem;
 }
 </style>
