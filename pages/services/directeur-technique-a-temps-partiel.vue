@@ -11,88 +11,113 @@
           <v-row align="center" justify="center">
             <v-col cols="10">
               <base-heading class="mt-10 mb-5">
-                Directeur Technique à temps partiel (<i>CTO-as-a-Service</i>)
+                <span v-html="$t('services.cto-as-a-service.heading')"></span>
               </base-heading>
               <base-subheading>
-                Pour occuper le rôle de Directeur Technique dans votre
-                compagnie, à raison de quelques heures par semaine ou par mois
+                <span
+                  v-html="$t('services.cto-as-a-service.subheading')"
+                ></span>
               </base-subheading>
               <base-text>
-                Vous dirigez une compagnie et vous avez besoin d’une personne
-                pour vous aider à
-                <b
-                  >prendre des décisions relatives aux Technologies de
-                  l'Information (TI)</b
-                >
-                ? Vous n’avez pas le budget pour embaucher une personne qui
-                aurait le rôle de directeur technique permanent à temps plein ?
+                <span
+                  v-html="$t('services.cto-as-a-service.paragraph[0]')"
+                ></span>
               </base-text>
 
               <base-text>
-                Qu’il s’agisse de quelques heures par semaine ou simplement
-                d'une journée par mois, nous pouvons vous accompagner en
-                occupant le rôle de directeur technique à temps partiel afin de
-                <b>vous aider à piloter les ressources TI de votre compagnie</b
-                >.
+                <span
+                  v-html="$t('services.cto-as-a-service.paragraph[1]')"
+                ></span>
               </base-text>
 
               <base-text>
-                Nous pouvons par exemple vous accompagner dans :
+                <span
+                  v-html="$t('services.cto-as-a-service.examples.heading')"
+                ></span>
                 <ul>
-                  <li>le <b>pilotage de votre budget</b> TI annuel,</li>
-                  <li>la <b>gestion du risque</b> et de vos contraintes,</li>
                   <li>
-                    la <b>prise de décisions</b> structurelles pour votre
-                    compagnie,
-                  </li>
-                  <li>l'implantation de nouveaux <b>processus TI</b>,</li>
-                  <li>
-                    la construction d'un parcours de
-                    <b>formation TI</b> interne,
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[0]')"
+                    ></span>
                   </li>
                   <li>
-                    la construction d'une <b>politique de sécurité</b> de votre
-                    système d'information,
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[1]')"
+                    ></span>
                   </li>
                   <li>
-                    le stockage et la
-                    <b>gestion de vos données</b> d'entreprise,
-                  </li>
-                  <li>le choix d'une <b>infrastructure infonuagique</b>,</li>
-                  <li>
-                    le <b>choix d'outils ou de logiciels</b> utilisés par vos
-                    collaborateurs,
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[2]')"
+                    ></span>
                   </li>
                   <li>
-                    le <b>recrutement</b> d'un Directeur Technique, de
-                    développeurs ou de toute autre personne rattachée aux TI,
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[3]')"
+                    ></span>
                   </li>
                   <li>
-                    la <b>réalisation d'appels d'offres</b> pour soumettre des
-                    demandes sur des plateformes telles que SEAO,
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[4]')"
+                    ></span>
                   </li>
                   <li>
-                    le <b>choix de prestataires externes</b> qui répondraient à
-                    vos appels d'offres,
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[5]')"
+                    ></span>
                   </li>
-                  <li>la gestion de la <b>dette technique</b>.</li>
+                  <li>
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[6]')"
+                    ></span>
+                  </li>
+                  <li>
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[7]')"
+                    ></span>
+                  </li>
+                  <li>
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[8]')"
+                    ></span>
+                  </li>
+                  <li>
+                    <span
+                      v-html="$t('services.cto-as-a-service.examples.items[9]')"
+                    ></span>
+                  </li>
+                  <li>
+                    <span
+                      v-html="
+                        $t('services.cto-as-a-service.examples.items[10]')
+                      "
+                    ></span>
+                  </li>
+                  <li>
+                    <span
+                      v-html="
+                        $t('services.cto-as-a-service.examples.items[11]')
+                      "
+                    ></span>
+                  </li>
+                  <li>
+                    <span
+                      v-html="
+                        $t('services.cto-as-a-service.examples.items[12]')
+                      "
+                    ></span>
+                  </li>
                 </ul>
               </base-text>
 
               <base-text>
-                Pour identifier correctement votre besoin, nous aurons besoin
-                d'une première rencontre afin que vous nous exposiez vos
-                problématiques et votre contexte. Suite à cette rencontre, nous
-                pourrons vous faire une
-                <b
-                  >proposition d'accompagnement correspondant à votre budget et
-                  votre réalité</b
-                >.
+                <span
+                  v-html="$t('services.cto-as-a-service.paragraph[2]')"
+                ></span>
               </base-text>
               <base-text>
-                Une fois la proposition acceptée, l'accompagnement peut aussi
-                bien se faire à distance avec des outils collaboratifs virtuels,
-                que sur place dans les locaux de votre compagnie.
+                <span
+                  v-html="$t('services.cto-as-a-service.paragraph[3]')"
+                ></span>
               </base-text>
 
               <div class="text-center">
@@ -101,7 +126,7 @@
                   to="/#contact"
                   class="mt-5 mb-10 text-h6 px-10 py-10"
                 >
-                  Pour en savoir plus, <br />contactez-nous !
+                  <span v-html="$t('services.cto-as-a-service.more')"></span>
                 </base-btn>
               </div>
             </v-col>
