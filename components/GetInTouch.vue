@@ -72,7 +72,9 @@
             ]"
           />
 
-          <base-btn type="submit"> Envoyer </base-btn>
+          <base-btn type="submit"
+            ><span v-html="$t('home.contact.form.submit')"></span
+          ></base-btn>
         </v-form>
       </v-col>
     </v-row>

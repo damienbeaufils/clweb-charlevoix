@@ -12,17 +12,17 @@
     },
     "welcome": {
       "heading": "Provide <b>simple solutions</b> to your complex projects",
-      "subheading": "Software, web applications and websites development <b>tailored to your needs</b>, in the heart of Charlevoix",
+      "subheading": "Software, web applications and websites development <b>tailored to your needs</b>, in the heart of Charlevoix region",
       "description": [
-        "Do you have a specific context or needs?",
+        "You have a specific context or needs?",
         "Tools such as Wix, Wordpress or others do not meet your expectations?",
         "Are you looking for a partner in your digital transition in order to gain visibility, efficiency and a better work-life?"
       ],
       "contact-us": "Contact us!"
     },
     "services": {
-      "heading": "Customized <b>services</b> tailored to your unique context",
-      "promo": "️Are you a Charlevoix area company or a registered charity? Get preferential rates!",
+      "heading": "<b>Customized services</b> tailored to your unique context",
+      "promo": "️Are you a Charlevoix region company or a registered charity? Get preferential rates!",
       "details": "Click on an item to get more details",
       "more": "You want to know more about<br class=\"hidden-md-and-down\" /> <b>how a service is performed</b> and <b>our rates</b> ? Click here",
       "consulting": {
@@ -126,19 +126,19 @@
   "services": {
     "coaching-and-training": {
       "meta": {
-        "title": "Coaching et formation | Services | CLWeb Charlevoix",
-        "description": "Nous pouvons accompagner et former aux pratiques de qualité une ou plusieurs équipes de développement de votre compagnie"
+        "title": "Coaching and training | Services | CLWeb Charlevoix",
+        "description": "We can coach and train one or more of your company's software development teams in quality practices"
       },
-      "heading": "Coaching et formation",
-      "subheading": "Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie",
+      "heading": "Coaching and training",
+      "subheading": "To coach and train one or more of your company's software development teams",
       "paragraph": [
-        "Vous avez dans votre compagnie une personne en charge du développement et de la maintenance logicielle, ou bien une équipe de développement complète, et vous souhaitez les <b>former aux pratiques de qualité</b> ?<br/>Vous êtes vous-mêmes développeur ou développeuse et vous souhaitez progresser dans vos pratiques pour <b>produire du code maintenable et évolutif sur le long terme</b> ?",
-        "Nous pouvons <b>former et accompagner</b> aussi bien sur les pratiques de qualité des développements que sur des technologies spécifiques sur lesquelles nous sommes experts.<br/>La <b>formation</b> peut se dérouler sur un ou plusieurs jours, en ligne ou bien sur place.<br/>L'<b>accompagnement</b> se fait habituellement de manière dégressive : quelques jours par semaine au démarrage, puis une réduction progressive pour finir à quelques heures de coaching par semaine.<br/> Notre objectif est bien que la ou <b>les personnes formées soient autonomes</b> et qu'il n'y ait plus besoin d'aucun accompagnement ni coaching une fois le mandat terminé.",
-        "Nous pouvons également intervenir une matinée ou lors d'un <i>Lunch & Learn</i> pour animer des <b>présentations de sensibilisation</b> sur des sujets spécifiques tels que les dernières nouveautés d'une technologie ou bien sur des pratiques de développement logiciel telles que <i>Clean Code</i> ou bien l'éco-conception de services numériques. Ces sensibilisations sont idéales pour \"donner le goût\" à vos équipes d'aller plus loin sur le sujet, notamment via une formation (car il n'y a rien de pire que d'aller à une formation contre son gré).",
-        "Nous pouvons aussi intervenir auprès de vos équipes pour les aider à établir des <b>communautés de pratiques</b>, ce qui permettrait à vos collaborateurs de partager leurs connaissances et leurs intérêts, qu'ils soient techniques ou non, afin de <b>progresser collectivement</b>.",
-        "N'hésitez pas à nous contacter pour nous présenter votre contexte et votre besoin, et nous pourrons vous présenter une <b>proposition adaptée à votre problématique et votre budget</b>."
+        "You have in your company a person in charge of software development and maintenance, or a complete software development team, and you would like to <b>train them in quality practices</b>?<br/>You are a developer yourself and you want to improve your practices to <b>produce maintainable and scalable code for the long term</b>?",
+        "We can <b>train and coach</b> on both quality software development practices and on specific technologies in which we are experts.<br/><b>Training</b> can be conducted over one or more days, online or on site.<br/><b>Coaching<b/> is usually done in a degressive way: a few days per week at the beginning, then a progressive reduction to a few hours of coaching per week.<br/>Our goal is that the <b>trainee(s) become autonomous</b> and that there is no need for any further support or coaching once the mandate is completed.",
+        "We can also do morning or Lunch & Learn <b>awareness presentations</b> on specific topics such as the latest technology, or software development practices such as Clean Code, or eco-design of digital services. These awareness sessions are ideal to \"give the taste\" to your teams to go further on the topic, for example with a training session (because there is nothing worse than going to a training session against your will).",
+        "We can also help your teams to form <b>communities of practices</b>, which would allow your employees to share their knowledge and interests, whether technical or not, in order to <b>collectively progress</b>.",
+        "Feel free to contact us to explain your context and your needs, and we will be able to present you a <b>proposal adapted to your issues and your budget</b>."
       ],
-      "more": "Pour en savoir plus, <br/>contactez-nous !"
+      "more": "For more information, <br/>contact us!"
     },
     "consulting-and-guidance": {
       "meta": {
