@@ -1,97 +1,97 @@
 {
   "navbar": {
     "services": "Services",
-    "testimonials": "Témoignages",
-    "our-team": "Notre équipe",
+    "testimonials": "Testimonials",
+    "our-team": "Our team",
     "contact": "Contact"
   },
   "home": {
     "meta": {
       "title": "Conseil Logiciel & Web Charlevoix",
-      "description": "Conseil en TI, conception de logiciels, réalisation d'applications web et création de sites internet sur-mesure dans Charlevoix (La Malbaie, Clermont)"
+      "description": "IT consulting, software design, web application development and custom website creation in Charlevoix (La Malbaie, Clermont)"
     },
     "welcome": {
-      "heading": "Fournir des <b>solutions simples</b> à vos projets complexes",
-      "subheading": "Réalisation de logiciels, d'applications web et de sites internet <b>sur-mesure</b>, au cœur de Charlevoix",
+      "heading": "Provide <b>simple solutions</b> to your complex projects",
+      "subheading": "Software, web applications and websites development <b>tailored to your needs</b>, in the heart of Charlevoix",
       "description": [
-        "Vous avez un contexte ou des besoins spécifiques ?",
-        "Les outils tels que Wix, Wordpress ou autres ne répondent pas à vos attentes ?",
-        "Vous cherchez un partenaire dans votre transition vers le numérique afin de gagner en visibilité, en efficacité et en qualité de vie professionnelle ?"
+        "Do you have a specific context or needs?",
+        "Tools such as Wix, Wordpress or others do not meet your expectations?",
+        "Are you looking for a partner in your digital transition in order to gain visibility, efficiency and a better work-life?"
       ],
-      "contact-us": "Contactez-nous !"
+      "contact-us": "Contact us!"
     },
     "services": {
-      "heading": "Des services <b>sur-mesure</b> adaptés à votre contexte unique",
-      "promo": "️Vous êtes une entreprise de la région de Charlevoix ou un organisme de bienfaisance ? Bénéficiez de tarifs préférentiels !",
-      "details": "Cliquez sur un élément pour accéder à plus de détails",
-      "more": "Vous souhaitez en savoir plus sur<br class=\"hidden-md-and-down\" /> <b>comment se déroule une prestation</b> ainsi que <b>nos tarifs</b> ? Cliquez ici",
+      "heading": "Customized <b>services</b> tailored to your unique context",
+      "promo": "️Are you a Charlevoix area company or a registered charity? Get preferential rates!",
+      "details": "Click on an item to get more details",
+      "more": "You want to know more about<br class=\"hidden-md-and-down\" /> <b>how a service is performed</b> and <b>our rates</b> ? Click here",
       "consulting": {
-        "title": "Conseil et accompagnement",
-        "description": "Pour vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie"
+        "title": "Consulting and guidance",
+        "description": "To advise you in making important and structuring decisions for your company"
       },
       "delivery": {
-        "title": "Réalisation et hébergement",
-        "description": "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet"
+        "title": "Delivery and hosting",
+        "description": "For software development or the creation of a custom website, quality, tailored to your needs and your project context"
       },
       "cto": {
-        "title": "Directeur Technique à temps partiel<br/>(<i>CTO-as-a-Service</i>)",
-        "description": "Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois"
+        "title": "Chief Technical Officer (CTO) as a service",
+        "description": "To act as Technical Director in your company, for a few hours per week or per month"
       },
       "coaching": {
-        "title": "Coaching et formation",
-        "description": "Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie"
+        "title": "Coaching and training",
+        "description": "To coach and train one or more of your company's development teams"
       }
     },
     "recent-projects": {
-      "heading": "Ils nous ont fait confiance",
-      "subheading": "Laurence Monari et Thomas Morat,<br/>propriétaires de la Boulangerie Le Panivore Inc.",
+      "heading": "They trusted us",
+      "subheading": "Laurence Monari and Thomas Morat,<br/>owners of the Boulangerie Le Panivore Inc.",
       "quote": {
-        "intro": "La Boulangerie Le Panivore Inc. tient à remercier chaleureusement Damien Beaufils pour le site web qu’il nous a développé sur mesure. Les multiples fonctionnalités qu’il a intégrées suite à l’analyse de nos besoins nous ont permis de :",
+        "intro": "Boulangerie Le Panivore Inc. would like to warmly thank Damien Beaufils for the custom website he developed for us. The multiple features that he integrated following the analysis of our needs allowed us to:",
         "items": [
-          "<b>Centraliser l’ensemble des commandes</b> dans une base de données accessible en tout temps par toute l’équipe,",
-          "<b>Réduire</b> chaque jour <b>de 75 % le temps de planification</b> de la production,",
-          "<b>Réduire de plus de 50 %</b> le temps nécessaire pour produire les factures mensuelles,",
-          "<b>Réduire au minimum le risque d’erreurs</b> lors de la préparation des commandes,",
-          "<b>Gagner en efficacité</b> lors de la cueillette des commandes en magasin."
+          "<b>Centralize all orders</b> in a database accessible anytime by the entire team,",
+          "<b>Reduce production planning time by 75%</b> each day,",
+          "<b>Reduce by over 50%</b> the time needed to produce monthly invoices,",
+          "<b>Minimize the risk of errors</b> during order preparation,",
+          "<b>Increase efficiency</b> when picking up orders in store."
         ],
-        "outro": "Nous vous recommandons grandement de faire appels aux services de Damien Beaufils ; sa rigueur, ses analyses pointues et ses multiples compétences techniques vous permettront de faire un grand pas en avant."
+        "outro": "We highly recommend you to use the services of Damien Beaufils; his professionalism, his accurate analysis and his multiple technical skills will allow you to make a big step forward."
       },
-      "references": "Références détaillées disponibles sur demande"
+      "references": "Detailed references available upon request"
     },
     "about": {
-      "heading": "Pourquoi collaborer avec nous ?",
+      "heading": "Why work with us?",
       "description": [
-        "Nous sommes des <b>experts en développement logiciel depuis plus de 15 ans</b>, et nous avons à cœur de concevoir des produits sur-mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable.",
-        "De plus, nous privilégions les <b>outils et infrastructures locales</b> pour l’hébergement de vos produits, afin de <b>contribuer à l’économie québecoise</b>.",
-        "Collaborer avec nous, c’est aussi établir une <b>relation de confiance et de co-construction</b> qui va au-delà de l’aspect contractuel."
+        "We are <b>experts in software development for more than 15 years</b>, and we are committed to designing custom solutions that fit your needs, and where quality is a non-negotiable.",
+        "Furthermore, we favour <b>local resources and infrastructures</b> for hosting your softwares, in order to <b>contribute to the Canadian economy</b>.",
+        "Working with us also means establishing a <b>trust and co-construction relationship</b> that goes beyond the contractual aspect."
       ],
-      "team": "Découvrez notre équipe"
+      "team": "Meet our team"
     },
     "contact": {
-      "heading": "Contactez-nous",
-      "subheading": "Envoyez-nous directement un courriel à notre adresse",
-      "subheading2": "Ou bien envoyez-nous un message par ce formulaire",
+      "heading": "Contact us",
+      "subheading": "Send us an email directly to our address",
+      "subheading2": "Or send us a message through this form",
       "form": {
         "name": {
-          "label": "Votre nom",
+          "label": "Your name",
           "validation": {
-            "empty": "Le nom est requis"
+            "empty": "Name is required"
           }
         },
         "email": {
-          "label": "Votre adresse électronique",
+          "label": "Your email address",
           "validation": {
-            "empty": "L'adresse électronique est requise",
-            "invalid": "L'adresse électronique entrée n'est pas valide"
+            "empty": "Email address is required",
+            "invalid": "The entered email address is not valid"
           }
         },
         "message": {
-          "label": "Votre message",
+          "label": "Your message",
           "validation": {
-            "empty": "Le message est requis"
+            "empty": "Message is required"
           }
         },
-        "submit": "Envoyer"
+        "submit": "Submit"
       }
     }
   },
@@ -110,7 +110,7 @@
       "J'ai eu l'opportunité d'être conférencier dans des conférences techniques renommées telles que Devoxx en France ou Web À Québec.",
       "En 2018, j'ai pris la décision d'émigrer de la France pour m'installer au Québec, à Montréal. Après de nombreuses pérégrinations dans les différentes régions du Québec, et ayant un fort attrait pour la campagne et la nature, <b>je suis tombé en amour avec la région de Charlevoix</b>, bordée d'un côté par le magnifique fleuve Saint-Laurent et de l'autre par la majestueuse chaîne de montagne des Laurentides.",
       "J'ai décidé de faire le grand move en 2022 en quittant Montréal pour m'installer dans la région de Charlevoix-Est, à Clermont. C'est alors que j'ai décidé de me lancer dans l'aventure entrepreunariale, pour <b>mettre à profit mes compétences et mes expertises au service des compagnies de la région</b>.",
-      "Mes autres passions ? La randonnée pédestre dans la nature québecoise et la photographie animalière et de paysage."
+      "Mes autres passions ? La randonnée pédestre dans la nature québécoise et la photographie animalière et de paysage."
     ],
     "publications": "Cliquez ici pour consulter l'ensemble de mes publications.",
     "more": "Pour en savoir plus, <br/>contactez-moi !"
