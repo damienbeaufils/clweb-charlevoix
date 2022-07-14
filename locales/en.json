@@ -39,7 +39,7 @@
       },
       "coaching": {
         "title": "Coaching and training",
-        "description": "To coach and train one or more of your company's development teams"
+        "description": "To coach and train one or more of your company's software development teams"
       }
     },
     "recent-projects": {
@@ -142,29 +142,29 @@
     },
     "consulting-and-guidance": {
       "meta": {
-        "title": "Conseil et accompagnement | Services | CLWeb Charlevoix",
-        "description": "Nous pouvons vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie"
+        "title": "Consulting and guidance | Services | CLWeb Charlevoix",
+        "description": "We can advise you in making important and strategic decisions for your company"
       },
-      "heading": "Conseil et accompagnement",
-      "subheading": "Pour vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie",
+      "heading": "Consulting and guidance",
+      "subheading": "To advise you in making important and structuring decisions for your company",
       "paragraph": [
-        "Vous devez <b>prendre une décision importante et structurante</b> concernant vos logiciels existants ou futurs, votre site web, le stockage de vos données ou encore votre système d’information dans son ensemble ?",
-        "Nous pouvons vous accompagner dans un temps déterminé en réalisant une <b>analyse poussée de votre besoin et de votre contexte</b>, et en vous <b>conseillant dans votre prise de décision</b>.",
-        "Pour identifier correctement votre besoin, nous aurons besoin d'une première rencontre afin que vous nous exposiez vos problématiques et votre contexte. Suite à cette rencontre, nous pourrons vous faire une <b>proposition de mandat de conseil correspondant à votre budget et votre réalité</b>."
+        "You have to <b>make an important and strategic decision</b> concerning your existing or future software, your website, the storage of your data or your information system overall?",
+        "We can help you in a determined time by conducting a <b>detailed analysis of your needs and your context</b>, and by <b>advising you in your decision making</b>.",
+        "In order to correctly identify your needs, we will need a first meeting for you to explain your problems and your context. Following this meeting, we will be able to make a <b>proposal for a consulting mandate that corresponds to your budget and your reality</b>.",
       ],
       "examples": {
-        "heading": "Exemples de mandats de conseils :",
+        "heading": "Examples of consulting mandates:",
         "items": [
-          "Vous souhaitez <b>faire évoluer drastiquement votre site web</b> et vous ne savez pas s’il est mieux de modifier le site existant avec ses contraintes ou s’il serait plus simple de concevoir un tout nouveau site adapté à vos nouveaux besoins,",
-          "Vous stockez des outils et données dans votre compagnie et vous hésitez à <b>prendre le virage de l’infonuagique pour réduire vos coûts de structure</b>,",
-          "Vous souhaitez <b>rendre accessible sur cellulaire et tablette</b> votre logiciel ou site web et vous voudriez connaitre la faisabilité,",
-          "Vous souhaitez prendre le virage numérique et <b>avoir une clientèle virtuelle en plus de votre clientèle physique</b> et vous ne savez pas par quel bout commencer,",
-          "Vous souhaitez savoir comment agréger ou consolider votre présence en ligne, afin d'avoir un <b>meilleur référencement sur les moteurs de recherche</b> et de pouvoir <b>fournir une porte d'entrée unique et simple à vos clients</b>,",
-          "Vous stockez des données et vous voudriez vous assurer que les <b>informations personnelles de vos clients sont bien sécurisées</b> selon l'état de l'art,",
-          "Vous souhaitez analyser le <b>niveau de qualité</b> d’un logiciel ou site web existant."
+          "You want to <b>significantly upgrade your website</b> and you don't know if it is better to modify the existing website with its constraints or if it would be simpler to develop a brand new website adapted to your new requirements,",
+          "You have tools and data stored in your company and you are hesitating to make the <b>switch to cloud services to reduce your infrastructure costs</b>,",
+          "You want to <b>make your software or website responsive on cell phones and tablets</b> and you would like to know the feasibility,",
+          "You want to shift to a digital platform and <b>gain online customers in addition to your physical ones</b> and you don't know where to start,",
+          "You want to know how to aggregate or consolidate your online presence, in order to have a <b>better ranking on search engines</b> and to be able to <b>provide a single and simple entry point to your customers</b>,",
+          "You store data and would like to ensure that your <b>customers' personal information are secured</b> according to the state of the art,",
+          "You want to analyze the <b>quality level</b> of an existing software or website."
         ]
       },
-      "more": "Pour en savoir plus, <br/>contactez-nous !"
+      "more": "For more information, <br/>contact us!"
     },
     "process-and-rates": {
       "meta": {
