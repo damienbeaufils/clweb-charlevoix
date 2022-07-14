@@ -31,7 +31,7 @@
       },
       "delivery": {
         "title": "Delivery and hosting",
-        "description": "For software development or the creation of a custom website, quality, tailored to your needs and your project context"
+        "description": "For high-quality software development or custom website creation, tailored to your needs and your project context"
       },
       "cto": {
         "title": "Chief Technical Officer (CTO) as a service",
@@ -233,20 +233,20 @@
     },
     "delivery-and-hosting": {
       "meta": {
-        "title": "Réalisation et hébergement | Services | CLWeb Charlevoix",
-        "description": "Nous pouvons concevoir un logiciel ou créer un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet"
+        "title": "Delivery and hosting | Services | CLWeb Charlevoix",
+        "description": "We can develop high-quality software or create a custom website, tailored to your needs and your project context"
       },
-      "heading": "Réalisation et hébergement",
-      "subheading": "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet",
+      "heading": "Delivery and hosting",
+      "subheading": "For high-quality software development or custom website creation, tailored to your needs and your project context",
       "paragraph": [
-        "Vous avez un processus manuel ou semi-automatisé qui vous prend <b>plusieurs heures par semaine ou par mois</b> ? <b>Traité sur papier</b> ou partiellement informatisé ? Avec un <b>risque d’erreur ou d’oubli</b> ? <br/> Votre site web ou votre intranet conçu avec des outils comme Wix ou Wordpress n’est plus adapté à vos besoins ? <b>Vous devez vous adapter à votre logiciel alors qu’il devrait s’adapter à votre vous et votre processus ?</b>",
-        "Nous réalisons le développement d’un <b>logiciel ou site web sur-mesure, de qualité, adapté à vos besoins et votre contexte</b>, que vous pourrez utiliser aussi bien sur votre cellulaire, tablette ou ordinateur.",
-        "Nous fonctionnons avec une <b>approche itérative</b> (<a href=\"https://fr.wikipedia.org/wiki/M%C3%A9thode_agile\" target=\"_blank\" >pratiques agiles</a >) pour concevoir votre produit en intégrant vos commentaires régulièrement.",
-        "Concrètement, avant de commencer à écrire toute ligne de code, nous avons besoin d'au moins une première rencontre pour bien <b>identifier votre contexte et cadrer votre besoin</b>. Une fois la rencontre effectuée, nous pourrons vous faire une <b>proposition commerciale adaptée à votre problématique et à votre budget</b>.",
-        "Tout le long du mandat, des <b>rencontres régulières</b> sont planifiées (par exemple aux deux semaines) afin de présenter l'avancement du travail, le restant à faire et les potentielles difficultés rencontrées. Dépendant des résultats et de votre contexte, la portée du mandat peut être ajustée afin qu'il soit <b>toujours adapté à votre réalité</b>.",
-        "<b>La qualité du logiciel est notre priorité</b>. Nous utilisons pour cela des outils et pratiques de code à l’état de l’art, afin de produire un code robuste, fiable et évolutif sur le long terme. L'objectif est que le logiciel ou site web puisse vous accompagner sur plusieurs années, <b>évoluer et s'adapter en même temps que votre compagnie</b>, sans avoir à faire table rase au bout de quelques années.",
-        "Nous pouvons déployer le logiciel ou héberger le site web sur des infrastructures infonuagiques, ici, <b>au Québec</b>, afin d’être au plus proche géographiquement de nos clients et de <b>faire fonctionner l’industrie locale</b>.",
-        "En bref, notre mission : <b>concevoir des logiciels de qualité qui répondent à vos besoins, et qui soient évolutifs sur plusieurs années</b>."
+        "You have a manual or semi-automated process that takes you <b>several hours per week or month</b>? <b>Processed on paper</b> or partially computerized? With a <b>risk of error or omission</b>? <br/>Your website or intranet designed with tools like Wix or Wordpress is no longer adapted to your needs? <b>You have to adapt to your software while it should adapt to you and your process?</b>",
+        "We perform <b>high-quality custom software or website development, tailored to your needs and your context</b>, that you will be able to use as well on your cell phone, tablet or computer.",
+        "We work using an <b>iterative approach</b> (<a href=\"https://en.wikipedia.org/wiki/Agile_software_development\" target=\"_blank\">agile practices</a>) to build your product by integrating your feedback regularly.",
+        "Concretely, before starting to write any line of code, we need at least a first meeting to <b>identify your context and frame your requirements</b>. Once the meeting is done, we will be able to make you a <b>commercial proposal adapted to your situation and your budget</b>.",
+        "Throughout the mandate, <b>regular meetings</b> are planned (e.g. every two weeks) to present the work progress, the remaining work to be done and the potential difficulties encountered Depending on the results and your context, the scope of the mandate can be adjusted so that it is <b>always adapted to your reality</b>.",
+        "<b>Software quality is our priority</b>. We use state of the art tools and code practices to produce robust, reliable and scalable code over the long term. The goal is that the software or website can follow you over several years, <b>evolving and adapting along with your company</b>, without having to wipe the slate clean after a few years.",
+        "We can deploy the software or host the website on cloud infrastructures <b>here in Canada</b> to be geographically close to our customers and to <b>support the local industry</b>.",
+        "In a nutshell, our mission is to <b>create high-quality software that meets your needs, and that will evolve over many years</b>."
       ],
       "more": "For more information, <br/>contact us!"
     }
