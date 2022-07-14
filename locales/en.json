@@ -200,36 +200,36 @@
     },
     "cto-as-a-service": {
       "meta": {
-        "title": "Direction Technique | Services | CLWeb Charlevoix",
-        "description": "Nous pouvons occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois (CTO-as-a-Service)"
+        "title": "Technical Direction | Services | CLWeb Charlevoix",
+        "description": "We can act as your company's CTO for a few hours per week or per month"
       },
-      "heading": "Directeur Technique à temps partiel (<i>CTO-as-a-Service</i>)",
-      "subheading": "Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois",
+      "heading": "Chief Technical Officer (CTO) as a service",
+      "subheading": "To act as Technical Director in your company, for a few hours per week or per month",
       "paragraph": [
-        "Vous dirigez une compagnie et vous avez besoin d’une personne pour vous aider à <b>prendre des décisions relatives aux Technologies de l'Information (TI)</b> ? Vous n’avez pas le budget pour embaucher une personne qui aurait le rôle de directeur technique permanent à temps plein ?",
-        "Qu’il s’agisse de quelques heures par semaine ou simplement d'une journée par mois, nous pouvons vous accompagner en occupant le rôle de directeur technique à temps partiel afin de <b>vous aider à piloter les ressources TI de votre compagnie</b>.",
-        "Pour identifier correctement votre besoin, nous aurons besoin d'une première rencontre afin que vous nous exposiez vos problématiques et votre contexte. Suite à cette rencontre, nous pourrons vous faire une <b>proposition d'accompagnement correspondant à votre budget et votre réalité</b>.",
-        "Une fois la proposition acceptée, l'accompagnement peut aussi bien se faire à distance avec des outils collaboratifs virtuels, que sur place dans les locaux de votre compagnie."
+        "You run a company and need someone to help you <b>make Information Technology (IT) decisions</b>? You don't have the budget to hire a permanent full-time CTO?",
+        "Whether it's a few hours a week or just one day a month, we can work with you as a part-time CTO to <b>help you manage your company's IT resources</b>.",
+        "In order to properly identify your needs, we will need a first meeting where you will explain your issues and your context. Following this meeting, we will be able to make you a <b>support proposal corresponding to your budget and your reality</b>.",
+        "Once the proposal is accepted, the assistance can be done remotely with virtual collaborative tools, or on site at your company's offices."
       ],
       "examples": {
-        "heading": "Nous pouvons par exemple vous accompagner dans :",
+        "heading": "We can for example assist you in:",
         "items": [
-          "le <b>pilotage de votre budget</b> TI annuel,",
-          "la <b>gestion du risque</b> et de vos contraintes,",
-          "la <b>prise de décisions</b> structurelles pour votre compagnie,",
-          "l'implantation de nouveaux <b>processus TI</b>,",
-          "la construction d'un parcours de <b>formation TI</b> interne,",
-          "la construction d'une <b>politique de sécurité</b> de votre système d'information,",
-          "le stockage et la <b>gestion de vos données</b> d'entreprise,",
-          "le choix d'une <b>infrastructure infonuagique</b>,",
-          "le <b>choix d'outils ou de logiciels</b> utilisés par vos collaborateurs,",
-          "le <b>recrutement</b> d'un Directeur Technique, de développeurs ou de toute autre personne rattachée aux TI,",
-          "la <b>réalisation d'appels d'offres</b> pour soumettre des demandes sur des plateformes telles que SEAO,",
-          "le <b>choix de prestataires externes</b> qui répondraient à vos appels d'offres,",
-          "la gestion de la <b>dette technique</b>."
+          "the management of your annual <b>IT budget</b>,",
+          "constraints and <b>risk management</b>,",
+          "<b>strategic decision making</b> for your company,",
+          "the implementation of new <b>IT processes</b>,",
+          "building an internal <b>IT training path</b>,",
+          "the design of an <b>IT security policy</b> for your information system,",
+          "storage and <b>management of your corporate data</b>,",
+          "the selection of a <b>cloud infrastructure</b>,",
+          "the <b>selection of tools or software</b> used by your employees,",
+          "the <b>hiring</b> of a CTO, of developers or of any other IT-related person,",
+          "<b>conducting RFPs</b> to bid on platforms such as SEAO,",
+          "<b>choosing external service providers</b> who would respond to your RFPs,",
+          "<b>technical debt</b> management."
         ]
       },
-      "more": "Pour en savoir plus, <br/>contactez-nous !"
+      "more": "For more information, <br/>contact us!"
     },
     "delivery-and-hosting": {
       "meta": {
@@ -248,7 +248,7 @@
         "Nous pouvons déployer le logiciel ou héberger le site web sur des infrastructures infonuagiques, ici, <b>au Québec</b>, afin d’être au plus proche géographiquement de nos clients et de <b>faire fonctionner l’industrie locale</b>.",
         "En bref, notre mission : <b>concevoir des logiciels de qualité qui répondent à vos besoins, et qui soient évolutifs sur plusieurs années</b>."
       ],
-      "more": "Pour en savoir plus, <br/>contactez-nous !"
+      "more": "For more information, <br/>contact us!"
     }
   }
 }
