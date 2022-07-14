@@ -18,10 +18,18 @@
     <v-spacer />
 
     <div class="d-none d-sm-none d-md-flex">
-      <base-btn nuxt to="/#services" class="mx-3"> Services </base-btn>
-      <base-btn nuxt to="/#temoignages" class="mx-3"> Témoignages </base-btn>
-      <base-btn nuxt to="/#a-propos" class="mx-3"> Notre équipe </base-btn>
-      <base-btn nuxt to="/#contact" class="mx-3"> Contact </base-btn>
+      <base-btn nuxt to="/#services" class="mx-3"
+        ><span v-html="$t('navbar.services')"></span
+      ></base-btn>
+      <base-btn nuxt to="/#temoignages" class="mx-3"
+        ><span v-html="$t('navbar.testimonials')"></span
+      ></base-btn>
+      <base-btn nuxt to="/#a-propos" class="mx-3"
+        ><span v-html="$t('navbar.our-team')"></span
+      ></base-btn>
+      <base-btn nuxt to="/#contact" class="mx-3"
+        ><span v-html="$t('navbar.contact')"></span
+      ></base-btn>
       <v-row align="center" class="ml-3">
         <nuxt-link :to="switchLocalePath('fr')">
           <v-img
@@ -53,22 +61,30 @@
       <v-list>
         <v-list-item>
           <v-list-item-title>
-            <v-btn text nuxt to="/#services"> Services </v-btn>
+            <v-btn text nuxt to="/#services"
+              ><span v-html="$t('navbar.services')"></span
+            ></v-btn>
           </v-list-item-title>
         </v-list-item>
         <v-list-item>
           <v-list-item-title>
-            <v-btn text nuxt to="/#temoignages"> Témoignages </v-btn>
+            <v-btn text nuxt to="/#temoignages"
+              ><span v-html="$t('navbar.testimonials')"></span
+            ></v-btn>
           </v-list-item-title>
         </v-list-item>
         <v-list-item>
           <v-list-item-title>
-            <v-btn text nuxt to="/#a-propos"> Notre équipe </v-btn>
+            <v-btn text nuxt to="/#a-propos"
+              ><span v-html="$t('navbar.our-team')"></span
+            ></v-btn>
           </v-list-item-title>
         </v-list-item>
         <v-list-item>
           <v-list-item-title>
-            <v-btn text nuxt to="/#contact"> Contact </v-btn>
+            <v-btn text nuxt to="/#contact"
+              ><span v-html="$t('navbar.contact')"></span
+            ></v-btn>
           </v-list-item-title>
         </v-list-item>
         <v-list-item>

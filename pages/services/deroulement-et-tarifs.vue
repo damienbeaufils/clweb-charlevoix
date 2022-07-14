@@ -130,19 +130,12 @@
 export default {
   head() {
     return {
-      title: 'Fonctionnement et tarifs | Services | CLWeb Charlevoix',
+      title: this.$t('services.process-and-rates.meta.title'),
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content:
-            'Comment nos mandats se déroulent-ils ? Comment fonctionne une prestation de service ? À quels tarifs ?',
-        },
-      ],
-      link: [
-        {
-          rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/deroulement-et-tarifs/',
+          content: this.$t('services.process-and-rates.meta.description'),
         },
       ],
     }

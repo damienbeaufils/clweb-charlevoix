@@ -152,19 +152,12 @@
 export default {
   head() {
     return {
-      title: 'Direction Technique | Services | CLWeb Charlevoix',
+      title: this.$t('services.cto-as-a-service.meta.title'),
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content:
-            'Nous pouvons occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois (CTO-as-a-Service)',
-        },
-      ],
-      link: [
-        {
-          rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/directeur-technique-a-temps-partiel/',
+          content: this.$t('services.cto-as-a-service.meta.description'),
         },
       ],
     }

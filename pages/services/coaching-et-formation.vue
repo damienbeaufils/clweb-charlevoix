@@ -79,19 +79,12 @@
 export default {
   head() {
     return {
-      title: 'Coaching et formation | Services | CLWeb Charlevoix',
+      title: this.$t('services.coaching-and-training.meta.title'),
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content:
-            'Nous pouvons accompagner et former aux pratiques de qualité une ou plusieurs équipes de développement de votre compagnie',
-        },
-      ],
-      link: [
-        {
-          rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/coaching-et-formation/',
+          content: this.$t('services.coaching-and-training.meta.description'),
         },
       ],
     }

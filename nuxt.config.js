@@ -1,7 +1,7 @@
-const TITLE = 'Conseil Logiciel & Web Charlevoix'
-const DESCRIPTION =
+const DEFAULT_TITLE = 'Conseil Logiciel & Web Charlevoix'
+const DEFAULT_DESCRIPTION =
   "Conseil en TI, conception de logiciels, réalisation d'applications web et création de sites internet sur-mesure dans Charlevoix (La Malbaie, Clermont)"
-const LANG = 'fr'
+const DEFAULT_LANG = 'fr'
 
 export default {
   // Target: https://go.nuxtjs.dev/config-target
@@ -10,16 +10,16 @@ export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     htmlAttrs: {
-      lang: LANG,
+      lang: DEFAULT_LANG,
     },
-    title: TITLE,
+    title: DEFAULT_TITLE,
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: DESCRIPTION,
+        content: DEFAULT_DESCRIPTION,
       },
       { name: 'theme-color', content: '#ffffff' },
     ],
@@ -150,15 +150,15 @@ export default {
   pwa: {
     icon: false,
     manifest: {
-      name: TITLE,
-      short_name: TITLE,
-      description: DESCRIPTION,
-      lang: LANG,
+      name: DEFAULT_TITLE,
+      short_name: DEFAULT_TITLE,
+      description: DEFAULT_DESCRIPTION,
+      lang: DEFAULT_LANG,
     },
     meta: {
-      name: TITLE,
-      description: DESCRIPTION,
-      lang: LANG,
+      name: DEFAULT_TITLE,
+      description: DEFAULT_DESCRIPTION,
+      lang: DEFAULT_LANG,
     },
   },
 

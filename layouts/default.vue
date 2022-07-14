@@ -18,6 +18,12 @@ export default {
       htmlAttrs: {
         lang,
       },
+      link: [
+        {
+          rel: 'canonical',
+          href: `https://clweb-charlevoix.ca${this.$route.path}`,
+        },
+      ],
     }
   },
 }

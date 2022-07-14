@@ -99,19 +99,12 @@
 export default {
   head() {
     return {
-      title: 'Réalisation et hébergement | Services | CLWeb Charlevoix',
+      title: this.$t('services.delivery-and-hosting.meta.title'),
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content:
-            'Nous pouvons concevoir un logiciel ou créer un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet',
-        },
-      ],
-      link: [
-        {
-          rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/realisation-et-hebergement/',
+          content: this.$t('services.delivery-and-hosting.meta.description'),
         },
       ],
     }

@@ -128,19 +128,12 @@
 export default {
   head() {
     return {
-      title: 'Conseil et accompagnement | Services | CLWeb Charlevoix',
+      title: this.$t('services.consulting-and-guidance.meta.title'),
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content:
-            'Nous pouvons vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie',
-        },
-      ],
-      link: [
-        {
-          rel: 'canonical',
-          href: 'https://clweb-charlevoix.ca/services/conseil-et-accompagnement/',
+          content: this.$t('services.consulting-and-guidance.meta.description'),
         },
       ],
     }

@@ -123,16 +123,14 @@
 export default {
   head() {
     return {
-      title: 'Damien Beaufils | Notre équipe | CLWeb Charlevoix',
+      title: this.$t('team.meta.title'),
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content:
-            'Experts en développement logiciel, nous avons à cœur de concevoir des produits sur-mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable',
+          content: this.$t('team.meta.description'),
         },
       ],
-      link: [{ rel: 'canonical', href: 'https://clweb-charlevoix.ca/equipe/' }],
     }
   },
 }

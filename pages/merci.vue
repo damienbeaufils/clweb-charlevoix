@@ -44,10 +44,7 @@
 export default {
   head() {
     return {
-      title: 'Merci de nous avoir contacté ! | CLWeb Charlevoix',
-      link: [
-        { rel: 'canonical', href: 'https://clweb-charlevoix.ca/contact/' },
-      ],
+      title: this.$t('thank-you.meta.title'),
     }
   },
 }
