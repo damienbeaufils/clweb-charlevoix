@@ -18,7 +18,11 @@
               ></base-text>
 
               <div class="text-center">
-                <base-btn nuxt to="/" class="mt-5 mb-10 text-h6 px-7 py-7">
+                <base-btn
+                  nuxt
+                  :to="localePath('/')"
+                  class="mt-5 mb-10 text-h6 px-7 py-7"
+                >
                   <span v-html="$t('thank-you.back')"></span>
                 </base-btn>
               </div>

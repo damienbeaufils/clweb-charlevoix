@@ -49,7 +49,7 @@
               <div class="text-center">
                 <base-btn
                   nuxt
-                  to="/#contact"
+                  :to="localePath('/#contact')"
                   class="mt-5 mb-10 text-h6 px-10 py-10"
                 >
                   <span
