@@ -11,12 +11,12 @@
       "description": "IT consulting, software design, web application development and custom website creation in Charlevoix (La Malbaie, Clermont)"
     },
     "welcome": {
-      "heading": "Provide <b>simple solutions</b> to your complex projects",
+      "heading": "Provide <b>simple solutions</b> for your complex projects",
       "subheading": "Software, web applications and websites development <b>tailored to your needs</b>, in the heart of Charlevoix region",
       "description": [
-        "You have a specific context or needs?",
+        "You have a specific context or requirements?",
         "Tools such as Wix, Wordpress or others do not meet your expectations?",
-        "Are you looking for a partner in your digital transition in order to gain visibility, efficiency and a better work-life?"
+        "You are looking for a business partner in your digital transition in order to gain visibility, efficiency and a better work-life?"
       ],
       "contact-us": "Contact us!"
     },
@@ -27,7 +27,7 @@
       "more": "You want to know more about<br class=\"hidden-md-and-down\" /> <b>how a service is performed</b> and <b>our rates</b> ? Click here",
       "consulting": {
         "title": "Consulting and guidance",
-        "description": "To advise you in making important and structuring decisions for your company"
+        "description": "To advise you in making important and strategic decisions for your company"
       },
       "delivery": {
         "title": "Delivery and hosting",
@@ -61,7 +61,7 @@
     "about": {
       "heading": "Why should you work with us?",
       "description": [
-        "We are <b>experts in software development for more than 15 years</b>, and we are committed to designing custom solutions that fit your needs, and where quality is a non-negotiable.",
+        "We are <b>experts in software development for more than 15 years</b>, and we are committed to designing custom solutions that fit your needs, and where quality is non-negotiable.",
         "Furthermore, we favour <b>local resources and infrastructures</b> for hosting your softwares, in order to <b>contribute to the Canadian economy</b>.",
         "Working with us also means establishing a <b>trust and co-construction relationship</b> that goes beyond the contractual aspect."
       ],
@@ -108,7 +108,7 @@
       "<b>Designing high quality software is my passion, and I like to be proud of the work I do</b>. In addition to my mandates, I spend a lot of time constantly training myself to stay on top of the latest technologies, in order to be able to provide the best solutions to your various problems.",
       "I am an expert in software development quality practices, also called <b>Software Craftsmanship practices</b> (practices such as Clean Code, Refactoring, Test Driven Development...) and <b>I am certified on several technologies as well as on the eco-design of digital services (Green IT)</b>.",
       "I had the opportunity to be a speaker in major technical conferences such as Devoxx in France or Web À Québec.",
-      "In 2018, I made the decision to emigrate from France to settle in Montreal, Quebec. After many peregrinations in the different regions of Quebec, and having a strong attraction for the countryside and nature, <b>I fell in love with Charlevoix region</b>, bordered on one side by the magnificent Saint-Laurent river and on the other by the majestic Laurentides mountain range.",
+      "In 2018, I made the decision to emigrate from France to settle in Montreal, Quebec. After many peregrinations in the different Quebec regions, and having a strong attraction for the countryside and nature, <b>I fell in love with Charlevoix region</b>, bordered on one side by the magnificent Saint-Laurent river and on the other by the majestic Laurentides mountain range.",
       "I decided to make the move in 2022 by leaving Montreal to settle in Charlevoix-Est, in the city of Clermont. It is then that I decided to launch myself in the entrepreneurial adventure, to <b>use my skills and my expertise for the local companies</b>.",
       "My other passions? Hiking in the Quebec countryside, and wildlife and landscape photography."
     ],
@@ -133,8 +133,8 @@
       "subheading": "To coach and train one or more of your company's software development teams",
       "paragraph": [
         "You have in your company a person in charge of software development and maintenance, or a complete software development team, and you would like to <b>train them in quality practices</b>?<br/>You are a developer yourself and you want to improve your practices to <b>produce maintainable and scalable code for the long term</b>?",
-        "We can <b>train and coach</b> on both quality software development practices and on specific technologies in which we are experts. <br/><b>Training</b> can be conducted over one or more days, online or on site. <br/><b>Coaching<b/> is usually done in a degressive way: a few days per week at the beginning, then a progressive reduction to a few hours of coaching per week. <br/>Our goal is that the <b>trainee(s) become autonomous</b> and that there is no need for any further support or coaching once the mandate is completed.",
-        "We can also do morning or Lunch & Learn <b>awareness presentations</b> on specific topics such as the latest technology, or software development practices such as Clean Code, or eco-design of digital services. These awareness sessions are ideal to \"give the taste\" to your teams to go further on the topic, for example with a training session (because there is nothing worse than going to a training session against your will).",
+        "We can <b>train and coach</b> on both quality software development practices and on specific technologies in which we are experts. <br/><b>Training</b> can be conducted over one or more days, online or on site. <br/><b>Coaching</b> is usually done in a degressive way: a few days per week at the beginning, then a progressive reduction to a few hours of coaching per week. <br/>Our goal is that the <b>trainee(s) become autonomous</b> and that there is no need for any further support or coaching once the mandate is completed.",
+        "We can also do morning or Lunch & Learn <b>awareness presentations</b> on specific topics such as the latest technologies, or software development practices such as Clean Code, or eco-design of digital services. These awareness sessions are ideal to \"give the taste\" to your teams to go further on the topic, for example with a training session (because there is nothing worse than going to a training session against your will).",
         "We can also help your teams to form <b>communities of practices</b>, which would allow your employees to share their knowledge and interests, whether technical or not, in order to <b>collectively progress</b>.",
         "Feel free to contact us to explain your context and your needs, and we will be able to present you a <b>proposal adapted to your issues and your budget</b>."
       ],
@@ -146,14 +146,14 @@
         "description": "We can advise you in making important and strategic decisions for your company"
       },
       "heading": "Consulting and guidance",
-      "subheading": "To advise you in making important and structuring decisions for your company",
+      "subheading": "To advise you in making important and strategic decisions for your company",
       "paragraph": [
         "You have to <b>make an important and strategic decision</b> concerning your existing or future software, your website, the storage of your data or your information system overall?",
         "We can help you in a determined time by conducting a <b>detailed analysis of your needs and your context</b>, and by <b>advising you in your decision making</b>.",
-        "In order to correctly identify your needs, we will need a first meeting for you to explain your problems and your context. Following this meeting, we will be able to make a <b>proposal for a consulting mandate that corresponds to your budget and your reality</b>."
+        "In order to properly identify your needs, we will need a first meeting where you will explain your problems and your context. Following this meeting, we will be able to make a <b>proposal for a consulting mandate that corresponds to your budget and your reality</b>."
       ],
       "examples": {
-        "heading": "Examples of consulting mandates:",
+        "heading": "Some examples of consulting mandates we've done:",
         "items": [
           "You want to <b>significantly upgrade your website</b> and you don't know if it is better to modify the existing website with its constraints or if it would be simpler to develop a brand new website adapted to your new requirements,",
           "You have tools and data stored in your company and you are hesitating to make the <b>switch to cloud services to reduce your infrastructure costs</b>,",
@@ -208,7 +208,7 @@
       "paragraph": [
         "You run a company and need someone to help you <b>make Information Technology (IT) decisions</b>? You don't have the budget to hire a permanent full-time CTO?",
         "Whether it's a few hours a week or just one day a month, we can work with you as a part-time CTO to <b>help you manage your company's IT resources</b>.",
-        "In order to properly identify your needs, we will need a first meeting where you will explain your issues and your context. Following this meeting, we will be able to make you a <b>support proposal corresponding to your budget and your reality</b>.",
+        "In order to properly identify your needs, we will need a first meeting where you will explain your problems and your context. Following this meeting, we will be able to make you a <b>support proposal corresponding to your budget and your reality</b>.",
         "Once the proposal is accepted, the assistance can be done remotely with virtual collaborative tools, or on site at your company's offices."
       ],
       "examples": {
@@ -223,7 +223,7 @@
           "storage and <b>management of your corporate data</b>,",
           "the selection of a <b>cloud infrastructure</b>,",
           "the <b>selection of tools or software</b> used by your employees,",
-          "the <b>hiring</b> of a CTO, of developers or of any other IT-related person,",
+          "the <b>hiring</b> of a CTO, developers or any other IT-related person,",
           "<b>conducting RFPs</b> to bid on platforms such as SEAO,",
           "<b>choosing external service providers</b> who would respond to your RFPs,",
           "<b>technical debt</b> management."
@@ -243,7 +243,7 @@
         "We perform <b>high-quality custom software or website development, tailored to your needs and your context</b>, that you will be able to use as well on your cell phone, tablet or computer.",
         "We work using an <b>iterative approach</b> (<a href=\"https://en.wikipedia.org/wiki/Agile_software_development\" target=\"_blank\">agile practices</a>) to build your product by integrating your feedback regularly.",
         "Concretely, before starting to write any line of code, we need at least a first meeting to <b>identify your context and frame your requirements</b>. Once the meeting is done, we will be able to make you a <b>commercial proposal adapted to your situation and your budget</b>.",
-        "Throughout the mandate, <b>regular meetings</b> are planned (e.g. every two weeks) to present the work progress, the remaining work to be done and the potential difficulties encountered Depending on the results and your context, the scope of the mandate can be adjusted so that it is <b>always adapted to your reality</b>.",
+        "Throughout the mandate, <b>regular meetings</b> are planned (e.g. every two weeks) to present the work progress, the remaining work to be done and the potential difficulties encountered. Depending on the results and your context, the scope of the mandate can be adjusted so that it is <b>always adapted to your reality</b>.",
         "<b>Software quality is our priority</b>. We use state of the art tools and code practices to produce robust, reliable and scalable code over the long term. The goal is that the software or website can follow you over several years, <b>evolving and adapting along with your company</b>, without having to wipe the slate clean after a few years.",
         "We can deploy the software or host the website on cloud infrastructures <b>here in Canada</b> to be geographically close to our customers and to <b>support the local industry</b>.",
         "In a nutshell, our mission is to <b>create high-quality software that meets your needs, and that will evolve over many years</b>."
