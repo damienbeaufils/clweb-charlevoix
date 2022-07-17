@@ -5,29 +5,26 @@
         <base-bubble-1 style="transform: translate(5%, -5%)" />
 
         <base-heading class="info--text mb-10 mb-lg-15" tag="h2">
-          Pourquoi collaborer avec nous ?
+          <span v-html="$t('home.about.heading')"></span>
         </base-heading>
 
         <base-text class="mb-5">
-          Nous sommes des
-          <b>experts en développement logiciel depuis plus de 15 ans</b>, et
-          nous avons à cœur de concevoir des produits sur-mesure, qui s’adaptent
-          à vos besoins, et où la qualité est un critère non négociable.
+          <span v-html="$t('home.about.description[0]')"></span>
         </base-text>
         <base-text class="mb-5">
-          De plus, nous privilégions les
-          <b>outils et infrastructures locales</b> pour l’hébergement de vos
-          produits, afin de <b>contribuer à l’économie québecoise</b>.
+          <span v-html="$t('home.about.description[1]')"></span>
         </base-text>
         <base-text class="mb-5">
-          Collaborer avec nous, c’est aussi établir une
-          <b>relation de confiance et de co-construction</b> qui va au-delà de
-          l’aspect contractuel.
+          <span v-html="$t('home.about.description[2]')"></span>
         </base-text>
 
         <div class="text-center">
-          <base-btn class="mt-5 mb-10 text-h6 px-10 py-5" nuxt to="/equipe/">
-            Découvrez notre équipe
+          <base-btn
+            class="mt-5 mb-10 text-h6 px-10 py-5"
+            nuxt
+            :to="localePath('/equipe/')"
+          >
+            <span v-html="$t('home.about.team')"></span>
           </base-btn>
         </div>
       </v-col>

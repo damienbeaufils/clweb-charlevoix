@@ -1,0 +1,254 @@
+{
+  "navbar": {
+    "services": "Services",
+    "testimonials": "Testimonials",
+    "our-team": "Our team",
+    "contact": "Contact"
+  },
+  "home": {
+    "meta": {
+      "title": "Conseil Logiciel & Web Charlevoix",
+      "description": "IT consulting, software design, web application development and custom website creation in Charlevoix (La Malbaie, Clermont)"
+    },
+    "welcome": {
+      "heading": "Provide <b>simple solutions</b> for your complex projects",
+      "subheading": "Software, web applications and websites development <b>tailored to your needs</b>, in the heart of Charlevoix region",
+      "description": [
+        "You have a specific context or requirements?",
+        "Tools such as Wix, Wordpress or others do not meet your expectations?",
+        "You are looking for a business partner in your digital transition in order to gain visibility, efficiency and a better work-life?"
+      ],
+      "contact-us": "Contact us!"
+    },
+    "services": {
+      "heading": "<b>Customized services</b> tailored to your unique context",
+      "promo": "️Are you a Charlevoix region company or a registered charity? Get preferential rates!",
+      "details": "Click on an item to get more details",
+      "more": "You want to know more about<br class=\"hidden-md-and-down\" /> <b>how a service is performed</b> and <b>our rates</b> ? Click here",
+      "consulting": {
+        "title": "Consulting and guidance",
+        "description": "To advise you in making important and strategic decisions for your company"
+      },
+      "delivery": {
+        "title": "Delivery and hosting",
+        "description": "For high-quality software development or custom website creation, tailored to your needs and your project context"
+      },
+      "cto": {
+        "title": "Chief Technical Officer (CTO) as a service",
+        "description": "To act as Technical Director in your company, for a few hours per week or per month"
+      },
+      "coaching": {
+        "title": "Coaching and training",
+        "description": "To coach and train one or more of your company's software development teams"
+      }
+    },
+    "recent-projects": {
+      "heading": "They trusted us",
+      "subheading": "Laurence Monari and Thomas Morat,<br/>owners of the Boulangerie Le Panivore Inc.",
+      "quote": {
+        "intro": "Boulangerie Le Panivore Inc. would like to warmly thank Damien Beaufils for the custom website he developed for us. The multiple features that he integrated following the analysis of our needs allowed us to:",
+        "items": [
+          "<b>Centralize all orders</b> in a database accessible anytime by the entire team,",
+          "<b>Reduce production planning time by 75%</b> each day,",
+          "<b>Reduce by over 50%</b> the time needed to produce monthly invoices,",
+          "<b>Minimize the risk of errors</b> during order preparation,",
+          "<b>Increase efficiency</b> when picking up orders in store."
+        ],
+        "outro": "We highly recommend you to use the services of Damien Beaufils; his professionalism, his accurate analysis and his multiple technical skills will allow you to make a big step forward."
+      },
+      "references": "Detailed references available upon request"
+    },
+    "about": {
+      "heading": "Why should you work with us?",
+      "description": [
+        "We are <b>experts in software development for more than 15 years</b>, and we are committed to designing custom solutions that fit your needs, and where quality is non-negotiable.",
+        "Furthermore, we favour <b>local resources and infrastructures</b> for hosting your softwares, in order to <b>contribute to the Canadian economy</b>.",
+        "Working with us also means establishing a <b>trust and co-construction relationship</b> that goes beyond the contractual aspect."
+      ],
+      "team": "Meet our team"
+    },
+    "contact": {
+      "heading": "Contact us",
+      "subheading": "Send us an email directly to our address",
+      "subheading2": "Or send us a message through this form",
+      "form": {
+        "name": {
+          "label": "Your name",
+          "validation": {
+            "empty": "Name is required"
+          }
+        },
+        "email": {
+          "label": "Your email address",
+          "validation": {
+            "empty": "Email address is required",
+            "invalid": "The entered email address is not valid"
+          }
+        },
+        "message": {
+          "label": "Your message",
+          "validation": {
+            "empty": "Message is required"
+          }
+        },
+        "submit": "Submit"
+      }
+    }
+  },
+  "team": {
+    "meta": {
+      "title": "Damien Beaufils | Our team | CLWeb Charlevoix",
+      "description": "Experts in software development, we have at heart to design custom products, which are tailored to your needs, and where quality is a non-negotiable criteria"
+    },
+    "heading": "Who am I?",
+    "subheading": "Damien Beaufils",
+    "paragraph": [
+      "With <b>more than 15 years experience in software development</b>, I became an entrepreneur after spending more than half of my career as an IT consultant for companies in various industries (banking, insurance, energy, utilities, media, sports...) and of various sizes (from small companies to multinationals).",
+      "In my last experience before my entrepreneurial leap, I was <b>CTO</b> of an IT consulting company for more than 3 years, in parallel to my <b>software developer</b> and <b>senior consultant</b> role.",
+      "<b>Designing high quality software is my passion, and I like to be proud of the work I do</b>. In addition to my mandates, I spend a lot of time constantly training myself to stay on top of the latest technologies, in order to be able to provide the best solutions to your various problems.",
+      "I am an expert in software development quality practices, also called <b>Software Craftsmanship practices</b> (practices such as Clean Code, Refactoring, Test Driven Development...) and <b>I am certified on several technologies as well as on the eco-design of digital services (Green IT)</b>.",
+      "I had the opportunity to be a speaker in major technical conferences such as Devoxx in France or Web À Québec.",
+      "In 2018, I made the decision to emigrate from France to settle in Montreal, Quebec. After many peregrinations in the different Quebec regions, and having a strong attraction for the countryside and nature, <b>I fell in love with Charlevoix region</b>, bordered on one side by the magnificent Saint-Laurent river and on the other by the majestic Laurentides mountain range.",
+      "I decided to make the move in 2022 by leaving Montreal to settle in Charlevoix-Est, in the city of Clermont. It is then that I decided to launch myself in the entrepreneurial adventure, to <b>use my skills and my expertise for the local companies</b>.",
+      "My other passions? Hiking in the Quebec countryside, and wildlife and landscape photography."
+    ],
+    "publications": "Click here to view all my publications.",
+    "more": "For more information, <br/>contact me!"
+  },
+  "thank-you": {
+    "meta": {
+      "title": "Thank you for contacting us! | CLWeb Charlevoix"
+    },
+    "subheading": "Thank you for contacting us!",
+    "paragraph": "We have received your message and we will contact you as soon as possible!",
+    "back": "Back to home page"
+  },
+  "services": {
+    "coaching-and-training": {
+      "meta": {
+        "title": "Coaching and training | Services | CLWeb Charlevoix",
+        "description": "We can coach and train one or more of your company's software development teams in quality practices"
+      },
+      "heading": "Coaching and training",
+      "subheading": "To coach and train one or more of your company's software development teams",
+      "paragraph": [
+        "You have in your company a person in charge of software development and maintenance, or a complete software development team, and you would like to <b>train them in quality practices</b>?<br/>You are a developer yourself and you want to improve your practices to <b>produce maintainable and scalable code for the long term</b>?",
+        "We can <b>train and coach</b> on both quality software development practices and on specific technologies in which we are experts. <br/><b>Training</b> can be conducted over one or more days, online or on site. <br/><b>Coaching</b> is usually done in a degressive way: a few days per week at the beginning, then a progressive reduction to a few hours of coaching per week. <br/>Our goal is that the <b>trainee(s) become autonomous</b> and that there is no need for any further support or coaching once the mandate is completed.",
+        "We can also do morning or Lunch & Learn <b>awareness presentations</b> on specific topics such as the latest technologies, or software development practices such as Clean Code, or eco-design of digital services. These awareness sessions are ideal to \"give the taste\" to your teams to go further on the topic, for example with a training session (because there is nothing worse than going to a training session against your will).",
+        "We can also help your teams to form <b>communities of practices</b>, which would allow your employees to share their knowledge and interests, whether technical or not, in order to <b>collectively progress</b>.",
+        "Feel free to contact us to explain your context and your needs, and we will be able to present you a <b>proposal adapted to your issues and your budget</b>."
+      ],
+      "more": "For more information, <br/>contact us!"
+    },
+    "consulting-and-guidance": {
+      "meta": {
+        "title": "Consulting and guidance | Services | CLWeb Charlevoix",
+        "description": "We can advise you in making important and strategic decisions for your company"
+      },
+      "heading": "Consulting and guidance",
+      "subheading": "To advise you in making important and strategic decisions for your company",
+      "paragraph": [
+        "You have to <b>make an important and strategic decision</b> concerning your existing or future software, your website, the storage of your data or your information system overall?",
+        "We can help you in a determined time by conducting a <b>detailed analysis of your needs and your context</b>, and by <b>advising you in your decision making</b>.",
+        "In order to properly identify your needs, we will need a first meeting where you will explain your problems and your context. Following this meeting, we will be able to make a <b>proposal for a consulting mandate that corresponds to your budget and your reality</b>."
+      ],
+      "examples": {
+        "heading": "Some examples of consulting mandates we've done:",
+        "items": [
+          "You want to <b>significantly upgrade your website</b> and you don't know if it is better to modify the existing website with its constraints or if it would be simpler to develop a brand new website adapted to your new requirements,",
+          "You have tools and data stored in your company and you are hesitating to make the <b>switch to cloud services to reduce your infrastructure costs</b>,",
+          "You want to <b>make your software or website responsive on cell phones and tablets</b> and you would like to know the feasibility,",
+          "You want to shift to a digital platform and <b>gain online customers in addition to your physical ones</b> and you don't know where to start,",
+          "You want to know how to aggregate or consolidate your online presence, in order to have a <b>better ranking on search engines</b> and to be able to <b>provide a single and simple entry point to your customers</b>,",
+          "You store data and would like to ensure that your <b>customers' personal information are secured</b> according to the state of the art,",
+          "You want to analyze the <b>quality level</b> of an existing software or website."
+        ]
+      },
+      "more": "For more information, <br/>contact us!"
+    },
+    "process-and-rates": {
+      "meta": {
+        "title": "Process and rates | Services | CLWeb Charlevoix",
+        "description": "How are our mandates conducted? How does a consultancy service work? At what rates?"
+      },
+      "heading": "Service process and rates",
+      "paragraph": [
+        "Each client has its own unique requirements and issues depending on its context, which is why each service is different from one client to another.",
+        "We also offer <b>preferential rates</b> if you are a <b>company based in the Charlevoix region</b>, or if you are registered as a <b>charity</b>. We strongly believe in a local approach to develop business in our regions.",
+        "<b>You have a business need or a project idea</b> and you don't know how much it can cost you? You can contact us and we will do a first meeting to <b>answer your questions</b> and <b>give you a better idea of your project feasibility</b> according to your budget. <br/>You can also contact us to simply find out <b>what is possible with your current budget</b>. <br/>In any case, <b>we will be available to answer your questions and to guide you in making your choices</b>."
+      ],
+      "steps": {
+        "heading": "Nevertheless, in general terms, the sequence of a service can be presented as follows:",
+        "items": [
+          "A <b>first meeting</b> for you to present your context and your requirements;",
+          "Following this meeting, we will make a <b>commercial proposal adapted to your specific needs and budget</b>;",
+          "Once the proposal is accepted, we can begin our work;",
+          "Invoicing is usually done in <b>time and material</b> (hourly rate);",
+          "Throughout the mandate, <b>regular meetings</b> are planned (e.g. every two weeks) to present the work progress, the remaining work to be done and the potential difficulties encountered;",
+          "Depending on the results and your context, the <b>scope of the mandate can be adjusted</b> so that it is <b>always adapted to your reality</b>."
+        ]
+      },
+      "variables": {
+        "heading": "Each mandate being unique, the rates may vary from one mandate to another. Nevertheless, the main parameters that will have an impact on the rates are:",
+        "items": [
+          "Type of service;",
+          "Mandate duration;",
+          "Travel."
+        ]
+      },
+      "more": "For more information, <br/>contact us!"
+    },
+    "cto-as-a-service": {
+      "meta": {
+        "title": "Technical Direction | Services | CLWeb Charlevoix",
+        "description": "We can act as your company's CTO for a few hours per week or per month"
+      },
+      "heading": "Chief Technical Officer (CTO) as a service",
+      "subheading": "To act as Technical Director in your company, for a few hours per week or per month",
+      "paragraph": [
+        "You run a company and need someone to help you <b>make Information Technology (IT) decisions</b>? You don't have the budget to hire a permanent full-time CTO?",
+        "Whether it's a few hours a week or just one day a month, we can work with you as a part-time CTO to <b>help you manage your company's IT resources</b>.",
+        "In order to properly identify your needs, we will need a first meeting where you will explain your problems and your context. Following this meeting, we will be able to make you a <b>support proposal corresponding to your budget and your reality</b>.",
+        "Once the proposal is accepted, the assistance can be done remotely with virtual collaborative tools, or on site at your company's offices."
+      ],
+      "examples": {
+        "heading": "We can for example assist you in:",
+        "items": [
+          "the management of your annual <b>IT budget</b>,",
+          "constraints and <b>risk management</b>,",
+          "<b>strategic decision making</b> for your company,",
+          "the implementation of new <b>IT processes</b>,",
+          "building an internal <b>IT training path</b>,",
+          "the design of an <b>IT security policy</b> for your information system,",
+          "storage and <b>management of your corporate data</b>,",
+          "the selection of a <b>cloud infrastructure</b>,",
+          "the <b>selection of tools or software</b> used by your employees,",
+          "the <b>hiring</b> of a CTO, developers or any other IT-related person,",
+          "<b>conducting RFPs</b> to bid on platforms such as SEAO,",
+          "<b>choosing external service providers</b> who would respond to your RFPs,",
+          "<b>technical debt</b> management."
+        ]
+      },
+      "more": "For more information, <br/>contact us!"
+    },
+    "delivery-and-hosting": {
+      "meta": {
+        "title": "Delivery and hosting | Services | CLWeb Charlevoix",
+        "description": "We can develop high-quality software or create a custom website, tailored to your needs and your project context"
+      },
+      "heading": "Delivery and hosting",
+      "subheading": "For high-quality software development or custom website creation, tailored to your needs and your project context",
+      "paragraph": [
+        "You have a manual or semi-automated process that takes you <b>several hours per week or month</b>? <b>Processed on paper</b> or partially computerized? With a <b>risk of error or omission</b>? <br/>Your website or intranet designed with tools like Wix or Wordpress is no longer adapted to your needs? <b>You have to adapt to your software while it should adapt to you and your process?</b>",
+        "We perform <b>high-quality custom software or website development, tailored to your needs and your context</b>, that you will be able to use as well on your cell phone, tablet or computer.",
+        "We work using an <b>iterative approach</b> (<a href=\"https://en.wikipedia.org/wiki/Agile_software_development\" target=\"_blank\">agile practices</a>) to build your product by integrating your feedback regularly.",
+        "Concretely, before starting to write any line of code, we need at least a first meeting to <b>identify your context and frame your requirements</b>. Once the meeting is done, we will be able to make you a <b>commercial proposal adapted to your situation and your budget</b>.",
+        "Throughout the mandate, <b>regular meetings</b> are planned (e.g. every two weeks) to present the work progress, the remaining work to be done and the potential difficulties encountered. Depending on the results and your context, the scope of the mandate can be adjusted so that it is <b>always adapted to your reality</b>.",
+        "<b>Software quality is our priority</b>. We use state of the art tools and code practices to produce robust, reliable and scalable code over the long term. The goal is that the software or website can follow you over several years, <b>evolving and adapting along with your company</b>, without having to wipe the slate clean after a few years.",
+        "We can deploy the software or host the website on cloud infrastructures <b>here in Canada</b> to be geographically close to our customers and to <b>support the local industry</b>.",
+        "In a nutshell, our mission is to <b>create high-quality software that meets your needs, and that will evolve over many years</b>."
+      ],
+      "more": "For more information, <br/>contact us!"
+    }
+  }
+}

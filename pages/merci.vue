@@ -11,16 +11,19 @@
           <v-row align="center" justify="center">
             <v-col cols="10">
               <base-subheading class="mt-15 mb-10"
-                >Merci de nous avoir contacté !</base-subheading
-              >
+                ><span v-html="$t('thank-you.subheading')"></span
+              ></base-subheading>
               <base-text class="mb-10"
-                >Nous avons bien reçu votre message et nous vous recontacterons
-                dans les plus brefs délais !</base-text
-              >
+                ><span v-html="$t('thank-you.paragraph')"></span
+              ></base-text>
 
               <div class="text-center">
-                <base-btn nuxt to="/" class="mt-5 mb-10 text-h6 px-7 py-7">
-                  Retour à l'accueil
+                <base-btn
+                  nuxt
+                  :to="localePath('/')"
+                  class="mt-5 mb-10 text-h6 px-7 py-7"
+                >
+                  <span v-html="$t('thank-you.back')"></span>
                 </base-btn>
               </div>
             </v-col>
@@ -45,10 +48,7 @@
 export default {
   head() {
     return {
-      title: 'Merci de nous avoir contacté ! | CLWeb Charlevoix',
-      link: [
-        { rel: 'canonical', href: 'https://clweb-charlevoix.ca/contact/' },
-      ],
+      title: this.$t('thank-you.meta.title'),
     }
   },
 }

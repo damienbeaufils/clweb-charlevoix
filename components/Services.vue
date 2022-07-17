@@ -6,7 +6,7 @@
           <v-col cols="12">
             <base-bubble-2 style="transform: translateX(55%)" />
             <base-heading class="info--text" tag="h2">
-              Des services <b>sur-mesure</b> adaptés à votre contexte unique
+              <span v-html="$t('home.services.heading')"></span>
             </base-heading>
           </v-col>
 
@@ -14,14 +14,12 @@
             <v-hover v-slot="{ hover }">
               <v-card
                 nuxt
-                to="/services/deroulement-et-tarifs/"
+                :to="localePath('/services/deroulement-et-tarifs/')"
                 :elevation="hover ? 12 : 0"
                 class="rounded-l"
               >
                 <v-card-text class="info--text text-h5 rounded-xl">
-                  ️Vous êtes une entreprise de la région de Charlevoix ou un
-                  organisme de bienfaisance ? Bénéficiez de tarifs préférentiels
-                  !
+                  <span v-html="$t('home.services.promo')"></span>
                 </v-card-text>
               </v-card>
             </v-hover>
@@ -29,7 +27,7 @@
 
           <v-col cols="12">
             <div class="info--text text-h6 font-weight-light font-italic mb-0">
-              Cliquez sur un élément pour accéder à plus de détails
+              <span v-html="$t('home.services.details')"></span>
             </div>
           </v-col>
 
@@ -57,11 +55,12 @@
                   </v-avatar>
 
                   <base-text class="info--text service-details">
-                    <h3 class="mb-2" v-html="service.name"></h3>
-                    <h4
-                      class="font-italic font-weight-light"
-                      v-html="service.blurb"
-                    ></h4>
+                    <h3 class="mb-2">
+                      <span v-html="service.name"></span>
+                    </h3>
+                    <h4 class="font-italic font-weight-light">
+                      <span v-html="service.blurb"></span>
+                    </h4>
                   </base-text>
                 </v-card-text>
               </v-card>
@@ -72,16 +71,12 @@
             <v-hover v-slot="{ hover }">
               <v-card
                 nuxt
-                to="/services/deroulement-et-tarifs/"
+                :to="localePath('/services/deroulement-et-tarifs/')"
                 :elevation="hover ? 12 : 0"
                 class="rounded-l"
               >
                 <v-card-text class="info--text text-h5 rounded-xl">
-                  Vous souhaitez en savoir plus sur<br
-                    class="hidden-md-and-down"
-                  />
-                  <b>comment se déroule une prestation</b> ainsi que
-                  <b>nos tarifs</b> ? Cliquez ici
+                  <span v-html="$t('home.services.more')"></span>
                 </v-card-text>
               </v-card>
             </v-hover>
@@ -106,38 +101,38 @@
 export default {
   name: 'Services',
 
-  data: () => ({
-    services: [
-      {
-        name: 'Conseil et accompagnement',
-        icon: 'mdi-lightbulb-on',
-        blurb:
-          'Pour vous conseiller dans la prise de décisions importantes et structurantes pour votre compagnie',
-        href: '/services/conseil-et-accompagnement/',
-      },
-      {
-        name: 'Réalisation et hébergement',
-        icon: 'mdi-progress-wrench',
-        blurb:
-          "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet",
-        href: '/services/realisation-et-hebergement/',
-      },
-      {
-        name: 'Directeur Technique à temps partiel<br/>(<i>CTO-as-a-Service</i>)',
-        icon: 'mdi-directions-fork',
-        blurb:
-          'Pour occuper le rôle de Directeur Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois',
-        href: '/services/directeur-technique-a-temps-partiel/',
-      },
-      {
-        name: 'Coaching et formation',
-        icon: 'mdi-account-multiple-check',
-        blurb:
-          'Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie',
-        href: '/services/coaching-et-formation/',
-      },
-    ],
-  }),
+  computed: {
+    services() {
+      return [
+        {
+          name: this.$t('home.services.consulting.title'),
+          icon: 'mdi-lightbulb-on',
+          blurb: this.$t('home.services.consulting.description'),
+          href: this.localePath('/services/conseil-et-accompagnement/'),
+        },
+        {
+          name: this.$t('home.services.delivery.title'),
+          icon: 'mdi-progress-wrench',
+          blurb: this.$t('home.services.delivery.description'),
+          href: this.localePath('/services/realisation-et-hebergement/'),
+        },
+        {
+          name: this.$t('home.services.cto.title'),
+          icon: 'mdi-directions-fork',
+          blurb: this.$t('home.services.cto.description'),
+          href: this.localePath(
+            '/services/directeur-technique-a-temps-partiel/'
+          ),
+        },
+        {
+          name: this.$t('home.services.coaching.title'),
+          icon: 'mdi-account-multiple-check',
+          blurb: this.$t('home.services.coaching.description'),
+          href: this.localePath('/services/coaching-et-formation/'),
+        },
+      ]
+    },
+  },
 }
 </script>
 

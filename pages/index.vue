@@ -23,7 +23,14 @@ export default {
   components: { AboutMe, GetInTouch, RecentProjects, Services, Welcome },
   head() {
     return {
-      link: [{ rel: 'canonical', href: 'https://clweb-charlevoix.ca/' }],
+      title: this.$t('home.meta.title'),
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.$t('home.meta.description'),
+        },
+      ],
     }
   },
 }
