@@ -86,6 +86,13 @@
                       "
                     ></span>
                   </li>
+                  <li>
+                    <span
+                      v-html="
+                        $t('services.consulting-and-guidance.examples.items[7]')
+                      "
+                    ></span>
+                  </li>
                 </ul>
               </base-text>
 
