@@ -199,38 +199,90 @@
       },
       "more": "For more information, <br/>contact us!"
     },
-    "cto-as-a-service": {
+    "cto": {
       "meta": {
-        "title": "Technical Direction | Services | CLWeb Charlevoix",
-        "description": "We can act as your company's CTO for a few hours per week or per month"
+        "title": "Direction Technique | Services | CLWeb Charlevoix",
+        "description": "Nous pouvons occuper le poste de Direction Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois (CTO-as-a-Service)"
       },
-      "heading": "Chief Technical Officer (CTO) as a service",
-      "subheading": "To act as Technical Director in your company, for a few hours per week or per month",
-      "paragraph": [
-        "You run a company and need someone to help you <b>make Information Technology (IT) decisions</b>? You don't have the budget to hire a permanent full-time CTO?",
-        "Whether it's a few hours a week or just one day a month, we can work with you as a part-time CTO to <b>help you manage your company's IT resources</b>.",
-        "In order to properly identify your needs, we will need a first meeting where you will explain your problems and your context. Following this meeting, we will be able to make you a <b>support proposal corresponding to your budget and your reality</b>.",
-        "Once the proposal is accepted, the assistance can be done remotely with virtual collaborative tools, or on site at your company's offices."
+      "title": "Direction Technique",
+      "toc-header": "Dans cette section, retrouvez les réponses à ces questions :",
+      "sections": [
+        {
+          "title": "Qu&rsquo;est-ce qu&rsquo;un mandat de direction technique ?",
+          "paragraphs": [
+            "Un mandat de direction technique a pour objectif d&rsquo;<b>aider une compagnie ou un&middot;e dirigeant&middot;e d&rsquo;entreprise &agrave; aider dans la prise de d&eacute;cision relatives aux Technologies de l&rsquo;Information (TI)</b>. Ces d&eacute;cisions peuvent &ecirc;tre en rapport avec des choix de logiciels, du recrutement, du choix de prestataires externes ou encore du pilotage de budget.",
+            "Ce type de mandat est aussi appel&eacute; <i>CTO-as-a-Service</i>."
+          ],
+          "image": "absolutvision-uCMKx2H1Y38-unsplash.jpg"
+        },
+        {
+          "title": "&Agrave; qui est-ce destin&eacute; ?",
+          "paragraphs": [
+            "&Agrave; toute entreprise ou dirigeant&middot;e qui aurait besoin d&rsquo;aide dans la prise de d&eacute;cisions relatives aux TI mais qui <b>n&rsquo;a pas les moyens financiers ou suffisamment de travail pour embaucher une personne &agrave; temps plein</b> dans le poste de Direction Technique.",
+            "Avec un mandat de direction technique &agrave; temps partiel, une personne peut intervenir ponctuellement &agrave; raison de quelques heures par semaine ou bien par mois.",
+            "Cela permet ainsi &agrave; une entreprise ou un dirigeant de <b>d&eacute;l&eacute;guer au besoin la prise de d&eacute;cisions et le pilotage des ressources TI</b> aupr&egrave;s de quelqu&rsquo;un ayant suffisamment d&rsquo;exp&eacute;rience et d'expertise pour en assurer sereinement le r&ocirc;le."
+          ],
+          "emphasis": "En &eacute;vitant de combler ce r&ocirc;le &agrave; temps plein, l&rsquo;intervention &agrave; temps partiel permet de traiter les sujets les plus prioritaires et qui demandent une expertise sp&eacute;cifique, et ainsi <b>optimiser le retour sur investissement</b>."
+        },
+        {
+          "title": "Pourquoi faire appel &agrave; nous ?",
+          "paragraphs": [
+            "<b>Nous avons plus de 15 ann&eacute;es d&rsquo;exp&eacute;rience professionnelle dans le d&eacute;veloppement logiciel et encore plus dans les TI de fa&ccedil;on g&eacute;n&eacute;rale</b>. Nous avons &eacute;galement assur&eacute; le poste de Direction Technique pendant plusieurs ann&eacute;es, &agrave; piloter des budgets, des ressources TI, des choix de prestataires, &agrave; g&eacute;rer du recrutement interne en TI ou encore &agrave; g&eacute;rer la progression de carri&egrave;re des collaborateurs TI.",
+            "Nous avons l&rsquo;exp&eacute;rience et l&rsquo;expertise n&eacute;cessaire &agrave; la r&eacute;alisation de ce type de mandat strat&eacute;gique. Vous pourrez ainsi vous reposer sur nous pour <b>vous aider &agrave; prendre des d&eacute;cisions structurantes et pour vous accompagner dans votre transformation num&eacute;rique</b>.",
+            "Notre intervention peut &ecirc;tre ponctuelle ou r&eacute;guli&egrave;re, en fonction de vos besoins et de votre budget. L&rsquo;objectif est de maximiser le retour sur investissement de chacune de nos interventions."
+          ]
+        },
+        {
+          "title": "Comment se d&eacute;roule un mandat de direction technique ?",
+          "paragraphs": [
+            "En premier lieu, il est n&eacute;cessaire de se <b>rencontrer afin que vous nous exposiez votre besoin et vos attentes.</b> Suite &agrave; cette rencontre, nous pourrons vous faire <b>une proposition commerciale</b> pr&eacute;sentant une d&eacute;marche d&rsquo;intervention &agrave; la demande, ou par fr&eacute;quence r&eacute;guli&egrave;re.",
+            "Une fois la proposition accept&eacute;e, <b>nous pourrions commencer &agrave; intervenir et &agrave; int&eacute;grer si n&eacute;cessaire vos diff&eacute;rents processus internes.</b>",
+            "Dans le cas d&rsquo;<b>interventions ponctuelles</b>, vous nous contactez <b>&agrave; la demande</b> et nous intervenons dans les jours qui suivent pour r&eacute;pondre sp&eacute;cifiquement &agrave; la probl&eacute;matique que vous rencontrez.",
+            "Dans le cas d&rsquo;<b>interventions par fr&eacute;quence r&eacute;guli&egrave;re</b>, nous commen&ccedil;ons par identifier vos probl&eacute;matiques actuelles &agrave; traiter et &agrave; d&eacute;finir votre feuille de route TI pour les mois &agrave; venir.&nbsp; Gr&acirc;ce &agrave; cela, nous serons en mesure de vous faire rapidement des propositions de <b>solutions &agrave; court et &agrave; long terme</b>.",
+            "Nous pouvons ensuite nous charger de l&rsquo;impl&eacute;mentation de ces solutions, ou bien vous pouvez aussi le faire en autonomie de votre c&ocirc;t&eacute;. Dans les deux cas, nous d&eacute;finissons un rythme de rencontre afin de faire un suivi r&eacute;gulier et de piloter les d&eacute;cisions relatives aux TI.",
+            "Qu&rsquo;il s&rsquo;agisse d&rsquo;interventions ponctuelles ou r&eacute;guli&egrave;res, celles-ci peuvent aussi bien se faire &agrave; distance avec des outils collaboratifs virtuels, que sur place dans les locaux de votre compagnie."
+          ],
+          "image": "javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg"
+        },
+        {
+          "title": "Quelle est la dur&eacute;e de ce type de mandat ?",
+          "paragraphs": [
+            "La dur&eacute;e d&rsquo;un mandat de direction technique varie selon les attentes et la feuille de route TI.",
+            "Pour une petite compagnie qui a simplement besoin de quelques conseils, il peut s&rsquo;agir de <b>quelques heures r&eacute;parties sur un mois</b>.",
+            "Pour une compagnie qui souhaite se d&eacute;velopper et qui rencontre des probl&eacute;matiques plus importantes, l&rsquo;intervention peut durer <b>plusieurs mois, &agrave; raison de quelques heures par semaine.</b>"
+          ]
+        },
+        {
+          "title": "Combien cela co&ucirc;te-t-il ?",
+          "paragraphs": [
+            "Le co&ucirc;t d&rsquo;un mandat de direction technique est d&eacute;pendant de sa dur&eacute;e et des potentiels d&eacute;placements.",
+            "La facturation se fait au taux horaire (temps et mat&eacute;riel). Vous ne payez donc que les heures r&eacute;ellement utilis&eacute;es, et le tarif peut varier en fonction des potentiels d&eacute;placements requis."
+          ]
+        },
+        {
+          "title": "Avez-vous des exemples de t&acirc;ches de direction technique ?",
+          "paragraphs": [
+            "Bien s&ucirc;r. Si vous n&rsquo;&ecirc;tes pas certains de comment nous pourrions vous aider, voici quelques exemples de t&acirc;ches que nous avons d&eacute;j&agrave; effectu&eacute; dans le pass&eacute; et pour lesquelles nous pourrions vous accompagner par un mandat de direction technique :"
+          ],
+          "items": [
+            "le pilotage de votre <b>budget TI annuel</b>,",
+            "la <b>gestion du risque</b> et de vos contraintes,",
+            "la <b>prise de d&eacute;cisions strat&eacute;giques</b> pour votre compagnie,",
+            "l'implantation de <b>nouveaux processus TI,</b>",
+            "la construction d'un <b>parcours de formation TI interne</b>,",
+            "la construction d'une <b>politique de s&eacute;curit&eacute;</b> de votre syst&egrave;me d'information,",
+            "le <b>stockage et la gestion de vos donn&eacute;es</b> d'entreprise,",
+            "le choix d'une <b>infrastructure infonuagique</b>,",
+            "le choix d'<b>outils ou de logiciels</b> utilis&eacute;s par vos collaborateurs,",
+            "le <b>recrutement</b> d'un&middot;e Directeur&middot;rice Technique, de d&eacute;veloppeurs ou de toute autre personne rattach&eacute;e aux TI,",
+            "la <b>r&eacute;alisation d'appels d'offres</b> pour soumettre des demandes sur des plateformes telles que SEAO,",
+            "le <b>choix de prestataires</b> externes qui r&eacute;pondraient &agrave; vos appels d'offres,",
+            "la <b>gestion de la dette technique</b>."
+          ]
+        }
       ],
-      "examples": {
-        "heading": "We can for example assist you in:",
-        "items": [
-          "the management of your annual <b>IT budget</b>,",
-          "constraints and <b>risk management</b>,",
-          "<b>strategic decision making</b> for your company,",
-          "the implementation of new <b>IT processes</b>,",
-          "building an internal <b>IT training path</b>,",
-          "the design of an <b>IT security policy</b> for your information system,",
-          "storage and <b>management of your corporate data</b>,",
-          "the selection of a <b>cloud infrastructure</b>,",
-          "the <b>selection of tools or software</b> used by your employees,",
-          "the <b>hiring</b> of a CTO, developers or any other IT-related person,",
-          "<b>conducting RFPs</b> to bid on platforms such as SEAO,",
-          "<b>choosing external service providers</b> who would respond to your RFPs,",
-          "<b>technical debt</b> management."
-        ]
-      },
-      "more": "For more information, <br/>contact us!"
+      "contact-us": "Vous avez des questions ?<br/>Contactez-nous ici !",
+      "other-services": "Retrouvez &eacute;galement nos autres services :"
     },
     "delivery-and-hosting": {
       "meta": {

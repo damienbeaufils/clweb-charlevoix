@@ -135,9 +135,9 @@ export default {
         en: '/services/process-and-rates',
         fr: '/services/deroulement-et-tarifs',
       },
-      'services/directeur-technique-a-temps-partiel': {
+      'services/direction-technique': {
         en: '/services/cto-as-a-service',
-        fr: '/services/directeur-technique-a-temps-partiel',
+        fr: '/services/direction-technique',
       },
       'services/realisation-et-hebergement': {
         en: '/services/delivery-and-hosting',
