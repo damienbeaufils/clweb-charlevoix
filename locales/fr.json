@@ -247,9 +247,7 @@
             ]
           }
         }
-      ],
-      "contact-us": "Vous avez des questions ?<br/>Contactez-nous ici !",
-      "other-services": "Retrouvez &eacute;galement nos autres services :"
+      ]
     },
     "process-and-rates": {
       "meta": {
@@ -364,9 +362,7 @@
             "la <b>gestion de la dette technique</b>."
           ]
         }
-      ],
-      "contact-us": "Vous avez des questions ?<br/>Contactez-nous ici !",
-      "other-services": "Retrouvez &eacute;galement nos autres services :"
+      ]
     },
     "delivery-and-hosting": {
       "meta": {
@@ -386,6 +382,8 @@
         "En bref, notre mission : <b>concevoir des logiciels de qualité qui répondent à vos besoins, et qui soient évolutifs sur plusieurs années</b>."
       ],
       "more": "Pour en savoir plus, <br/>contactez-nous !"
-    }
+    },
+    "contact-us": "Vous avez des questions ?<br/>Contactez-nous ici !",
+    "other-services": "Retrouvez &eacute;galement nos autres services :"
   }
 }
