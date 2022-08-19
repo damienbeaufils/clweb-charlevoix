@@ -129,16 +129,69 @@
         "title": "Coaching et formation | Services | CLWeb Charlevoix",
         "description": "Nous pouvons accompagner et former aux pratiques de qualité une ou plusieurs équipes de développement de votre compagnie"
       },
-      "heading": "Coaching et formation",
-      "subheading": "Pour accompagner et former une ou plusieurs équipes de développement de votre compagnie",
-      "paragraph": [
-        "Vous avez dans votre compagnie une personne en charge du développement et de la maintenance logicielle, ou bien une équipe de développement complète, et vous souhaitez les <b>former aux pratiques de qualité</b> ?<br/>Vous êtes vous-mêmes développeur ou développeuse et vous souhaitez progresser dans vos pratiques pour <b>produire du code maintenable et évolutif sur le long terme</b> ?",
-        "Nous pouvons <b>former et accompagner</b> aussi bien sur les pratiques de qualité des développements que sur des technologies spécifiques sur lesquelles nous sommes experts. <br/>La <b>formation</b> peut se dérouler sur un ou plusieurs jours, en ligne ou bien sur place. <br/>L'<b>accompagnement</b> se fait habituellement de manière dégressive : quelques jours par semaine au démarrage, puis une réduction progressive pour finir à quelques heures de coaching par semaine. <br/> Notre objectif est bien que la ou <b>les personnes formées soient autonomes</b> et qu'il n'y ait plus besoin d'aucun accompagnement ni coaching une fois le mandat terminé.",
-        "Nous pouvons également intervenir une matinée ou lors d'un <i>Lunch & Learn</i> pour animer des <b>présentations de sensibilisation</b> sur des sujets spécifiques tels que les dernières nouveautés d'une technologie ou bien sur des pratiques de développement logiciel telles que <i>Clean Code</i> ou bien l'éco-conception de services numériques. Ces sensibilisations sont idéales pour \"donner le goût\" à vos équipes d'aller plus loin sur le sujet, notamment via une formation (car il n'y a rien de pire que d'aller à une formation contre son gré).",
-        "Nous pouvons aussi intervenir auprès de vos équipes pour les aider à établir des <b>communautés de pratiques</b>, ce qui permettrait à vos collaborateurs de partager leurs connaissances et leurs intérêts, qu'ils soient techniques ou non, afin de <b>progresser collectivement</b>.",
-        "N'hésitez pas à nous contacter pour nous présenter votre contexte et votre besoin, et nous pourrons vous présenter une <b>proposition adaptée à votre problématique et votre budget</b>."
-      ],
-      "more": "Pour en savoir plus, <br/>contactez-nous !"
+      "title": "Coaching et formation",
+      "sections": [
+        {
+          "title": "Qu&rsquo;est-ce qu&rsquo;un mandat de coaching et de formation ?",
+          "paragraphs": [
+            "Un mandat de coaching et de formation a pour objectif de <b>transmettre de la connaissance</b> aupr&egrave;s d&rsquo;une ou plusieurs personnes, sur un ou plusieurs sujets, afin que la ou les personnes cibl&eacute;es <b>augmentent leur niveau d&rsquo;expertise</b>.",
+            "Formation et coaching ont le m&ecirc;me objectif, mais par deux modes op&eacute;ratoires diff&eacute;rents :<br/>- Une <b>formation</b> est <b>cibl&eacute;e sur un sujet ou un th&egrave;me</b>, et est r&eacute;alis&eacute;e sur 1 &agrave; 2 journ&eacute;es. Pendant ces journ&eacute;es, la ou les personnes cibl&eacute;es ne travaillent pas sur leur t&acirc;ches du quotidien, et sont focalis&eacute;es sur la formation. Cela permet de transmettre le maximum d&rsquo;informations en un minimum de temps, et de prendre le temps de r&eacute;pondre aux questions. Le mandat s&rsquo;ach&egrave;ve une fois la formation r&eacute;alis&eacute;e.<br/>- Un <b>coaching</b> est un <b>accompagnement sur la dur&eacute;e</b>, pour aider &agrave; impl&eacute;menter ou utiliser un ou plusieurs sujets (par exemple une technologie ou une pratique) sur les t&acirc;ches du quotidien. <b>La transmission de savoir est donc plus proche du terrain et des probl&eacute;matiques r&eacute;elles compar&eacute; &agrave; la formation, mais est moins formelle</b>. Le mandat peut se faire avec un rythme d&eacute;gressif : commencer avec quelques jours par semaine puis progressivement r&eacute;duire la pr&eacute;sence pour terminer avec quelques heures par semaine.",
+            "Il est courant de combiner les 2 approches : <b>commencer par une formation</b> pour transmettre le maximum de connaissances et ainsi avoir une base solide, puis dans un second temps du <b>coaching pour mettre en application les connaissances acquises</b> en formation dans les conditions r&eacute;elles du quotidien."
+          ],
+          "emphasis": "Nous sommes sp&eacute;cialis&eacute;s dans la formation et le coaching sur les <b>pratiques de qualit&eacute; du d&eacute;veloppement logiciel</b>, qui permettent de produire du code maintenable et &eacute;volutif sur le long terme."
+        },
+        {
+          "title": "&Agrave; qui est-ce destin&eacute; ?",
+          "paragraphs": [
+            "Les formations et le coaching peuvent &ecirc;tre r&eacute;alis&eacute;s aussi bien pour une personne seule en charge du d&eacute;veloppement et de la maintenance logicielle dans votre compagnie ou bien &agrave; destination d&rsquo;une &eacute;quipe de d&eacute;veloppement compl&egrave;te.",
+            "De ce fait, si vous &ecirc;tes dirigeant&middot;e d&rsquo;entreprise ou responsable d&rsquo;&eacute;quipe et que vous souhaitez faire progresser vos collaborateur&middot;rice&middot;s dans leurs pratiques pour produire du code maintenable et &eacute;volutif, nous pouvons vous accompagner dans cette d&eacute;marche.",
+            "Si vous &ecirc;tes vous-m&ecirc;me d&eacute;veloppeur ou d&eacute;veloppeuse et vous souhaitez progresser dans vos connaissances techniques ou vos pratiques de qualit&eacute; logicielle, nous pouvons vous aider au travers d&rsquo;un coaching personnalis&eacute;."
+          ]
+        },
+        {
+          "title": "Pourquoi faire appel &agrave; nous ?",
+          "paragraphs": [
+            "Nous avons plus de 15 ann&eacute;es d&rsquo;exp&eacute;rience en d&eacute;veloppement logiciel, et nous sommes <b>experts dans les pratiques de qualit&eacute; des d&eacute;veloppements</b>, appel&eacute;es aussi pratiques du mouvement <i>Software Craftsmanship</i> (des pratiques telles que <i>Clean Code</i>, <i>Refactoring</i>, <i>Test Driven Development</i>...). Nous sommes &eacute;galement certifi&eacute;s sur plusieurs technologies ainsi que sur l'&eacute;co-conception de services num&eacute;riques (&Eacute;co-TIC).",
+            "Durant ces 15 derni&egrave;res ann&eacute;es, nous avons anim&eacute; de nombreuses formations, pour des groupes de tous les niveaux et dans entreprises de divers domaines d&rsquo;activit&eacute;. Nous adoptons une <b>d&eacute;marche p&eacute;dagogique</b> qui nous permet de transmettre notre savoir simplement et efficacement, en <b>adaptant notre discours au niveau de la population cible</b>.",
+            "En faisant appel &agrave; nous, <b>vous b&eacute;n&eacute;ficiez de formations et d&rsquo;un coaching personnalis&eacute;s, adapt&eacute;s &agrave; votre contexte et vos besoins</b>, contrairement &agrave; d&rsquo;autres formations plus g&eacute;n&eacute;ralistes qui proposent du contenu standard mais non-personnalis&eacute;. De plus, <b>nous pouvons nous d&eacute;placer pour r&eacute;aliser la formation dans vos locaux, afin de fournir une exp&eacute;rience plus chaleureuse et enrichissante compar&eacute; &agrave; du 100% virtuel.</b>",
+            "En plus des formations et du coaching, nous pouvons aussi intervenir pour une matin&eacute;e ou pour un <i>Lunch &amp; Learn</i> afin d&rsquo;animer des <b>pr&eacute;sentations de sensibilisation</b> sur des sujets sp&eacute;cifiques tels que les derni&egrave;res nouveaut&eacute;s d'une technologie ou bien sur des pratiques de d&eacute;veloppement logiciel. <b>Ces sensibilisations sont id&eacute;ales pour \"donner le go&ucirc;t\" &agrave; vos &eacute;quipes d'aller plus loin sur un sujet.</b>",
+            "N'h&eacute;sitez pas &agrave; nous contacter pour nous pr&eacute;senter votre contexte et votre besoin, et nous pourrons vous faire une proposition adapt&eacute;e &agrave; votre probl&eacute;matique et votre budget."
+          ],
+          "image": "artem-maltsev-0CvHQ62gwY8-unsplash.jpg"
+        },
+        {
+          "title": "Comment se d&eacute;roule une formation ?",
+          "paragraphs": [
+            "En premier lieu, il est n&eacute;cessaire de se <b>rencontrer pour que vous nous pr&eacute;sentiez votre besoin en formation </b>et les probl&eacute;matiques que vous rencontrez actuellement. Suite &agrave; cela, nous pourrons faire une &eacute;valuation et vous faire <b>une proposition commerciale.</b>",
+            "<b>Une fois la proposition commerciale accept&eacute;e, nous conviendrons d&rsquo;une date de formation</b>. La formation pourra &ecirc;tre r&eacute;alis&eacute;e en <b>virtuel ou en pr&eacute;sentiel d&eacute;pendant de votre contexte.</b> Les formations durent en g&eacute;n&eacute;ral de 1 &agrave; 2 journ&eacute;es, et les participant&middot;e&middot;s repartent avec les diff&eacute;rents supports et exercices qui ont &eacute;t&eacute; pr&eacute;sent&eacute;s.",
+            "Pour les besoins de formation, les participant&middot;e&middot;s doivent avoir au moins 1 ordinateur pour 2, avec une connexion Internet fiable. Dans le cas o&ugrave; la formation est r&eacute;alis&eacute;e sur place, une salle d&eacute;di&eacute;e dans laquelle les ordinateurs pourront &ecirc;tre install&eacute;s doit &ecirc;tre r&eacute;serv&eacute;e et sera utilis&eacute;e pendant les jours de pr&eacute;sence."
+          ]
+        },
+        {
+          "title": "Comment se d&eacute;roule un mandat de coaching ?",
+          "paragraphs": [
+            "Pour r&eacute;aliser un coaching, que cela fasse suite &agrave; une formation ou demand&eacute; de mani&egrave;re compl&egrave;tement ind&eacute;pendante, il est n&eacute;cessaire de se rencontrer pour partager les attentes, le budget et la temporalit&eacute;. Cela nous permettra de vous pr&eacute;senter une proposition commerciale qui correspond &agrave; votre besoin et votre r&eacute;alit&eacute;.",
+            "Une fois les modalit&eacute;s &eacute;tablies et la proposition accept&eacute;e, <b>le coaching est g&eacute;n&eacute;ralement effectu&eacute; de mani&egrave;re d&eacute;gressive</b> : notre pr&eacute;sence est forte au d&eacute;but du mandat avec plusieurs jours par semaine, puis r&eacute;duite progressivement au fil des semaines ou des mois pour terminer avec quelques heures par semaine.",
+            "Ce mode d&eacute;gressif permet de mettre en place d&egrave;s le d&eacute;but <b>des bases solides</b> et de bien s&rsquo;impr&eacute;gner de tout le contexte, et ainsi <b>d&rsquo;&ecirc;tre en capacit&eacute; d&rsquo;apporter le maximum de conseils rapidement</b>. En diminuant graduellement notre pr&eacute;sence, cela permet aux personnes coach&eacute;es de <b>gagner progressivement en autonomie</b>, et nous travaillons ainsi sur les sujets les plus prioritaires et bloquants lorsque nous sommes pr&eacute;sents."
+          ],
+          "emphasis": "Notre objectif est bien que <b>la ou les personnes form&eacute;es soient totalement autonomes et qu'il n'y ait plus besoin d'aucun accompagnement une fois le mandat termin&eacute;</b>.",
+          "image": "scott-graham-5fNmWej4tAA-unsplash.jpg"
+        },
+        {
+          "title": "Quelle est la dur&eacute;e de ce type de mandat ?",
+          "paragraphs": [
+            "Une formation dure en g&eacute;n&eacute;ral 1 &agrave; 2 jours.",
+            "Un coaching peut durer plusieurs mois, et est r&eacute;alis&eacute; habituellement de mani&egrave;re d&eacute;gressive."
+          ]
+        },
+        {
+          "title": "Combien cela co&ucirc;te-t-il ?",
+          "paragraphs": [
+            "Le prix d&rsquo;une formation est forfaitaire, et d&eacute;pend principalement du nombre de participants et des d&eacute;placements &eacute;ventuels.",
+            "Pour le coaching, la facturation s&rsquo;effectue au taux horaire (temps et mat&eacute;riel). Nous ne facturons donc que les heures effectu&eacute;es. De ce fait, si vous avez d&eacute;j&agrave; un budget cible, nous pouvons vous donner une estimation du nombre d&rsquo;heures et de la r&eacute;partition temporelle."
+          ]
+        }
+      ]
     },
     "consulting-and-guidance": {
       "meta": {
@@ -161,7 +214,7 @@
           "paragraphs": [
             "&Agrave; toute entreprise, dirigeant&middot;e ou responsable qui doit prendre une <b>d&eacute;cision importante et strat&eacute;gique</b> et qui souhaite un regard ext&eacute;rieur pour lui <b>fournir une analyse d&eacute;taill&eacute;e et des recommandations adapt&eacute;es</b> &agrave; son contexte."
           ],
-          "image": "vladislav-babienko-KTpSVEcU0XU-unsplash.jpg"
+          "image": "jens-lelie-u0vgcIOQG08-unsplash.jpg"
         },
         {
           "title": "Pourquoi faire appel &agrave; une compagnie de conseil ? Quels sont les avantages ?",
@@ -386,7 +439,8 @@
             "En r&eacute;duisant le temps pass&eacute; &agrave; des t&acirc;ches &agrave; faible valeur ajout&eacute;e, il est alors possible de <b>maximiser le temps pass&eacute; sur le coeur de m&eacute;tier de la compagnie</b>, que ce soit de la production ou de la vente de produits ou services.",
             "De ce fait, en investissant dans un <b>logiciel con&ccedil;u sur mesure</b>, ce dernier devient alors un <b>atout pour l&rsquo;entreprise</b>, et va permettre d&rsquo;<b>am&eacute;liorer le retour sur investissement</b> du temps travaill&eacute;, de <b>diminuer le risque d&rsquo;erreur manuelles</b>, et d&rsquo;<b>&eacute;viter les heures suppl&eacute;mentaires</b>."
           ],
-          "emphasis": "Tout ceci a un impact non seulement sur votre cadre professionnel, mais aussi sur votre vie personnelle : gr&acirc;ce &agrave; ces b&eacute;n&eacute;fices, vous pouvez d&eacute;gager plus de temps pour vous, vos loisirs ou encore pour votre vie familiale. <b>Un meilleur cadre de vie professionnel conduit &agrave; un meilleur cadre de vie personnel.</b>"
+          "emphasis": "Tout ceci a un impact non seulement sur votre cadre professionnel, mais aussi sur votre vie personnelle : gr&acirc;ce &agrave; ces b&eacute;n&eacute;fices, vous pouvez d&eacute;gager plus de temps pour vous, vos loisirs ou encore pour votre vie familiale. <b>Un meilleur cadre de vie professionnel conduit &agrave; un meilleur cadre de vie personnel.</b>",
+          "image": "glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg"
         },
         {
           "title": "Pourquoi faire appel &agrave; une compagnie de d&eacute;veloppement logiciel ? Quels sont les avantages ?",
@@ -411,7 +465,7 @@
             "Une fois la r&eacute;alisation termin&eacute;e, nous pouvons alors livrer le logiciel &agrave; votre compagnie ou bien &agrave; un autre prestataire de service existant, ou bien nous pouvons nous-m&ecirc;mes nous charger du d&eacute;ploiement.&nbsp;",
             "Dans le cas o&ugrave; nous nous chargeons du d&eacute;ploiement, <b>il s&rsquo;agit d&rsquo;un nouveau mandat d&rsquo;h&eacute;bergement et de maintenance.</b>"
           ],
-          "image": "kevin-canlas-QYHehJ9Iovs-unsplash.jpg"
+          "image": "thomas-jensen-ISG-rUel0Uw-unsplash.jpg"
         },
         {
           "title": "Quelle est la dur&eacute;e de ce type de mandat ?",
