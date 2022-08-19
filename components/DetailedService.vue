@@ -12,7 +12,7 @@
               <v-col cols="12" md="8" xl="6">
                 <v-card color="secondary" class="white--text">
                   <v-card-title class="pb-2">
-                    <span v-html="$t(`${i18nKeyPrefix}.toc-header`)"></span>
+                    <span v-html="$t(`services.toc-header`)"></span>
                   </v-card-title>
                   <v-card-text class="white--text">
                     <ul>
@@ -250,9 +250,6 @@ section {
   li {
     line-height: 1.75rem;
     font-size: 1.1rem;
-    a {
-      color: unset;
-    }
   }
 }
 
@@ -262,5 +259,9 @@ section {
 
 ul + .row {
   margin-top: 1rem;
+}
+
+::v-deep a {
+  color: unset;
 }
 </style>

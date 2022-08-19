@@ -6,7 +6,7 @@
 import DetailedService from '@/components/DetailedService'
 
 export default {
-  components: [DetailedService],
+  components: { DetailedService },
   data() {
     return {
       i18nSubKey: 'consulting-and-guidance',

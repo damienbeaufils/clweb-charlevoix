@@ -146,7 +146,6 @@
         "description": "Nous pouvons vous conseiller dans la prise de décisions importantes et stratégiques pour votre compagnie"
       },
       "title": "Conseil et accompagnement",
-      "toc-header": "Dans cette section, retrouvez les réponses à ces questions :",
       "sections": [
         {
           "title": "Qu&rsquo;est-ce qu&rsquo;un mandat de conseil et d&rsquo;accompagnement ?",
@@ -287,7 +286,6 @@
         "description": "Nous pouvons occuper le poste de Direction Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois (CTO-as-a-Service)"
       },
       "title": "Direction Technique",
-      "toc-header": "Dans cette section, retrouvez les réponses à ces questions :",
       "sections": [
         {
           "title": "Qu&rsquo;est-ce qu&rsquo;un mandat de direction technique ?",
@@ -369,20 +367,100 @@
         "title": "Réalisation et hébergement | Services | CLWeb Charlevoix",
         "description": "Nous pouvons concevoir un logiciel ou créer un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet"
       },
-      "heading": "Réalisation et hébergement",
-      "subheading": "Pour la conception d’un logiciel ou la création d'un site web sur-mesure, de qualité, adapté à vos besoins et au cadre de votre projet",
-      "paragraph": [
-        "Vous avez un processus manuel ou semi-automatisé qui vous prend <b>plusieurs heures par semaine ou par mois</b> ? <b>Traité sur papier</b> ou partiellement informatisé ? Avec un <b>risque d’erreur ou d’oubli</b> ? <br/>Votre site web ou votre intranet conçu avec des outils comme Wix ou Wordpress n’est plus adapté à vos besoins ? <b>Vous devez vous adapter à votre logiciel alors qu’il devrait s’adapter à votre vous et votre processus ?</b>",
-        "Nous réalisons le développement de <b>logiciels ou sites web sur-mesure, de qualité, adaptés à vos besoins et votre contexte</b>, que vous pourrez utiliser aussi bien sur votre cellulaire, tablette ou ordinateur.",
-        "Nous fonctionnons avec une <b>approche itérative</b> (<a href=\"https://fr.wikipedia.org/wiki/M%C3%A9thode_agile\" target=\"_blank\">pratiques agiles</a>) pour concevoir votre produit en intégrant vos commentaires régulièrement.",
-        "Concrètement, avant de commencer à écrire toute ligne de code, nous avons besoin d'au moins une première rencontre pour bien <b>identifier votre contexte et cadrer votre besoin</b>. Une fois la rencontre effectuée, nous pourrons vous faire une <b>proposition commerciale adaptée à votre problématique et à votre budget</b>.",
-        "Tout le long du mandat, des <b>rencontres régulières</b> sont planifiées (par exemple aux deux semaines) afin de présenter l'avancement du travail, le restant à faire et les potentielles difficultés rencontrées. Dépendant des résultats et de votre contexte, la portée du mandat peut être ajustée afin qu'il soit <b>toujours adapté à votre réalité</b>.",
-        "<b>La qualité du logiciel est notre priorité</b>. Nous utilisons pour cela des outils et pratiques de code à l’état de l’art, afin de produire un code robuste, fiable et évolutif sur le long terme. L'objectif est que le logiciel ou site web puisse vous accompagner sur plusieurs années, <b>évoluer et s'adapter en même temps que votre compagnie</b>, sans avoir à faire table rase au bout de quelques années.",
-        "Nous pouvons déployer le logiciel ou héberger le site web sur des infrastructures infonuagiques, ici, <b>au Québec</b>, afin d’être au plus proche géographiquement de nos clients et de <b>faire fonctionner l’industrie locale</b>.",
-        "En bref, notre mission : <b>concevoir des logiciels de qualité qui répondent à vos besoins, et qui soient évolutifs sur plusieurs années</b>."
-      ],
-      "more": "Pour en savoir plus, <br/>contactez-nous !"
+      "title": "Réalisation et hébergement",
+      "sections": [
+        {
+          "title": "Qu&rsquo;est-ce qu&rsquo;un mandat de r&eacute;alisation et d&rsquo;h&eacute;bergement ?",
+          "paragraphs": [
+            "Un mandat de r&eacute;alisation et d&rsquo;h&eacute;bergement a pour objectif de <b>concevoir sur mesure et d&eacute;ployer un site web, une application ou tout autre logiciel</b>.",
+            "On distingue deux phases principales, qui peuvent &ecirc;tre dissoci&eacute;es :<br/>- La phase de <b>r&eacute;alisation</b>, qui consiste &agrave; d&eacute;velopper le logiciel sur mesure de mani&egrave;re it&eacute;rative, en fonction des besoins et du budget ;<br/>- La phase d&rsquo;<b>h&eacute;bergement</b>, qui consiste &agrave; d&eacute;ployer le logiciel sur une infrastructure infonuagique.",
+            "Il est tout &agrave; fait <b>possible d&rsquo;ex&eacute;cuter la phase de r&eacute;alisation sans la phase d&rsquo;h&eacute;bergement</b> si un autre prestataire de service se charge d&eacute;j&agrave; de l&rsquo;h&eacute;bergement, ou bien si c&rsquo;est g&eacute;r&eacute; en interne."
+          ]
+        },
+        {
+          "title": "&Agrave; qui est-ce destin&eacute; ?",
+          "paragraphs": [
+            "&Agrave; toute entreprise ou dirigeant&middot;e qui souhaite r&eacute;aliser un logiciel, un site web ou une application dans le but de <b>gagner en temps, en efficacit&eacute;, ou en visibilit&eacute;</b> pour d&eacute;velopper son entreprise aupr&egrave;s de ses clients.",
+            "En cette p&eacute;riode &eacute;conomique incertaine et dans la p&eacute;nurie de main d&rsquo;oeuvre actuelle, il est important de se <b>recentrer sur ses activit&eacute;s essentielles</b> et de <b>diminuer voire &eacute;liminer le temps pass&eacute; &agrave; r&eacute;aliser des t&acirc;ches r&eacute;p&eacute;titives</b>.&nbsp;",
+            "On peut prendre l&rsquo;exemple d&rsquo;un processus d&rsquo;entreprise qui est manuel ou semi-automatis&eacute;, trait&eacute; sur papier ou partiellement informatis&eacute;, qui prend plusieurs heures par semaine ou par mois ou encore qui pr&eacute;sente un risque d&rsquo;erreur ou d&rsquo;oubli.&nbsp;",
+            "En r&eacute;duisant le temps pass&eacute; &agrave; des t&acirc;ches &agrave; faible valeur ajout&eacute;e, il est alors possible de <b>maximiser le temps pass&eacute; sur le coeur de m&eacute;tier de la compagnie</b>, que ce soit de la production ou de la vente de produits ou services.",
+            "De ce fait, en investissant dans un <b>logiciel con&ccedil;u sur mesure</b>, ce dernier devient alors un <b>atout pour l&rsquo;entreprise</b>, et va permettre d&rsquo;<b>am&eacute;liorer le retour sur investissement</b> du temps travaill&eacute;, de <b>diminuer le risque d&rsquo;erreur manuelles</b>, et d&rsquo;<b>&eacute;viter les heures suppl&eacute;mentaires</b>."
+          ],
+          "emphasis": "Tout ceci a un impact non seulement sur votre cadre professionnel, mais aussi sur votre vie personnelle : gr&acirc;ce &agrave; ces b&eacute;n&eacute;fices, vous pouvez d&eacute;gager plus de temps pour vous, vos loisirs ou encore pour votre vie familiale. <b>Un meilleur cadre de vie professionnel conduit &agrave; un meilleur cadre de vie personnel.</b>"
+        },
+        {
+          "title": "Pourquoi faire appel &agrave; une compagnie de d&eacute;veloppement logiciel ? Quels sont les avantages ?",
+          "paragraphs": [
+            "Il existe de nombreuses plateformes en ligne telles que Wordpress, Wix ou autres, qui permettent en relativement peu de temps et de connaissances techniques de cr&eacute;er et mettre en ligne un site web.&nbsp;",
+            "Par contre, d&egrave;s que l&rsquo;on souhaite personnaliser le site, le mettre &agrave; notre image, ou bien sortir des mod&egrave;les pr&eacute;-con&ccedil;us, cela devient rapidement complexe et on n&rsquo;est jamais totalement satisfait. Cela donne une impression finale de <em>patchwork</em>. De plus, avec ce type d&rsquo;outil, il est impossible de r&eacute;aliser des logiciels de gestion d&rsquo;entreprise qui correspondent &agrave; 100% &agrave; votre r&eacute;alit&eacute; et &agrave; votre besoin. Au final, <b>on se retrouve &agrave; devoir s&rsquo;adapter au logiciel alors qu&rsquo;il devrait s&rsquo;adapter &agrave; nous</b>.",
+            "En faisant appel &agrave; une compagnie de r&eacute;alisation de logiciel telle que la n&ocirc;tre, vous avez le contr&ocirc;le total sur le visuel et les fonctionnalit&eacute;s que vous souhaitez avoir. En effet, <b>l&rsquo;analyse de votre besoin est au coeur de notre processus de conception</b>. Nous d&eacute;veloppons des logiciels par &eacute;tapes, en analysant de mani&egrave;re d&eacute;taill&eacute;e ce que vous souhaitez, et en int&eacute;grant r&eacute;guli&egrave;rement vos retours pour que vous soyez enti&egrave;rement satisfait du r&eacute;sultat final.",
+            "- Vous voulez un site web pour afficher vos produits &agrave; vos clients et faire de la commande en ligne ?<br/>- Une application pour simplifier la gestion de votre activit&eacute; et de votre comptabilit&eacute; ?<br/>- Un logiciel qui va r&eacute;duire le temps pass&eacute; &agrave; des t&acirc;ches r&eacute;p&eacute;titives et r&eacute;duire le risque d&rsquo;erreurs manuelles ?",
+            "<b>Tout ceci est possible en cr&eacute;ant un logiciel sur mesure,</b> qui correspond &agrave; votre contexte, vos probl&eacute;matiques, et donc qui vous permettra de <b>gagner au maximum en efficacit&eacute; au quotidien</b>.",
+            "En faisant appel &agrave; nous, nous r&eacute;aliserons ainsi une analyse pouss&eacute;e de votre projet et nous vous proposerons la <b>r&eacute;alisation d&rsquo;un site web, application ou tout autre logiciel, sur mesure, correspondant &agrave; votre budget</b>. De plus, <b>la </b><b>qualit&eacute; du logiciel est notre priorit&eacute;</b>. Nous utilisons pour cela des outils et pratiques de code &agrave; l&rsquo;&eacute;tat de l&rsquo;art, afin de produire un <b>code robuste, fiable et &eacute;volutif sur le long terme</b>. L'objectif est que le logiciel ou site web puisse vous accompagner sur plusieurs ann&eacute;es, &eacute;voluer et s'adapter en m&ecirc;me temps que votre compagnie, sans avoir &agrave; faire table rase au bout de quelques ann&eacute;es.",
+            "Enfin, nous pouvons nous charger de d&eacute;ployer le logiciel ou d&rsquo;h&eacute;berger le site web sur des infrastructures infonuagiques, <b>ici, au Qu&eacute;bec,</b> afin d&rsquo;&ecirc;tre au plus proche g&eacute;ographiquement de vos clients et de <b>faire fonctionner l&rsquo;industrie locale.</b>"
+          ],
+          "emphasis": "Notre mission en bref : <b>concevoir des logiciels de qualit&eacute; qui r&eacute;pondent &agrave; vos besoins, et qui soient &eacute;volutifs sur plusieurs ann&eacute;es</b>."
+        },
+        {
+          "title": "Comment se d&eacute;roule un mandat de r&eacute;alisation et d&rsquo;h&eacute;bergement ?",
+          "paragraphs": [
+            "Pour commencer, il est essentiel de se<b> rencontrer une premi&egrave;re fois</b> afin que vous nous exposiez votre projet afin que nous puissions comprendre votre contexte et ainsi faire une premi&egrave;re analyse de la situation.",
+            "Ensuite, nous vous ferons <b>une proposition commerciale</b> correspondant &agrave; votre budget pour la r&eacute;alisation du produit.&nbsp;",
+            "Une fois la proposition commerciale accept&eacute;e, <b>nous pouvons d&eacute;marrer la conception du logiciel ou du site web sur mesure</b>. <b>La r&eacute;alisation se fait de mani&egrave;re it&eacute;rative</b> (<a href=\"https://fr.wikipedia.org/wiki/M%C3%A9thode_agile\" target=\"_blank\" rel=\"noopener\">pratiques agiles</a>), c&rsquo;est &agrave; dire que nous travaillons habituellement par s&eacute;quences de deux semaines (une it&eacute;ration) avec pour objectif d&rsquo;avoir un logiciel utilisable &agrave; chaque fin d&rsquo;it&eacute;ration.",
+            "&Agrave; chaque fin d&rsquo;it&eacute;ration nous vous pr&eacute;sentons l&rsquo;avancement, les difficult&eacute;s rencontr&eacute;es, et vous pouvez alors nous faire des retours que nous int&eacute;grerons lors de la prochaine it&eacute;ration. Cette approche permet &eacute;galement d&rsquo;ajuster r&eacute;guli&egrave;rement la port&eacute;e du mandat afin qu&rsquo;il soit <b>toujours adapt&eacute; &agrave; votre r&eacute;alit&eacute;</b>.",
+            "Une fois la r&eacute;alisation termin&eacute;e, nous pouvons alors livrer le logiciel &agrave; votre compagnie ou bien &agrave; un autre prestataire de service existant, ou bien nous pouvons nous-m&ecirc;mes nous charger du d&eacute;ploiement.&nbsp;",
+            "Dans le cas o&ugrave; nous nous chargeons du d&eacute;ploiement, <b>il s&rsquo;agit d&rsquo;un nouveau mandat d&rsquo;h&eacute;bergement et de maintenance.</b>"
+          ],
+          "image": "kevin-canlas-QYHehJ9Iovs-unsplash.jpg"
+        },
+        {
+          "title": "Quelle est la dur&eacute;e de ce type de mandat ?",
+          "paragraphs": [
+            "La dur&eacute;e d&rsquo;un mandat de r&eacute;alisation de logiciel ou site web sur mesure varie grandement en fonction du contexte, des fonctionnalit&eacute;s souhait&eacute;es et du budget. Dans l&rsquo;industrie logicielle, on peut en effet observer des dur&eacute;es de quelques semaines &agrave; plusieurs ann&eacute;es !&nbsp;",
+            "N&eacute;anmoins,<b> nous privil&eacute;gions des dur&eacute;es de mandat inf&eacute;rieures &agrave; 3 mois</b>. Cela permet d&rsquo;&eacute;tablir un budget raisonnable et une liste de fonctionnalit&eacute;s prioritaires, et nous pouvons renouveler le mandat si n&eacute;cessaire.",
+            "L&rsquo;objectif est ainsi qu&rsquo;en moins de 3 mois, <b>une version fonctionnelle et utilisable puisse &ecirc;tre d&eacute;ploy&eacute;e en production et ainsi vous apporter un retour sur investissement rapidement</b>.",
+            "La phase d&rsquo;h&eacute;bergement est sur un autre mode de contractualisation d&rsquo;une dur&eacute;e de 1 an renouvelable."
+          ]
+        },
+        {
+          "title": "Combien cela co&ucirc;te-t-il ?",
+          "paragraphs": [
+            "Pour la phase de r&eacute;alisation, la facturation se fait habituellement au taux horaire (temps et mat&eacute;riel). <b>Le co&ucirc;t d&eacute;pend ainsi du temps r&eacute;el pass&eacute;, et donc du nombre et de la complexit&eacute; des fonctionnalit&eacute;s souhait&eacute;es</b>. N&eacute;anmoins, apr&egrave;s la premi&egrave;re rencontre, nous serons en capacit&eacute; de vous donner une estimation g&eacute;n&eacute;rale du co&ucirc;t en fonction de votre contexte et de vos besoins.",
+            "Concernant la phase d&rsquo;h&eacute;bergement sur une infrastructure infonuagique, la facturation se fait mensuellement, en fonction de l&rsquo;utilisation r&eacute;elle. <b>Vous ne payez ainsi qu&rsquo;en fonction des ressources r&eacute;ellement consomm&eacute;es</b>, plut&ocirc;t qu&rsquo;un tarif fixe &eacute;lev&eacute; tous les mois. Si vous n&rsquo;avez que tr&egrave;s peu d&rsquo;utilisateurs, le prix mensuel sera donc minimum."
+          ],
+          "references": {
+            "intro": "Voici un extrait des clients pour lesquels nous avons r&eacute;alis&eacute; des mandats de r&eacute;alisation et/ou d&rsquo;h&eacute;bergement :",
+            "logos": [
+              {
+                "src": "intact.png",
+                "alt": "Intact"
+              },
+              {
+                "src": "roland-garros.png",
+                "alt": "Roland-Garros"
+              },
+              {
+                "src": "panivore.png",
+                "alt": "Boulangerie Le Panivore"
+              },
+              {
+                "src": "metro.png",
+                "alt": "Metro"
+              },
+              {
+                "src": "service-public.png",
+                "alt": "Service-Public.fr"
+              },
+              {
+                "src": "genium-360.png",
+                "alt": "Genium 360"
+              }
+            ]
+          }
+        }
+      ]
     },
+    "toc-header": "Dans cette section, retrouvez les réponses à ces questions :",
     "contact-us": "Vous avez des questions ?<br/>Contactez-nous ici !",
     "other-services": "Retrouvez &eacute;galement nos autres services :"
   }
