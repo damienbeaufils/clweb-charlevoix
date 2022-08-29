@@ -129,43 +129,177 @@
         "title": "Coaching and training | Services | CLWeb Charlevoix",
         "description": "We can coach and train one or more of your company's software development teams in quality practices"
       },
-      "heading": "Coaching and training",
-      "subheading": "To coach and train one or more of your company's software development teams",
-      "paragraph": [
-        "You have in your company a person in charge of software development and maintenance, or a complete software development team, and you would like to <b>train them in quality practices</b>?<br/>You are a developer yourself and you want to improve your practices to <b>produce maintainable and scalable code for the long term</b>?",
-        "We can <b>train and coach</b> on both quality software development practices and on specific technologies in which we are experts. <br/><b>Training</b> can be conducted over one or more days, online or on site. <br/><b>Coaching</b> is usually done in a degressive way: a few days per week at the beginning, then a progressive reduction to a few hours of coaching per week. <br/>Our goal is that the <b>trainee(s) become autonomous</b> and that there is no need for any further support or coaching once the mandate is completed.",
-        "We can also do morning or Lunch & Learn <b>awareness presentations</b> on specific topics such as the latest technologies, or software development practices such as Clean Code, or eco-design of digital services. These awareness sessions are ideal to \"give the taste\" to your teams to go further on the topic, for example with a training session (because there is nothing worse than going to a training session against your will).",
-        "We can also help your teams to form <b>communities of practices</b>, which would allow your employees to share their knowledge and interests, whether technical or not, in order to <b>collectively progress</b>.",
-        "Feel free to contact us to explain your context and your needs, and we will be able to present you a <b>proposal adapted to your issues and your budget</b>."
-      ],
-      "more": "For more information, <br/>contact us!"
+      "title": "Coaching and training",
+      "sections": [
+        {
+          "title": "What is a coaching and training mandate?",
+          "paragraphs": [
+            "A coaching and training mandate consists of <b>transmitting knowledge</b> to one or more people, on one or more topics, in order for the targeted person(s) to <b>increase their level of expertise</b>.",
+            "Training and coaching have the same objective, but in two different ways:<br/>- <b>Training</b> is <b>targeted on a topic or theme</b> and is delivered over 1 to 2 days. During these days, the participants are not working on their daily tasks, and are focused on the training. This allows us to transmit the maximum amount of information in a minimum amount of time, and to take the time to answer questions. The mandate ends once the training is completed.<br/>- <b>Coaching</b> is an <b>accompaniment over time</b>, to help implement or use one or more topics (for example a technology or a practice) on daily tasks. <b>The knowledge transfer is, therefore, closer to the field and to real problems compared to training, but is less formal</b>. The mandate can be performed at a decreasing pace: start with a few days per week and then progressively reduce the presence to end with a few hours per week.",
+            "It is common to combine the two approaches: <b>start with training</b> to transmit the maximum of knowledge and thus have a solid base, then in a second time <b>coaching to apply the knowledge acquired</b> during training in the real conditions of everyday life."
+          ],
+          "emphasis": "We are specialized in training and coaching on <b>software development quality practices</b> that help produce maintainable and scalable code over the long term."
+        },
+        {
+          "title": "Who is it for?",
+          "paragraphs": [
+            "Training and coaching can be done for a single person in charge of software development and maintenance in your company or for an entire development team.",
+            "Therefore, if you are a company manager or a team leader and you would like to help your employees improve their practices in order to produce maintainable and scalable code, we can assist you in this process.",
+            "If you are yourself a developer and you want to improve your technical knowledge or your software quality practices, we can help you through personalized coaching."
+          ]
+        },
+        {
+          "title": "Why work with us?",
+          "paragraphs": [
+            "We have more than 15 years of experience in software development, and we are <b>experts in quality development practices</b>, also called Software Craftsmanship practices (practices such as Clean Code, Refactoring, Test Driven Development...). We are also certified in several technologies as well as in the eco-design of digital services (Green IT).",
+            "Over the past 15 years, we have conducted many training sessions for groups of different levels and for companies in various business fields. We adopt a <b>pedagogical approach</b> that allows us to transmit our knowledge simply and efficiently, by <b>adapting our speech to the audience's level</b>.",
+            "By working with us,<b> you benefit from personalized training and coaching, adapted to your context and your requirements</b>, unlike other more generalist training programs that offer standard but non-personalized content. In addition, <b>we can travel to your office to deliver the training, providing a warm and enjoyable experience compared to 100% virtual training</b>.",
+            "In addition to training and coaching, we can also come in for a morning session or for a Lunch &amp; Learn to give <b>awareness presentations</b> on specific topics such as the latest technology or software development practices. <b>These awareness sessions are ideal to \"give the taste\" to your teams to go further on a topic</b>",
+            "Feel free to contact us to explain your context and your requirements, and we will be able to make a proposal adapted to your situation and your budget."
+          ],
+          "image": "artem-maltsev-0CvHQ62gwY8-unsplash.jpg"
+        },
+        {
+          "title": "How does a training session work?",
+          "paragraphs": [
+            "First of all, it is necessary to <b>meet with you so that you can tell us about your training needs</b> and the challenges you are currently facing. Following this, we will be able to make an estimate and a <b>commercial proposal</b>.",
+            "<b>Once the commercial proposal is accepted, we will agree on a training date</b>. The training can be conducted <b>virtually or on-site depending on your context</b>. Training usually lasts from 1 to 2 days, and the participants leave with the different materials and exercises that have been presented.",
+            "For training purposes, participants must have at least 1 computer for each 2, with a reliable Internet connection. If the training is performed on-site, a dedicated room in which the computers can be set up must be booked and used during the days of attendance."
+          ]
+        },
+        {
+          "title": "How does a coaching mandate work?",
+          "paragraphs": [
+            "To do coaching, whether it follows a training course or is requested completely independently, it is necessary to meet to share the expectations, the budget and the timeframe. This will allow us to make a commercial proposal that corresponds to your needs and your reality.",
+            "Once the terms have been established and the proposal accepted, <b>the coaching is generally performed in a degressive way</b>: our presence is strong at the beginning of the mandate with several days per week, then progressively reduced over the weeks or months to end with a few hours per week.",
+            "This degressive mode allows us to set up a <b>solid foundation</b> from the beginning and to get a good grasp of the whole context, and thus be able to <b>provide the maximum of advice quickly</b>. By gradually decreasing our presence, it allows the coachees to <b>progressively gain autonomy</b>, and we work on the most important and blocking topics when we are present."
+          ],
+          "emphasis": "Our goal is that <b>the coached person(s) should be completely autonomous and that there should be no need for any further support once the mandate is completed</b>.",
+          "image": "scott-graham-5fNmWej4tAA-unsplash.jpg"
+        },
+        {
+          "title": "How long is this type of mandate?",
+          "paragraphs": [
+            "A training session usually lasts 1 to 2 days.",
+            "Coaching can last several months and is usually done in a degressive way."
+          ]
+        },
+        {
+          "title": "How much does it cost?",
+          "paragraphs": [
+            "The price of training is fixed and mainly depends on the number of participants and possible travel.",
+            "For coaching, the invoicing is done at an hourly rate (time and material). We therefore only invoice for the hours actually worked. Therefore, if you already have a target budget, we can give you an estimate of the number of hours and the time frame."
+          ]
+        }
+      ]
     },
     "consulting-and-guidance": {
       "meta": {
         "title": "Consulting and guidance | Services | CLWeb Charlevoix",
         "description": "We can advise you in making important and strategic decisions for your company"
       },
-      "heading": "Consulting and guidance",
-      "subheading": "To advise you in making important and strategic decisions for your company",
-      "paragraph": [
-        "You have to <b>make an important and strategic decision</b> concerning your existing or future software, your website, the storage of your data or your information system overall?",
-        "We can help you in a determined time by conducting a <b>detailed analysis of your needs and your context</b>, and by <b>advising you in your decision making</b>.",
-        "In order to properly identify your needs, we will need a first meeting where you will explain your problems and your context. Following this meeting, we will be able to make a <b>proposal for a consulting mandate that corresponds to your budget and your reality</b>."
-      ],
-      "examples": {
-        "heading": "Not sure what we can help you with? Here are some examples of questions you might have, and on which we have already performed consulting mandates:",
-        "items": [
-          "You want to <b>significantly upgrade your website</b> and you don't know if it is better to modify the existing website with its constraints or if it would be simpler to develop a brand new website adapted to your new requirements,",
-          "You store a lot of <b>digital data</b> and you would like to <b>structure it to get the most out of it</b>, but you don't know how to proceed,",
-          "You have tools and data stored in your company and you are hesitating to make the <b>switch to cloud services to reduce your infrastructure costs</b>,",
-          "You want to <b>make your software or website responsive on cell phones and tablets</b> and you would like to know the feasibility,",
-          "You want to shift to a digital platform and <b>gain online customers in addition to your physical ones</b> and you don't know where to start,",
-          "You want to know how to aggregate or consolidate your online presence, in order to have a <b>better ranking on search engines</b> and to be able to <b>provide a single and simple entry point to your customers</b>,",
-          "You store data and would like to ensure that your <b>customers' personal information are secured</b> according to the state of the art,",
-          "You want to analyze the <b>quality level</b> of an existing software or website."
-        ]
-      },
-      "more": "For more information, <br/>contact us!"
+      "title": "Consulting and guidance",
+      "sections": [
+        {
+          "title": "What is a consulting and guidance mandate?",
+          "paragraphs": [
+            "The goal of a consulting and guidance mandate is to <b>provide answers to a specific problem or difficulty</b>. In our case, it can be on technological aspects as well as human aspects.",
+            "There are two main parts, which can be separated:&nbsp;<br/>- <b>the consulting part</b>, which consists of a thorough analysis of the context and the issue, as well as the formulation of recommendations;<br/>- <b>the guidance part</b>, which consists of providing support for the implementation of the recommendations formulated in the previous step.",
+            "To illustrate these two approaches, let's take an example from everyday life: imagine that you encounter difficulty in how you cook and organize yourself in the kitchen at home. To answer this:<br/>- The consulting part: ask a chef to analyze our situation to suggest more suitable cooking recipes that would meet the same needs.<br/>- The guidance part: be assisted by the chef in the realization of these recipes, to learn and to be sure that it will be a success."
+          ],
+          "emphasis": "It is possible to conduct a consulting mandate without subsequent guidance."
+        },
+        {
+          "title": "Who is it for?",
+          "paragraphs": [
+            "For any company, executive or manager who has to make an <b>important and strategic decision</b> and who would like an external viewpoint to provide a <b>detailed analysis and relevant recommendations</b>."
+          ],
+          "image": "jens-lelie-u0vgcIOQG08-unsplash.jpg"
+        },
+        {
+          "title": "Why use the services of a consulting company? What are the benefits?",
+          "paragraphs": [
+            "Generally speaking, whatever the topic, <b>calling on an external party always helps us to see the situation from another angle</b>. This outside perspective is essential to be able to analyze the situation correctly. Indeed, when we analyze our own problems, we are naturally biased and this prevents us from seeing alternative solutions.",
+            "By choosing a consulting company such as ours, you are assured of two main elements:"
+          ],
+          "items": [
+            "The <b>past experiences</b>: to advise well, it is important to have experienced many different issues, in different technological contexts and different business sectors. With more than 15 years of experience, we are confident in our ability to analyze your situation and make appropriate recommendations.",
+            "The <b>methodology</b>: conducting a consulting mandate is not a simple discussion over a cup of coffee. <b>It involves interviews, workshops, feedback from our observations, and the writing of a report that will be given to you at the end of the mandate</b>. This methodology is one of the success factors of the mandates we perform, and we are proud of the quality of the deliverables we provide."
+          ],
+          "emphasis": "By working with us, we will conduct a <b>detailed analysis of your needs and your context</b> in order to <b>advise you on your important and strategic decisions</b>."
+        },
+        {
+          "title": "How does a consulting mandate work?",
+          "paragraphs": [
+            "To begin with, it is essential to <b>meet with you the first time</b> so that you can explain the problem you are facing. The objective for us is to understand the level of urgency and your expectations.",
+            "After this first step, a <b>commercial proposal</b> will follow, detailing the scope of the intervention, the operating mode, and the rates.",
+            "<b>Once the commercial proposal is accepted, the mandate can begin</b>. In general, the consulting mandate begins with interviews of the various people involved, in order to properly assess the situation. Depending on the context, we can also conduct workshops that will help us understand the different tools and processes involved.",
+            "Following these observations, <b>we will write a document which will be handed to you and which will gather all the observations and the various recommendations</b>, prioritized depending on the effort required and the expected impact.",
+            "Finally, these observations and recommendations will be presented to you orally, to make sure everyone is aligned and to answer any questions.",
+            "Following the presentation, the written document can be updated one last time based on the questions/answers that were shared during the presentation."
+          ]
+        },
+        {
+          "title": "What is the guidance phase?",
+          "paragraphs": [
+            "The guidance phase consists of <b>assisting you in the implementation of the various recommendations</b> that were made during the consulting phase.",
+            "It is possible that you do not need any assistance in implementing the recommendations, which is why this phase is optional.",
+            "In case we guide you, <b>it is possible to adapt our presence according to the expected level of assistance</b>: it can be from a few hours per month to several days per week."
+          ],
+          "image": "markus-spiske-MbG7kwWptII-unsplash.jpg"
+        },
+        {
+          "title": "How long is this type of mandate?",
+          "paragraphs": [
+            "<b>On average, the duration of a consulting mandate will vary between 1 and 3 months</b> depending on the context and the scope of the issue.",
+            "<b>Regarding the guidance phase, the duration can vary from a few weeks to several months</b>, depending on the complexity and the number of recommendations to implement. Also, our presence with you may vary according to the level of assistance defined and can be done in a degressive way (start with several days per week and gradually decrease to a few hours per month)."
+          ]
+        },
+        {
+          "title": "How much does it cost?",
+          "paragraphs": [
+            "Since each mandate is unique, the rates may vary from one mandate to another. Nevertheless, the main parameters that will have an impact on the rates of a consulting mandate are the <b>number of people involved, the context, and the scope of the issue</b>. Indeed, the more people involved or the broader the issue, the longer the observation and analysis phase will be, and the more complex the recommendation formulation phase will be.",
+            "The cost of a guidance mandate varies according to the level of assistance chosen."
+          ]
+        },
+        {
+          "title": "Do you have examples of consulting mandates?",
+          "paragraphs": [
+            "Of course. Here are some examples of questions you might have, and on which we have already conducted consulting mandates:"
+          ],
+          "items": [
+            "You want to <b>significantly upgrade your website</b> and you don't know if it is better to modify the existing website with its constraints or if it would be simpler to develop a brand new website adapted to your new requirements,",
+            "You store a lot of <b>digital data</b> and you would like to <b>structure it to get the most out of it</b>, but you don't know how to proceed,",
+            "You have tools and data stored in your company and you are hesitating to make the <b>switch to cloud services to reduce your infrastructure costs</b>,",
+            "You want to <b>make your software or website responsive on cell phones and tablets</b> and you would like to know the feasibility,",
+            "You want to <b>shift to a digital platform and gain online customers</b> in addition to your physical ones and you don't know where to start,",
+            "You want to know how to aggregate or consolidate your online presence, in order to have a <b>better ranking on search engines</b> and to be able to provide a single and simple entry point to your customers,",
+            "You store data and would like to ensure that your <b>customers' personal information are secured</b> according to the state of the art,",
+            "You want to <b>analyze the quality level</b> of an existing software or website."
+          ],
+          "references": {
+            "intro": "Here is an overview of the clients for whom we have performed consulting and guidance mandates:",
+            "logos": [
+              {
+                "src": "intact.png",
+                "alt": "Intact"
+              },
+              {
+                "src": "bnp.png",
+                "alt": "BNP Paribas"
+              },
+              {
+                "src": "axa.png",
+                "alt": "AXA Assurance"
+              },
+              {
+                "src": "lightspeed.png",
+                "alt": "Lightspeed"
+              }
+            ]
+          }
+        }
+      ]
     },
     "process-and-rates": {
       "meta": {
@@ -201,107 +335,186 @@
     },
     "cto": {
       "meta": {
-        "title": "Direction Technique | Services | CLWeb Charlevoix",
-        "description": "Nous pouvons occuper le poste de Direction Technique dans votre compagnie, à raison de quelques heures par semaine ou par mois (CTO-as-a-Service)"
+        "title": "Technical Direction | Services | CLWeb Charlevoix",
+        "description": "We can act as your company's CTO for a few hours per week or per month (CTO-as-a-Service)"
       },
-      "title": "Direction Technique",
-      "toc-header": "Dans cette section, retrouvez les réponses à ces questions :",
+      "title": "CTO as a Service",
       "sections": [
         {
-          "title": "Qu&rsquo;est-ce qu&rsquo;un mandat de direction technique ?",
+          "title": "What is a CTO as a service mandate?",
           "paragraphs": [
-            "Un mandat de direction technique a pour objectif d&rsquo;<b>aider une compagnie ou un&middot;e dirigeant&middot;e d&rsquo;entreprise &agrave; aider dans la prise de d&eacute;cision relatives aux Technologies de l&rsquo;Information (TI)</b>. Ces d&eacute;cisions peuvent &ecirc;tre en rapport avec des choix de logiciels, du recrutement, du choix de prestataires externes ou encore du pilotage de budget.",
-            "Ce type de mandat est aussi appel&eacute; <i>CTO-as-a-Service</i>."
+            "A Chief Technical Officer (CTO) as a Service mandate aims to <b>help a company or a business executive by assisting in making decisions related to Information Technology (IT)</b>. These decisions can be related to software choices, hiring, external service provider selection or budget management."
           ],
           "image": "absolutvision-uCMKx2H1Y38-unsplash.jpg"
         },
         {
-          "title": "&Agrave; qui est-ce destin&eacute; ?",
+          "title": "Who is it for?",
           "paragraphs": [
-            "&Agrave; toute entreprise ou dirigeant&middot;e qui aurait besoin d&rsquo;aide dans la prise de d&eacute;cisions relatives aux TI mais qui <b>n&rsquo;a pas les moyens financiers ou suffisamment de travail pour embaucher une personne &agrave; temps plein</b> dans le poste de Direction Technique.",
-            "Avec un mandat de direction technique &agrave; temps partiel, une personne peut intervenir ponctuellement &agrave; raison de quelques heures par semaine ou bien par mois.",
-            "Cela permet ainsi &agrave; une entreprise ou un dirigeant de <b>d&eacute;l&eacute;guer au besoin la prise de d&eacute;cisions et le pilotage des ressources TI</b> aupr&egrave;s de quelqu&rsquo;un ayant suffisamment d&rsquo;exp&eacute;rience et d'expertise pour en assurer sereinement le r&ocirc;le."
+            "To any company or executive who needs help in making IT decisions but <b>does not have the financial resources or enough work to hire a full-time person</b> in the Technical Direction position.",
+            "With a part-time CTO as a service mandate, a person can be involved on an ad hoc basis for a few hours per week or per month.",
+            "This allows a company or an executive to <b>delegate decision-making and management of IT resources</b> to someone with sufficient experience and expertise to assume the role with confidence."
           ],
-          "emphasis": "En &eacute;vitant de combler ce r&ocirc;le &agrave; temps plein, l&rsquo;intervention &agrave; temps partiel permet de traiter les sujets les plus prioritaires et qui demandent une expertise sp&eacute;cifique, et ainsi <b>optimiser le retour sur investissement</b>."
+          "emphasis": "By not filling this role full-time, part-time intervention allows us to deal with the highest priority topics that require specific expertise, and thus <b>optimize the return on investment</b>."
         },
         {
-          "title": "Pourquoi faire appel &agrave; nous ?",
+          "title": "Why work with us?",
           "paragraphs": [
-            "<b>Nous avons plus de 15 ann&eacute;es d&rsquo;exp&eacute;rience professionnelle dans le d&eacute;veloppement logiciel et encore plus dans les TI de fa&ccedil;on g&eacute;n&eacute;rale</b>. Nous avons &eacute;galement assur&eacute; le poste de Direction Technique pendant plusieurs ann&eacute;es, &agrave; piloter des budgets, des ressources TI, des choix de prestataires, &agrave; g&eacute;rer du recrutement interne en TI ou encore &agrave; g&eacute;rer la progression de carri&egrave;re des collaborateurs TI.",
-            "Nous avons l&rsquo;exp&eacute;rience et l&rsquo;expertise n&eacute;cessaire &agrave; la r&eacute;alisation de ce type de mandat strat&eacute;gique. Vous pourrez ainsi vous reposer sur nous pour <b>vous aider &agrave; prendre des d&eacute;cisions structurantes et pour vous accompagner dans votre transformation num&eacute;rique</b>.",
-            "Notre intervention peut &ecirc;tre ponctuelle ou r&eacute;guli&egrave;re, en fonction de vos besoins et de votre budget. L&rsquo;objectif est de maximiser le retour sur investissement de chacune de nos interventions."
+            "<b>We have more than 15 years of professional experience in software development and even more in IT in general</b>. We have also worked as CTO for several years, managing budgets, IT resources, choice of providers, internal IT hiring and career growth of IT employees.",
+            "We have the experience and expertise necessary to execute this type of strategic mandate. You can therefore rely on us to <b>help you make structuring decisions and to support you in your digital transformation</b>.",
+            "Our intervention can be occasional or on a regular basis, depending on your needs and your budget. The objective is to maximize the return on investment of each of our interventions."
           ]
         },
         {
-          "title": "Comment se d&eacute;roule un mandat de direction technique ?",
+          "title": "How does a CTO as a service mandate work?",
           "paragraphs": [
-            "En premier lieu, il est n&eacute;cessaire de se <b>rencontrer afin que vous nous exposiez votre besoin et vos attentes.</b> Suite &agrave; cette rencontre, nous pourrons vous faire <b>une proposition commerciale</b> pr&eacute;sentant une d&eacute;marche d&rsquo;intervention &agrave; la demande, ou par fr&eacute;quence r&eacute;guli&egrave;re.",
-            "Une fois la proposition accept&eacute;e, <b>nous pourrions commencer &agrave; intervenir et &agrave; int&eacute;grer si n&eacute;cessaire vos diff&eacute;rents processus internes.</b>",
-            "Dans le cas d&rsquo;<b>interventions ponctuelles</b>, vous nous contactez <b>&agrave; la demande</b> et nous intervenons dans les jours qui suivent pour r&eacute;pondre sp&eacute;cifiquement &agrave; la probl&eacute;matique que vous rencontrez.",
-            "Dans le cas d&rsquo;<b>interventions par fr&eacute;quence r&eacute;guli&egrave;re</b>, nous commen&ccedil;ons par identifier vos probl&eacute;matiques actuelles &agrave; traiter et &agrave; d&eacute;finir votre feuille de route TI pour les mois &agrave; venir.&nbsp; Gr&acirc;ce &agrave; cela, nous serons en mesure de vous faire rapidement des propositions de <b>solutions &agrave; court et &agrave; long terme</b>.",
-            "Nous pouvons ensuite nous charger de l&rsquo;impl&eacute;mentation de ces solutions, ou bien vous pouvez aussi le faire en autonomie de votre c&ocirc;t&eacute;. Dans les deux cas, nous d&eacute;finissons un rythme de rencontre afin de faire un suivi r&eacute;gulier et de piloter les d&eacute;cisions relatives aux TI.",
-            "Qu&rsquo;il s&rsquo;agisse d&rsquo;interventions ponctuelles ou r&eacute;guli&egrave;res, celles-ci peuvent aussi bien se faire &agrave; distance avec des outils collaboratifs virtuels, que sur place dans les locaux de votre compagnie."
+            "First of all, it is necessary to <b>meet so that you expose us your requirements and your expectations</b>. Following this meeting, we will be able to make you a <b>commercial proposal</b> presenting an on-demand intervention process, or on a regular basis.",
+            "Once the proposal is accepted, <b>we could start to work and join if necessary your different internal processes</b>.",
+            "In the case of <b>occasional interventions</b>, you contact us <b>on demand</b> and we intervene in the days that follow to address the specific problem you are facing.",
+            "In the case of <b>regular interventions</b>, we start by identifying your current issues to be addressed and defining your IT roadmap for the coming months. Thanks to this, we will be able to quickly suggest <b>short and long-term recommendations</b>.",
+            "We can then take care of the implementation of these recommendations, or you can do it on your own. In both cases, we define a meeting rhythm in order to make a regular follow-up and to manage the IT decisions.",
+            "Whether it is a one-time or regular intervention, it can be done remotely with virtual collaborative tools, or on-site at your company's offices."
           ],
           "image": "javier-allegue-barros-C7B-ExXpOIE-unsplash.jpg"
         },
         {
-          "title": "Quelle est la dur&eacute;e de ce type de mandat ?",
+          "title": "How long is this type of mandate?",
           "paragraphs": [
-            "La dur&eacute;e d&rsquo;un mandat de direction technique varie selon les attentes et la feuille de route TI.",
-            "Pour une petite compagnie qui a simplement besoin de quelques conseils, il peut s&rsquo;agir de <b>quelques heures r&eacute;parties sur un mois</b>.",
-            "Pour une compagnie qui souhaite se d&eacute;velopper et qui rencontre des probl&eacute;matiques plus importantes, l&rsquo;intervention peut durer <b>plusieurs mois, &agrave; raison de quelques heures par semaine.</b>"
+            "The duration of a CTO as a service mandate varies depending on requirements and the IT roadmap.",
+            "For a small company that simply needs some advice, it can be a <b>few hours spread over a month</b>.",
+            "For a company that wishes to grow and that faces more important problems, the intervention can extend over <b>several months, at a pace of a few hours per week</b>."
           ]
         },
         {
-          "title": "Combien cela co&ucirc;te-t-il ?",
+          "title": "How much does it cost?",
           "paragraphs": [
-            "Le co&ucirc;t d&rsquo;un mandat de direction technique est d&eacute;pendant de sa dur&eacute;e et des potentiels d&eacute;placements.",
-            "La facturation se fait au taux horaire (temps et mat&eacute;riel). Vous ne payez donc que les heures r&eacute;ellement utilis&eacute;es, et le tarif peut varier en fonction des potentiels d&eacute;placements requis."
+            "The cost of a CTO as a service mandate depends on its duration and potential travel.",
+            "The invoicing is done at an hourly rate (time and material). You only pay for hours actually worked, and the cost may vary according to the potential travel required."
           ]
         },
         {
-          "title": "Avez-vous des exemples de t&acirc;ches de direction technique ?",
+          "title": "Do you have examples of technical direction tasks?",
           "paragraphs": [
-            "Bien s&ucirc;r. Si vous n&rsquo;&ecirc;tes pas certains de comment nous pourrions vous aider, voici quelques exemples de t&acirc;ches que nous avons d&eacute;j&agrave; effectu&eacute; dans le pass&eacute; et pour lesquelles nous pourrions vous accompagner par un mandat de direction technique :"
+            "Of course. If you are not sure how we can help you, here are some examples of tasks we have done in the past and for which we could assist you by providing technical direction:"
           ],
           "items": [
-            "le pilotage de votre <b>budget TI annuel</b>,",
-            "la <b>gestion du risque</b> et de vos contraintes,",
-            "la <b>prise de d&eacute;cisions strat&eacute;giques</b> pour votre compagnie,",
-            "l'implantation de <b>nouveaux processus TI,</b>",
-            "la construction d'un <b>parcours de formation TI interne</b>,",
-            "la construction d'une <b>politique de s&eacute;curit&eacute;</b> de votre syst&egrave;me d'information,",
-            "le <b>stockage et la gestion de vos donn&eacute;es</b> d'entreprise,",
-            "le choix d'une <b>infrastructure infonuagique</b>,",
-            "le choix d'<b>outils ou de logiciels</b> utilis&eacute;s par vos collaborateurs,",
-            "le <b>recrutement</b> d'un&middot;e Directeur&middot;rice Technique, de d&eacute;veloppeurs ou de toute autre personne rattach&eacute;e aux TI,",
-            "la <b>r&eacute;alisation d'appels d'offres</b> pour soumettre des demandes sur des plateformes telles que SEAO,",
-            "le <b>choix de prestataires</b> externes qui r&eacute;pondraient &agrave; vos appels d'offres,",
-            "la <b>gestion de la dette technique</b>."
+            "the management of your annual <b>IT budget</b>,",
+            "constraints and <b>risk management</b>,",
+            "<b>strategic decision-making</b> for your company,",
+            "the implementation of new <b>IT processes</b>,</b>",
+            "building an internal <b>IT training path</b>,",
+            "the design of an <b>IT security policy</b> for your information system,",
+            "storage and <b>management of your corporate data</b>,",
+            "the selection of a <b>cloud infrastructure</b>,",
+            "the <b>selection of tools or software</b> used by your employees,",
+            "the <b>hiring</b> of a CTO, developers or any other IT-related person,",
+            "<b>conducting RFPs</b> to bid on platforms such as SEAO,",
+            "<b>choosing external service providers</b> who would respond to your RFPs,",
+            "<b>technical debt management</b>."
           ]
         }
-      ],
-      "contact-us": "Vous avez des questions ?<br/>Contactez-nous ici !",
-      "other-services": "Retrouvez &eacute;galement nos autres services :"
+      ]
     },
     "delivery-and-hosting": {
       "meta": {
         "title": "Delivery and hosting | Services | CLWeb Charlevoix",
         "description": "We can develop high-quality software or create a custom website, tailored to your needs and your project context"
       },
-      "heading": "Delivery and hosting",
-      "subheading": "For high-quality software development or custom website creation, tailored to your needs and your project context",
-      "paragraph": [
-        "You have a manual or semi-automated process that takes you <b>several hours per week or month</b>? <b>Processed on paper</b> or partially computerized? With a <b>risk of error or omission</b>? <br/>Your website or intranet designed with tools like Wix or Wordpress is no longer adapted to your needs? <b>You have to adapt to your software while it should adapt to you and your process?</b>",
-        "We perform <b>high-quality custom software or website development, tailored to your needs and your context</b>, that you will be able to use as well on your cell phone, tablet or computer.",
-        "We work using an <b>iterative approach</b> (<a href=\"https://en.wikipedia.org/wiki/Agile_software_development\" target=\"_blank\">agile practices</a>) to build your product by integrating your feedback regularly.",
-        "Concretely, before starting to write any line of code, we need at least a first meeting to <b>identify your context and frame your requirements</b>. Once the meeting is done, we will be able to make you a <b>commercial proposal adapted to your situation and your budget</b>.",
-        "Throughout the mandate, <b>regular meetings</b> are planned (e.g. every two weeks) to present the work progress, the remaining work to be done and the potential difficulties encountered. Depending on the results and your context, the scope of the mandate can be adjusted so that it is <b>always adapted to your reality</b>.",
-        "<b>Software quality is our priority</b>. We use state of the art tools and code practices to produce robust, reliable and scalable code over the long term. The goal is that the software or website can follow you over several years, <b>evolving and adapting along with your company</b>, without having to wipe the slate clean after a few years.",
-        "We can deploy the software or host the website on cloud infrastructures <b>here in Canada</b> to be geographically close to our customers and to <b>support the local industry</b>.",
-        "In a nutshell, our mission is to <b>create high-quality software that meets your needs, and that will evolve over many years</b>."
-      ],
-      "more": "For more information, <br/>contact us!"
-    }
+      "title": "Delivery and hosting",
+      "sections": [
+        {
+          "title": "What is a delivery and hosting mandate?",
+          "paragraphs": [
+            "A delivery and hosting mandate consists in <b>designing and deploying a custom website, an application, or any other software</b>.",
+            "There are two main phases, which can be dissociated:<br/>- the <b>delivery</b> phase, which consists in iteratively developing the custom software, according to the requirements and the budget;<br/>- the <b>hosting</b> phase, which consists of deploying the software on a cloud infrastructure.",
+            "It is entirely <b>possible to do the delivery phase without the hosting phase</b> if another service provider is already managing the hosting, or if it is managed internally."
+          ]
+        },
+        {
+          "title": "Who is it for?",
+          "paragraphs": [
+            "To any company or executive who wants to create a software, a website, or an application in order to <b>save time, increase efficiency, or improve visibility</b> to develop their business with their customers.",
+            "In these uncertain economic times and in the current labour shortage, it is important to <b>refocus on core activities</b> and <b>reduce or eliminate time spent on repetitive tasks</b>.",
+            "One example is a business process that is manual or semi-automated, paper-based or partially computerized, that takes several hours per week or month, or that has a risk of error or omission.",
+            "By reducing the time spent on low value-added tasks, it is then possible to <b>maximize the time spent on the company's core business</b>, whether it is production or selling products or services.",
+            "Therefore, by investing in a <b>tailor-made software</b>, it becomes an <b>asset for the company</b> and will <b>improve the return on investment</b> of work time, <b>reduce the risk of manual errors</b>, and <b>avoid overtime</b>."
+          ],
+          "emphasis": "All this has an impact not only on your professional life but also on your personal life: thanks to these benefits, you can free up more time for yourself, your hobbies or your family life. <b>A better professional life leads to a better personal life.</b>",
+          "image": "glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg"
+        },
+        {
+          "title": "Why use the services of a software development company? What are the benefits?",
+          "paragraphs": [
+            "There are many online platforms such as Wordpress, Wix and others, which allow in relatively little time and technical knowledge to create and deploy a website.",
+            "However, as soon as you want to customize the site, put it in your own image, or move away from pre-designed models, it quickly becomes complex and you are never completely satisfied. This gives a final impression of patchwork. Moreover, with this type of tool, it is impossible to create business management software that corresponds 100% to your reality and your requirements. In the end, <b>we find ourselves having to adapt to the software when it should adapt to us</b>.",
+            "By working with a software development company such as ours, you have total control over the visuals and features you wish to have. Indeed, <b>the analysis of your needs is at the heart of our design process</b>. We develop software in steps, analyzing in detail what you want, and regularly integrating your feedback so that you are completely satisfied with the final result.",
+            "- You want a website to display your products to your customers and to make online orders?<br/>- An application to simplify the management of your business and your accounting?<br/>- A software that will reduce the time spent on repetitive tasks and reduce the risk of manual errors?",
+            "<b>All this is possible by creating a tailor-made software</b>, which fits your context, and your issues, and therefore will allow you to <b>gain maximum efficiency daily</b>.",
+            "By calling us, we will conduct a thorough analysis of your project and we will propose the <b>development of a website, application or any other software, tailored to your budget</b>. Furthermore, <b>software quality is our priority</b>. We use state-of-the-art tools and code practices to produce <b>robust, reliable and scalable code over the long term</b>. The goal is that the software or website can accompany you over several years, evolving and adapting along with your company, without having to wipe the slate clean after a few years.",
+            "Finally, we can take care of deploying the software or hosting the website on cloud infrastructures, <b>here in Canada</b>, to be geographically close to your customers and to <b>support the local industry</b>."
+          ],
+          "emphasis": "Our mission in a nutshell: <b>design quality software that meets your requirements, and that will scale over several years</b>."
+        },
+        {
+          "title": "How does a delivery and hosting mandate work?",
+          "paragraphs": [
+            "To begin with, it is essential to <b>meet with you once</b> so that you can explain your project to us and we can understand your context and do an initial analysis of the situation.",
+            "Then, we will make you a <b>commercial proposal</b> corresponding to your budget for the realization of the product.",
+            "Once the commercial proposal is accepted, <b>we can start the design of the custom software or website</b>. <b>The development is done in an iterative way</b> (<a href=\"https://en.wikipedia.org/wiki/Agile_software_development\" target=\"_blank\" rel=\"noopener\">agile practices</a>), which means that we usually work in sequences of two weeks (an iteration) intending to have a working software at the end of each iteration.",
+            "At the end of each iteration, we present to you the progress, and the difficulties faced, and you can then give us feedback that we will integrate into the next iteration. This approach also allows us to regularly adjust the scope of the mandate so that it is <b>always adapted to your reality</b>.",
+            "Once completed, we can then deliver the software to your company or another existing service provider, or we can take care of the deployment ourselves.",
+            "If we do the deployment, <b>it is a new hosting and maintenance mandate</b>."
+          ],
+          "image": "thomas-jensen-ISG-rUel0Uw-unsplash.jpg"
+        },
+        {
+          "title": "How long is this type of mandate?",
+          "paragraphs": [
+            "The duration of a tailor-made software or website delivery mandate greatly varies depending on the context, the desired features and the budget. In the software industry, we can indeed observe durations from a few weeks to several years!",
+            "Nevertheless, <b>we favour mandate durations of less than 3 months</b>. This allows us to establish a reasonable budget and a list of the most important features, and we can renew the mandate if necessary.",
+            "The objective is that in less than 3 months, <b>a functional and usable version can be deployed in production and thus bring you a return on investment quickly</b>.",
+            "The hosting phase is a different type of contract for a one-year renewable term."
+          ]
+        },
+        {
+          "title": "How much does it cost?",
+          "paragraphs": [
+            "For the delivery phase, billing is usually done at an hourly rate (time and material). <b>The cost depends on the actual time spent, and therefore on the number and complexity of the desired features</b>. Nevertheless, after the first meeting, we will be able to give you a general estimate of the cost according to your context and your requirements.",
+            "Regarding the hosting phase on a cloud infrastructure, invoicing is done monthly, based on actual usage. <b>You only pay according to the resources actually consumed</b>, rather than a high fixed rate every month. If you have very few users, the monthly price will be minimal."
+          ],
+          "references": {
+            "intro": "Here is an overview of the clients for whom we have carried out delivery and/or hosting mandates:",
+            "logos": [
+              {
+                "src": "intact.png",
+                "alt": "Intact"
+              },
+              {
+                "src": "roland-garros.png",
+                "alt": "Roland-Garros"
+              },
+              {
+                "src": "panivore.png",
+                "alt": "Boulangerie Le Panivore"
+              },
+              {
+                "src": "metro.png",
+                "alt": "Metro"
+              },
+              {
+                "src": "service-public.png",
+                "alt": "Service-Public.fr"
+              },
+              {
+                "src": "genium-360.png",
+                "alt": "Genium 360"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "toc-header": "In this section, find the answers to these questions:",
+    "contact-us": "Do you have any questions?<br/>Contact us here!",
+    "other-services": "See also our other services:"
   }
 }
