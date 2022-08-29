@@ -200,11 +200,11 @@
                         <v-icon size="52" v-text="service.icon" />
                       </v-avatar>
 
-                      <base-text class="info--text service-details white--text">
-                        <div class="mb-2 font-weight-bold">
+                      <base-text class="info--text service-details">
+                        <div class="mb-2 font-weight-bold white--text">
                           <span v-html="service.name"></span>
                         </div>
-                        <div class="font-italic text-subtitle-1">
+                        <div class="font-italic text-subtitle-1 white--text">
                           <span v-html="service.blurb"></span>
                         </div>
                       </base-text>

@@ -41,7 +41,7 @@
               <base-btn
                 nuxt
                 :to="localePath('/#contact')"
-                class="mt-5 mb-10 text-h6 px-10 py-5"
+                class="mt-5 mb-10 px-5 py-7 font-weight-bold text-body-1 text-md-h6"
               >
                 <span v-html="$t('home.welcome.contact-us')"></span>
               </base-btn>

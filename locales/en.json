@@ -19,7 +19,7 @@
         "You are looking for a business partner in your digital transition in order to gain visibility, efficiency and a better work-life?",
         "You are looking for a custom software to give you more time for yourself, your hobbies or your family life, in order to have a better professional and personal life?"
       ],
-      "contact-us": "Contact us for a free quote!"
+      "contact-us": "Contact us<br class=\"d-sm-none\" /> for a free quote!"
     },
     "services": {
       "heading": "<b>Customized services</b> tailored to your unique context",

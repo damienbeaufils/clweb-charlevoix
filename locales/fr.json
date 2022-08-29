@@ -19,7 +19,7 @@
         "Vous cherchez un partenaire dans votre transition vers le numérique afin de gagner en visibilité, en efficacité et en qualité de vie professionnelle ?",
         "Vous souhaitez investir dans un logiciel sur mesure afin de vous dégagez plus de temps pour vous, vos loisirs ou encore pour votre vie familiale, dans le but d'avoir un meilleur cadre de vie professionnel et personnel ?"
       ],
-      "contact-us": "Contactez-nous pour une soumission gratuite !"
+      "contact-us": "Contactez-nous<br class=\"d-sm-none\" /> pour une soumission gratuite !"
     },
     "services": {
       "heading": "Des services <b>sur mesure</b> adaptés à votre contexte unique",
