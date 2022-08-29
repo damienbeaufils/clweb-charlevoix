@@ -8,7 +8,7 @@
   "home": {
     "meta": {
       "title": "Conseil Logiciel & Web Charlevoix - English",
-      "description": "IT consulting, software design, web application development and custom website creation in Charlevoix (La Malbaie, Clermont)"
+      "description": "IT consulting, software design, web application development and custom website creation in Charlevoix (Clermont, La Malbaie)"
     },
     "welcome": {
       "heading": "Provide <b>simple solutions</b> for your complex projects",
@@ -16,9 +16,10 @@
       "description": [
         "You have a specific context or requirements?",
         "Tools such as Wix, Wordpress or others do not meet your expectations?",
-        "You are looking for a business partner in your digital transition in order to gain visibility, efficiency and a better work-life?"
+        "You are looking for a business partner in your digital transition in order to gain visibility, efficiency and a better work-life?",
+        "You are looking for a custom software to give you more time for yourself, your hobbies or your family life, in order to have a better professional and personal life?"
       ],
-      "contact-us": "Contact us!"
+      "contact-us": "Contact us for a free quote!"
     },
     "services": {
       "heading": "<b>Customized services</b> tailored to your unique context",
@@ -204,7 +205,7 @@
           "title": "What is a consulting and guidance mandate?",
           "paragraphs": [
             "The goal of a consulting and guidance mandate is to <b>provide answers to a specific problem or difficulty</b>. In our case, it can be on technological aspects as well as human aspects.",
-            "There are two main parts, which can be separated:&nbsp;<br/>- <b>the consulting part</b>, which consists of a thorough analysis of the context and the issue, as well as the formulation of recommendations;<br/>- <b>the guidance part</b>, which consists of providing support for the implementation of the recommendations formulated in the previous step.",
+            "There are two main parts, which can be separated:<br/>- <b>the consulting part</b>, which consists of a thorough analysis of the context and the issue, as well as the formulation of recommendations;<br/>- <b>the guidance part</b>, which consists of providing support for the implementation of the recommendations formulated in the previous step.",
             "To illustrate these two approaches, let's take an example from everyday life: imagine that you encounter difficulty in how you cook and organize yourself in the kitchen at home. To answer this:<br/>- The consulting part: ask a chef to analyze our situation to suggest more suitable cooking recipes that would meet the same needs.<br/>- The guidance part: be assisted by the chef in the realization of these recipes, to learn and to be sure that it will be a success."
           ],
           "emphasis": "It is possible to conduct a consulting mandate without subsequent guidance."

@@ -1,6 +1,6 @@
 const DEFAULT_TITLE = 'Conseil Logiciel & Web Charlevoix'
 const DEFAULT_DESCRIPTION =
-  "Conseil en TI, conception de logiciels, réalisation d'applications web et création de sites internet sur-mesure dans Charlevoix (La Malbaie, Clermont)"
+  "Conseil en TI, conception de logiciels, réalisation d'applications web et création de sites internet sur mesure dans Charlevoix (Clermont, La Malbaie)"
 const DEFAULT_LANG = 'fr'
 
 export default {
