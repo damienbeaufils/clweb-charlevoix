@@ -1,110 +1,45 @@
 <template>
-  <v-container fluid class="pa-0">
-    <section class="overflow-hidden">
-      <v-row no-gutters>
-        <v-col
-          class="align-content-space-between layout wrap"
-          cols="12"
-          md="8"
-          :pa-5="$vuetify.breakpoint.smAndDown"
-        >
-          <v-row align="center" justify="center">
-            <v-col cols="10">
-              <base-heading class="mt-10 mb-5">
-                <span
-                  v-html="$t('services.delivery-and-hosting.heading')"
-                ></span>
-              </base-heading>
-              <base-subheading>
-                <span
-                  v-html="$t('services.delivery-and-hosting.subheading')"
-                ></span>
-              </base-subheading>
-              <base-text>
-                <span
-                  v-html="$t('services.delivery-and-hosting.paragraph[0]')"
-                ></span>
-              </base-text>
-
-              <base-text>
-                <span
-                  v-html="$t('services.delivery-and-hosting.paragraph[1]')"
-                ></span>
-              </base-text>
-
-              <base-text>
-                <span
-                  v-html="$t('services.delivery-and-hosting.paragraph[2]')"
-                ></span>
-              </base-text>
-              <base-text>
-                <span
-                  v-html="$t('services.delivery-and-hosting.paragraph[3]')"
-                ></span>
-              </base-text>
-              <base-text>
-                <span
-                  v-html="$t('services.delivery-and-hosting.paragraph[4]')"
-                ></span>
-              </base-text>
-
-              <base-text>
-                <span
-                  v-html="$t('services.delivery-and-hosting.paragraph[5]')"
-                ></span>
-              </base-text>
-
-              <base-text>
-                <span
-                  v-html="$t('services.delivery-and-hosting.paragraph[6]')"
-                ></span>
-              </base-text>
-
-              <base-text>
-                <span
-                  v-html="$t('services.delivery-and-hosting.paragraph[7]')"
-                ></span>
-              </base-text>
-
-              <div class="text-center">
-                <base-btn
-                  nuxt
-                  :to="localePath('/#contact')"
-                  class="mt-5 mb-10 text-h6 px-10 py-10"
-                >
-                  <span
-                    v-html="$t('services.delivery-and-hosting.more')"
-                  ></span>
-                </base-btn>
-              </div>
-            </v-col>
-          </v-row>
-        </v-col>
-
-        <v-col class="hidden-sm-and-down" md="4">
-          <v-img
-            :src="
-              require('@/static/img/services/kevin-canlas-QYHehJ9Iovs-unsplash.jpg')
-            "
-            class="fill-height"
-            max-height="100%"
-          />
-        </v-col>
-      </v-row>
-    </section>
-  </v-container>
+  <DetailedService :i18n-sub-key="i18nSubKey" :other-services="otherServices" />
 </template>
 
 <script>
+import DetailedService from '@/components/DetailedService'
+
 export default {
+  components: { DetailedService },
+  data() {
+    return {
+      i18nSubKey: 'delivery-and-hosting',
+      otherServices: [
+        {
+          name: this.$t('home.services.consulting.title'),
+          icon: 'mdi-lightbulb-on',
+          blurb: this.$t('home.services.consulting.description'),
+          href: this.localePath('/services/conseil-et-accompagnement/'),
+        },
+        {
+          name: this.$t('home.services.cto.title'),
+          icon: 'mdi-directions-fork',
+          blurb: this.$t('home.services.cto.description'),
+          href: this.localePath('/services/direction-technique/'),
+        },
+        {
+          name: this.$t('home.services.coaching.title'),
+          icon: 'mdi-account-multiple-check',
+          blurb: this.$t('home.services.coaching.description'),
+          href: this.localePath('/services/coaching-et-formation/'),
+        },
+      ],
+    }
+  },
   head() {
     return {
-      title: this.$t('services.delivery-and-hosting.meta.title'),
+      title: this.$t(`services.${this.i18nSubKey}.meta.title`),
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: this.$t('services.delivery-and-hosting.meta.description'),
+          content: this.$t(`services.${this.i18nSubKey}.meta.description`),
         },
       ],
     }

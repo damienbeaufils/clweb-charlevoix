@@ -120,9 +120,7 @@ export default {
           name: this.$t('home.services.cto.title'),
           icon: 'mdi-directions-fork',
           blurb: this.$t('home.services.cto.description'),
-          href: this.localePath(
-            '/services/directeur-technique-a-temps-partiel/'
-          ),
+          href: this.localePath('/services/direction-technique/'),
         },
         {
           name: this.$t('home.services.coaching.title'),

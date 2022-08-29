@@ -34,6 +34,9 @@
             <base-text>
               <span v-html="$t('home.welcome.description[2]')"></span>
             </base-text>
+            <base-text>
+              <span v-html="$t('home.welcome.description[3]')"></span>
+            </base-text>
             <div class="text-center">
               <base-btn
                 nuxt

@@ -9,7 +9,7 @@ export default {
   components: { DetailedService },
   data() {
     return {
-      i18nSubKey: 'coaching-and-training',
+      i18nSubKey: 'cto',
       otherServices: [
         {
           name: this.$t('home.services.consulting.title'),
@@ -24,10 +24,10 @@ export default {
           href: this.localePath('/services/realisation-et-hebergement/'),
         },
         {
-          name: this.$t('home.services.cto.title'),
-          icon: 'mdi-directions-fork',
-          blurb: this.$t('home.services.cto.description'),
-          href: this.localePath('/services/direction-technique/'),
+          name: this.$t('home.services.coaching.title'),
+          icon: 'mdi-account-multiple-check',
+          blurb: this.$t('home.services.coaching.description'),
+          href: this.localePath('/services/coaching-et-formation/'),
         },
       ],
     }
