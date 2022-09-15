@@ -76,6 +76,19 @@
             ><span v-html="$t('home.contact.form.submit')"></span
           ></base-btn>
         </v-form>
+
+        <base-text class="mt-5"
+          ><span v-html="$t('home.contact.find-us')"></span>
+          <address>2 rue Beauregard, Clermont, QC G4A 0A2</address></base-text
+        >
+        <iframe
+          src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCNsDQVC0fSNhGNPsppuAotr38HuU5Hgqk&q=Conseil Logiciel %26 Web Charlevoix, 2 Rue Beauregard, Clermont, QC G4A 0A2, Canada"
+          frameborder="0"
+          scrolling="no"
+          width="100%"
+          height="300"
+        >
+        </iframe>
       </v-col>
     </v-row>
   </section>
@@ -96,3 +109,11 @@ export default {
   },
 }
 </script>
+
+<style lang="scss" scoped>
+::v-deep address {
+  display: inline !important;
+  font-style: normal;
+  font-weight: 500;
+}
+</style>
