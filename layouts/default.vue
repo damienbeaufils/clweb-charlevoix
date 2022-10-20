@@ -13,12 +13,14 @@
 <script>
 export default {
   head() {
+    const currentRoute = `https://clweb-charlevoix.ca${this.$route.path}`
     let currentLang = 'fr'
     let alternateLang = 'en'
     if (this.$route.fullPath.indexOf('/en/') === 0) {
       currentLang = 'en'
       alternateLang = 'fr'
     }
+
     return {
       htmlAttrs: {
         lang: currentLang,
@@ -26,7 +28,12 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: `https://clweb-charlevoix.ca${this.$route.path}`,
+          href: currentRoute,
+        },
+        {
+          rel: 'alternate',
+          hreflang: currentLang,
+          href: currentRoute,
         },
         {
           rel: 'alternate',
