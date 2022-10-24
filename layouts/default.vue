@@ -13,7 +13,8 @@
 <script>
 export default {
   head() {
-    const currentRoute = `https://clweb-charlevoix.ca${this.$route.path}`
+    const baseUrl = `https://clweb-charlevoix.ca`
+    const currentRoute = `${baseUrl}${this.$route.path}`
     let currentLang = 'fr'
     let alternateLang = 'en'
     if (this.$route.fullPath.indexOf('/en/') === 0) {
@@ -38,10 +39,7 @@ export default {
         {
           rel: 'alternate',
           hreflang: alternateLang,
-          href: `https://clweb-charlevoix.ca${this.localePath(
-            this.$route.path,
-            alternateLang
-          )}`,
+          href: `${baseUrl}${this.localePath(this.$route.path, alternateLang)}`,
         },
       ],
     }
