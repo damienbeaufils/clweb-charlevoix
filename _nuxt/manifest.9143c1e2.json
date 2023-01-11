@@ -1,0 +1,10 @@
+{
+  "name": "Conseil Logiciel & Web Charlevoix",
+  "short_name": "Conseil Logiciel & Web Charlevoix",
+  "description": "Conseil en TI, conception de logiciels, réalisation d'applications web et création de sites internet sur mesure dans Charlevoix (Clermont, La Malbaie)",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "fr"
+}
