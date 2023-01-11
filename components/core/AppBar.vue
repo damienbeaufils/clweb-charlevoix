@@ -24,7 +24,7 @@
       <base-btn nuxt :to="localePath('/#temoignages')" class="mx-3"
         ><span v-html="$t('navbar.testimonials')"></span
       ></base-btn>
-      <base-btn nuxt :to="localePath('/#a-propos')" class="mx-3"
+      <base-btn nuxt :to="localePath('/equipe/')" class="mx-3"
         ><span v-html="$t('navbar.our-team')"></span
       ></base-btn>
       <base-btn nuxt :to="localePath('/#contact')" class="mx-3"
@@ -75,7 +75,7 @@
         </v-list-item>
         <v-list-item>
           <v-list-item-title>
-            <v-btn text nuxt :to="localePath('/#a-propos')"
+            <v-btn text nuxt :to="localePath('/equipe/')"
               ><span v-html="$t('navbar.our-team')"></span
             ></v-btn>
           </v-list-item-title>
