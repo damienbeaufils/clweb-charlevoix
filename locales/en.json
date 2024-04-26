@@ -62,7 +62,7 @@
     "about": {
       "heading": "Why should you work with us?",
       "description": [
-        "We are <b>experts in software development for more than 15 years</b>, and we are committed to designing custom solutions that fit your needs, and where quality is non-negotiable.",
+        "We are <b>experts in software development for more than 16 years</b>, and we are committed to designing custom solutions that fit your needs, and where quality is non-negotiable.",
         "Furthermore, we favour <b>local resources and infrastructures</b> for hosting your softwares, in order to <b>contribute to the Canadian economy</b>.",
         "Working with us also means establishing a <b>trust and co-construction relationship</b> that goes beyond the contractual aspect."
       ],
@@ -70,6 +70,7 @@
     },
     "contact": {
       "heading": "Contact us",
+      "availability": "⚠\uFE0F We are available for 1-day per week mandates starting in July 2024",
       "subheading": "Send us an email directly to our address",
       "subheading2": "Or send us a message through this form",
       "find-us": "Find us at",
@@ -105,7 +106,7 @@
     "heading": "Who am I?",
     "subheading": "Damien Beaufils",
     "paragraph": [
-      "With <b>more than 15 years experience in software development</b>, I became an entrepreneur after spending more than half of my career as an IT consultant for companies in various industries (banking, insurance, energy, utilities, media, sports...) and of various sizes (from small companies to multinationals).",
+      "With <b>more than 16 years experience in software development</b>, I became an entrepreneur after spending more than half of my career as an IT consultant for companies in various industries (banking, insurance, energy, utilities, media, sports...) and of various sizes (from small companies to multinationals).",
       "In my last experience before my entrepreneurial leap, I was <b>CTO</b> of an IT consulting company for more than 3 years, in parallel to my <b>software developer</b> and <b>senior consultant</b> role.",
       "<b>Designing high quality software is my passion, and I like to be proud of the work I do</b>. In addition to my mandates, I spend a lot of time constantly training myself to stay on top of the latest technologies, in order to be able to provide the best solutions to your various problems.",
       "I am an expert in software development quality practices, also called <b>Software Craftsmanship practices</b> (practices such as Clean Code, Refactoring, Test Driven Development...) and <b>I am certified on several technologies as well as on the eco-design of digital services (Green IT)</b>.",
@@ -153,8 +154,8 @@
         {
           "title": "Why work with us?",
           "paragraphs": [
-            "We have more than 15 years of experience in software development, and we are <b>experts in quality development practices</b>, also called Software Craftsmanship practices (practices such as Clean Code, Refactoring, Test Driven Development...). We are also certified in several technologies as well as in the eco-design of digital services (Green IT).",
-            "Over the past 15 years, we have conducted many training sessions for groups of different levels and for companies in various business fields. We adopt a <b>pedagogical approach</b> that allows us to transmit our knowledge simply and efficiently, by <b>adapting our speech to the audience's level</b>.",
+            "We have more than 16 years of experience in software development, and we are <b>experts in quality development practices</b>, also called Software Craftsmanship practices (practices such as Clean Code, Refactoring, Test Driven Development...). We are also certified in several technologies as well as in the eco-design of digital services (Green IT).",
+            "Over the past 16 years, we have conducted many training sessions for groups of different levels and for companies in various business fields. We adopt a <b>pedagogical approach</b> that allows us to transmit our knowledge simply and efficiently, by <b>adapting our speech to the audience's level</b>.",
             "By working with us,<b> you benefit from personalized training and coaching, adapted to your context and your requirements</b>, unlike other more generalist training programs that offer standard but non-personalized content. In addition, <b>we can travel to your office to deliver the training, providing a warm and enjoyable experience compared to 100% virtual training</b>.",
             "In addition to training and coaching, we can also come in for a morning session or for a Lunch &amp; Learn to give <b>awareness presentations</b> on specific topics such as the latest technology or software development practices. <b>These awareness sessions are ideal to \"give the taste\" to your teams to go further on a topic</b>",
             "Feel free to contact us to explain your context and your requirements, and we will be able to make a proposal adapted to your situation and your budget."
@@ -225,7 +226,7 @@
             "By choosing a consulting company such as ours, you are assured of two main elements:"
           ],
           "items": [
-            "The <b>past experiences</b>: to advise well, it is important to have experienced many different issues, in different technological contexts and different business sectors. With more than 15 years of experience, we are confident in our ability to analyze your situation and make appropriate recommendations.",
+            "The <b>past experiences</b>: to advise well, it is important to have experienced many different issues, in different technological contexts and different business sectors. With more than 16 years of experience, we are confident in our ability to analyze your situation and make appropriate recommendations.",
             "The <b>methodology</b>: conducting a consulting mandate is not a simple discussion over a cup of coffee. <b>It involves interviews, workshops, feedback from our observations, and the writing of a report that will be given to you at the end of the mandate</b>. This methodology is one of the success factors of the mandates we perform, and we are proud of the quality of the deliverables we provide."
           ],
           "emphasis": "By working with us, we will conduct a <b>detailed analysis of your needs and your context</b> in order to <b>advise you on your important and strategic decisions</b>."
@@ -361,7 +362,7 @@
         {
           "title": "Why work with us?",
           "paragraphs": [
-            "<b>We have more than 15 years of professional experience in software development and even more in IT in general</b>. We have also worked as CTO for several years, managing budgets, IT resources, choice of providers, internal IT hiring and career growth of IT employees.",
+            "<b>We have more than 16 years of professional experience in software development and even more in IT in general</b>. We have also worked as CTO for several years, managing budgets, IT resources, choice of providers, internal IT hiring and career growth of IT employees.",
             "We have the experience and expertise necessary to execute this type of strategic mandate. You can therefore rely on us to <b>help you make structuring decisions and to support you in your digital transformation</b>.",
             "Our intervention can be occasional or on a regular basis, depending on your needs and your budget. The objective is to maximize the return on investment of each of our interventions."
           ]

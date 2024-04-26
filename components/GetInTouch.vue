@@ -24,8 +24,12 @@
         </base-subheading>
 
         <base-subheading class="mb-5" tag="p">
+          <span class="text-h5" v-html="$t('home.contact.availability')"></span>
+          <!--
           <span v-html="$t('home.contact.subheading2')"></span>
+          -->
         </base-subheading>
+        <!--
         <v-form
           ref="form"
           color="transparent"
@@ -76,7 +80,7 @@
             ><span v-html="$t('home.contact.form.submit')"></span
           ></base-btn>
         </v-form>
-
+        -->
         <base-text class="mt-5"
           ><span v-html="$t('home.contact.find-us')"></span>
           <address>2 rue Beauregard, Clermont, QC G4A 0A2</address></base-text

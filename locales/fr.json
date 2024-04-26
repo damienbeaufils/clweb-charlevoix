@@ -62,7 +62,7 @@
     "about": {
       "heading": "Pourquoi collaborer avec nous ?",
       "description": [
-        "Nous sommes des <b>experts en développement logiciel depuis plus de 15 ans</b>, et nous avons à cœur de concevoir des produits sur mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable.",
+        "Nous sommes des <b>experts en développement logiciel depuis plus de 16 ans</b>, et nous avons à cœur de concevoir des produits sur mesure, qui s’adaptent à vos besoins, et où la qualité est un critère non négociable.",
         "De plus, nous privilégions les <b>outils et infrastructures locales</b> pour l’hébergement de vos produits, afin de <b>contribuer à l’économie québécoise</b>.",
         "Collaborer avec nous, c’est aussi établir une <b>relation de confiance et de co-construction</b> qui va au-delà de l’aspect contractuel."
       ],
@@ -70,6 +70,7 @@
     },
     "contact": {
       "heading": "Contactez-nous",
+      "availability": "⚠\uFE0F Nous sommes disponibles pour des mandats de 1 jour par semaine à partir de juillet 2024",
       "subheading": "Envoyez-nous directement un courriel à notre adresse",
       "subheading2": "Ou bien envoyez-nous un message par ce formulaire",
       "find-us": "Retrouvez nous au",
@@ -105,7 +106,7 @@
     "heading": "Qui suis-je ?",
     "subheading": "Damien Beaufils",
     "paragraph": [
-      "Fort de <b>plus de 15 années d’expérience en développement logiciel</b>, je me suis lancé dans l’entrepreneuriat après avoir passé plus de la moitié de ma carrière en tant que consultant TI dans des compagnies de différents secteurs d’activité (banque, assurance, énergie, service public, médias, sports...) et de différentes tailles (de la petite compagnie à la multinationale).",
+      "Fort de <b>plus de 16 années d’expérience en développement logiciel</b>, je me suis lancé dans l’entrepreneuriat après avoir passé plus de la moitié de ma carrière en tant que consultant TI dans des compagnies de différents secteurs d’activité (banque, assurance, énergie, service public, médias, sports...) et de différentes tailles (de la petite compagnie à la multinationale).",
       "Lors de ma dernière expérience avant mon saut entrepreneurial, j'ai été <b>Directeur Technique</b> d'une compagnie de conseil en TI pendant plus de 3 ans, en parallèle de mon rôle de <b>développeur logiciel</b> et <b>consultant senior</b>.",
       "<b>Concevoir des logiciels de qualité est ma passion, et j'aime être fier du travail réalisé</b>. En plus de mes mandats, je passe beaucoup de temps à me former constamment pour rester à l’état de l’art de la technologie, ceci afin d’être en capacité de fournir les meilleures solutions pour répondre à vos différentes problématiques.",
       "Je suis expert dans les pratiques de qualité des développements, appelées aussi pratiques du mouvement <b><i>Software Craftsmanship</i></b> (des pratiques telles que <i>Clean Code</i>, <i>Refactoring</i>, <i>Test Driven Development</i>...) et <b>je suis certifié sur plusieurs technologies ainsi que sur l'éco-conception de service numérique (Éco-TIC)</b>.",
@@ -153,8 +154,8 @@
         {
           "title": "Pourquoi faire appel &agrave; nous ?",
           "paragraphs": [
-            "Nous avons plus de 15 ann&eacute;es d&rsquo;exp&eacute;rience en d&eacute;veloppement logiciel, et nous sommes <b>experts dans les pratiques de qualit&eacute; des d&eacute;veloppements</b>, appel&eacute;es aussi pratiques du mouvement <i>Software Craftsmanship</i> (des pratiques telles que <i>Clean Code</i>, <i>Refactoring</i>, <i>Test Driven Development</i>...). Nous sommes &eacute;galement certifi&eacute;s sur plusieurs technologies ainsi que sur l'&eacute;co-conception de services num&eacute;riques (&Eacute;co-TIC).",
-            "Durant ces 15 derni&egrave;res ann&eacute;es, nous avons anim&eacute; de nombreuses formations, pour des groupes de tous les niveaux et dans entreprises de divers domaines d&rsquo;activit&eacute;. Nous adoptons une <b>d&eacute;marche p&eacute;dagogique</b> qui nous permet de transmettre notre savoir simplement et efficacement, en <b>adaptant notre discours au niveau de la population cible</b>.",
+            "Nous avons plus de 16 ann&eacute;es d&rsquo;exp&eacute;rience en d&eacute;veloppement logiciel, et nous sommes <b>experts dans les pratiques de qualit&eacute; des d&eacute;veloppements</b>, appel&eacute;es aussi pratiques du mouvement <i>Software Craftsmanship</i> (des pratiques telles que <i>Clean Code</i>, <i>Refactoring</i>, <i>Test Driven Development</i>...). Nous sommes &eacute;galement certifi&eacute;s sur plusieurs technologies ainsi que sur l'&eacute;co-conception de services num&eacute;riques (&Eacute;co-TIC).",
+            "Durant ces 16 derni&egrave;res ann&eacute;es, nous avons anim&eacute; de nombreuses formations, pour des groupes de tous les niveaux et dans entreprises de divers domaines d&rsquo;activit&eacute;. Nous adoptons une <b>d&eacute;marche p&eacute;dagogique</b> qui nous permet de transmettre notre savoir simplement et efficacement, en <b>adaptant notre discours au niveau de la population cible</b>.",
             "En faisant appel &agrave; nous, <b>vous b&eacute;n&eacute;ficiez de formations et d&rsquo;un coaching personnalis&eacute;s, adapt&eacute;s &agrave; votre contexte et vos besoins</b>, contrairement &agrave; d&rsquo;autres formations plus g&eacute;n&eacute;ralistes qui proposent du contenu standard mais non-personnalis&eacute;. De plus, <b>nous pouvons nous d&eacute;placer pour r&eacute;aliser la formation dans vos locaux, afin de fournir une exp&eacute;rience plus chaleureuse et enrichissante compar&eacute; &agrave; du 100% virtuel.</b>",
             "En plus des formations et du coaching, nous pouvons aussi intervenir pour une matin&eacute;e ou pour un <i>Lunch &amp; Learn</i> afin d&rsquo;animer des <b>pr&eacute;sentations de sensibilisation</b> sur des sujets sp&eacute;cifiques tels que les derni&egrave;res nouveaut&eacute;s d'une technologie ou bien sur des pratiques de d&eacute;veloppement logiciel. <b>Ces sensibilisations sont id&eacute;ales pour \"donner le go&ucirc;t\" &agrave; vos &eacute;quipes d'aller plus loin sur un sujet.</b>",
             "N'h&eacute;sitez pas &agrave; nous contacter pour nous pr&eacute;senter votre contexte et votre besoin, et nous pourrons vous faire une proposition adapt&eacute;e &agrave; votre probl&eacute;matique et votre budget."
@@ -225,7 +226,7 @@
             "En faisant appel &agrave; une compagnie de conseil telle que la n&ocirc;tre, vous vous assurez de deux &eacute;l&eacute;ments principaux :"
           ],
           "items": [
-            "L&rsquo;<b>historique des exp&eacute;riences</b> : pour bien conseiller, il est important d&rsquo;avoir v&eacute;cu de nombreuses probl&eacute;matiques diff&eacute;rentes, dans diff&eacute;rents contextes technologiques et dans diff&eacute;rents secteurs d&rsquo;activit&eacute;. Avec plus de 15 ann&eacute;es d&rsquo;exp&eacute;rience, nous sommes sereins dans notre capacit&eacute; &agrave; analyser votre situation et &agrave; vous conseiller des recommandations adapt&eacute;es.",
+            "L&rsquo;<b>historique des exp&eacute;riences</b> : pour bien conseiller, il est important d&rsquo;avoir v&eacute;cu de nombreuses probl&eacute;matiques diff&eacute;rentes, dans diff&eacute;rents contextes technologiques et dans diff&eacute;rents secteurs d&rsquo;activit&eacute;. Avec plus de 16 ann&eacute;es d&rsquo;exp&eacute;rience, nous sommes sereins dans notre capacit&eacute; &agrave; analyser votre situation et &agrave; vous conseiller des recommandations adapt&eacute;es.",
             "La <b>m&eacute;thodologie</b> : r&eacute;aliser un mandat de conseil, ce n&rsquo;est pas une simple discussion autour d&rsquo;un caf&eacute;. <span style=\"text-decoration: underline;\">Cela passe par des entrevues, des ateliers, des restitutions de nos observations, et l&rsquo;&eacute;criture d&rsquo;un dossier qui vous sera remis &agrave; la fin du mandat</span>. Cette m&eacute;thodologie est une des cl&eacute;s du succ&egrave;s des mandats que nous r&eacute;alisons, et nous sommes fiers de la qualit&eacute; des livrables que nous vous remettons."
           ],
           "emphasis": "En faisant appel &agrave; nous, nous r&eacute;aliserons ainsi une <b>analyse pouss&eacute;e de votre besoin et de votre contexte</b> pour vous <b>conseiller dans vos prises de d&eacute;cisions importantes et strat&eacute;giques</b>."
@@ -362,7 +363,7 @@
         {
           "title": "Pourquoi faire appel &agrave; nous ?",
           "paragraphs": [
-            "<b>Nous avons plus de 15 ann&eacute;es d&rsquo;exp&eacute;rience professionnelle dans le d&eacute;veloppement logiciel et encore plus dans les TI de fa&ccedil;on g&eacute;n&eacute;rale</b>. Nous avons &eacute;galement assur&eacute; le poste de Direction Technique pendant plusieurs ann&eacute;es, &agrave; piloter des budgets, des ressources TI, des choix de prestataires, &agrave; g&eacute;rer du recrutement interne en TI ou encore &agrave; g&eacute;rer la progression de carri&egrave;re des collaborateurs TI.",
+            "<b>Nous avons plus de 16 ann&eacute;es d&rsquo;exp&eacute;rience professionnelle dans le d&eacute;veloppement logiciel et encore plus dans les TI de fa&ccedil;on g&eacute;n&eacute;rale</b>. Nous avons &eacute;galement assur&eacute; le poste de Direction Technique pendant plusieurs ann&eacute;es, &agrave; piloter des budgets, des ressources TI, des choix de prestataires, &agrave; g&eacute;rer du recrutement interne en TI ou encore &agrave; g&eacute;rer la progression de carri&egrave;re des collaborateurs TI.",
             "Nous avons l&rsquo;exp&eacute;rience et l&rsquo;expertise n&eacute;cessaire &agrave; la r&eacute;alisation de ce type de mandat strat&eacute;gique. Vous pourrez ainsi vous reposer sur nous pour <b>vous aider &agrave; prendre des d&eacute;cisions structurantes et pour vous accompagner dans votre transformation num&eacute;rique</b>.",
             "Notre intervention peut &ecirc;tre ponctuelle ou r&eacute;guli&egrave;re, en fonction de vos besoins et de votre budget. L&rsquo;objectif est de maximiser le retour sur investissement de chacune de nos interventions."
           ]
