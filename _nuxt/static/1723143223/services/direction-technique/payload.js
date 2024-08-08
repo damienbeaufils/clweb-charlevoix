@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/services/direction-technique", {data:[{}],fetch:{},mutations:void 0});
